@@ -69,13 +69,24 @@ export default function HomePage() {
           <p className="text-sm md:text-base text-muted leading-relaxed max-w-lg mx-auto mb-8">
             文法・語彙・リスニングの練習問題で、目標スコアを効率的に達成しよう。
           </p>
-          <div className="flex justify-center gap-4">
+          <div className="flex justify-center gap-3 flex-wrap">
             <Link
               href="/quiz"
-              className="inline-flex items-center gap-2 bg-primary text-white text-sm font-semibold px-6 py-2.5 rounded-lg hover:bg-primary-dark transition-colors shadow-sm"
+              className="inline-flex items-center gap-2 bg-primary text-white text-sm font-semibold px-5 py-2.5 rounded-lg hover:bg-primary-dark transition-colors shadow-sm"
             >
-              学習を始める
-              <span aria-hidden="true">&rarr;</span>
+              📝 模擬問題
+            </Link>
+            <Link
+              href="/vocabulary"
+              className="inline-flex items-center gap-2 bg-surface text-foreground text-sm font-semibold px-5 py-2.5 rounded-lg border border-border/60 hover:border-primary/40 hover:text-primary transition-colors"
+            >
+              📚 単語帳
+            </Link>
+            <Link
+              href="/listening"
+              className="inline-flex items-center gap-2 bg-surface text-foreground text-sm font-semibold px-5 py-2.5 rounded-lg border border-border/60 hover:border-primary/40 hover:text-primary transition-colors"
+            >
+              🎧 リスニング
             </Link>
           </div>
         </div>
