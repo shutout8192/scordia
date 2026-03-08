@@ -1,0 +1,1056 @@
+{
+  "category": "part3",
+  "categoryLabel": "Part 3: 会話問題",
+  "questions": [
+    {
+      "id": "lp3_001",
+      "audioFile": null,
+      "transcript": "Woman: Excuse me, do you know where the conference room is?\nMan: Yes, it's on the third floor. Take the elevator and turn left.\nWoman: Thank you. Is the meeting starting soon?\nMan: Yes, it begins in about ten minutes.",
+      "choices": [
+        { "label": "A", "text": "On the first floor" },
+        { "label": "B", "text": "On the second floor" },
+        { "label": "C", "text": "On the third floor" },
+        { "label": "D", "text": "On the fourth floor" }
+      ],
+      "answer": "C",
+      "explanation": "質問：会議室はどこにありますか？ 男性が「3階です」と答えているので、Cが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_002",
+      "audioFile": null,
+      "transcript": "Man: I'd like to book a table for four tonight.\nWoman: I'm sorry, but we're fully booked tonight. How about tomorrow evening?\nMan: That works. What time is available?\nWoman: We have an opening at seven thirty.",
+      "choices": [
+        { "label": "A", "text": "The restaurant is closed tonight." },
+        { "label": "B", "text": "There are no tables available tonight." },
+        { "label": "C", "text": "The man wants a table for two." },
+        { "label": "D", "text": "Tomorrow evening is also fully booked." }
+      ],
+      "answer": "B",
+      "explanation": "質問：会話から何がわかりますか？ 女性が「今晩は満席です」と言っているので、Bが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_003",
+      "audioFile": null,
+      "transcript": "Woman: Have you finished reviewing the budget proposal?\nMan: Not yet. I need a few more days.\nWoman: The deadline is Friday. Can you have it done by then?\nMan: I'll make sure it's ready by Thursday.",
+      "choices": [
+        { "label": "A", "text": "By Wednesday" },
+        { "label": "B", "text": "By Thursday" },
+        { "label": "C", "text": "By Friday" },
+        { "label": "D", "text": "By next week" }
+      ],
+      "answer": "B",
+      "explanation": "質問：男性はいつまでにレビューを終える予定ですか？ 「木曜日までに準備します」と答えているので、Bが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_004",
+      "audioFile": null,
+      "transcript": "Man: The printer on the second floor isn't working again.\nWoman: Did you contact the IT department?\nMan: Yes, they said they'd send someone this afternoon.\nWoman: In the meantime, you can use the one on the fourth floor.",
+      "choices": [
+        { "label": "A", "text": "Buy a new printer" },
+        { "label": "B", "text": "Use a printer on a different floor" },
+        { "label": "C", "text": "Wait until tomorrow" },
+        { "label": "D", "text": "Fix the printer himself" }
+      ],
+      "answer": "B",
+      "explanation": "質問：女性は男性に何を提案していますか？ 「4階のプリンターを使ってください」と言っているので、Bが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_005",
+      "audioFile": null,
+      "transcript": "Woman: I heard the company is opening a new branch in Osaka.\nMan: That's right. They're planning to open it in September.\nWoman: Will they be hiring new employees for it?\nMan: Yes, they're looking for about twenty people.",
+      "choices": [
+        { "label": "A", "text": "About ten" },
+        { "label": "B", "text": "About fifteen" },
+        { "label": "C", "text": "About twenty" },
+        { "label": "D", "text": "About thirty" }
+      ],
+      "answer": "C",
+      "explanation": "質問：新支店では何人くらい採用する予定ですか？ 「約20人を探している」と答えているので、Cが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_006",
+      "audioFile": null,
+      "transcript": "Man: Could you send me the updated project timeline by the end of the day?\nWoman: Sure, but I'm still waiting for the design team's estimates.\nMan: Can you follow up with them? We need it for tomorrow's client meeting.\nWoman: I'll call them right now and get back to you within the hour.",
+      "choices": [
+        { "label": "A", "text": "She will cancel the client meeting." },
+        { "label": "B", "text": "She will contact the design team." },
+        { "label": "C", "text": "She will create the estimates herself." },
+        { "label": "D", "text": "She will postpone the project." }
+      ],
+      "answer": "B",
+      "explanation": "質問：女性はこの後何をしますか？ 「今すぐデザインチームに電話します」と言っているので、Bが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_007",
+      "audioFile": null,
+      "transcript": "Woman: Excuse me, I'm checking in for the nine o'clock flight to Singapore.\nMan: I'm sorry, but that flight has been delayed by two hours due to weather conditions.\nWoman: Oh no. Is there an earlier connection I could take?\nMan: Unfortunately, that's the only direct flight today. But I can offer you a voucher for the airport lounge while you wait.",
+      "choices": [
+        { "label": "A", "text": "The flight was cancelled." },
+        { "label": "B", "text": "The woman will take a connecting flight." },
+        { "label": "C", "text": "The flight is delayed because of weather." },
+        { "label": "D", "text": "The woman decided not to fly today." }
+      ],
+      "answer": "C",
+      "explanation": "質問：フライトについて何がわかりますか？ 男性が「天候のため2時間遅延しています」と説明しているので、Cが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_008",
+      "audioFile": null,
+      "transcript": "Man: I think we should switch to a different supplier for the office furniture. The current one keeps missing delivery dates.\nWoman: I agree. Actually, I've already gotten quotes from two other companies.\nMan: Great. How do they compare in terms of pricing?\nWoman: One is about the same, but the other is fifteen percent cheaper with faster delivery times.",
+      "choices": [
+        { "label": "A", "text": "The current supplier offers the lowest prices." },
+        { "label": "B", "text": "One alternative supplier is cheaper and faster." },
+        { "label": "C", "text": "Both new suppliers are more expensive." },
+        { "label": "D", "text": "The man has already contacted new suppliers." }
+      ],
+      "answer": "B",
+      "explanation": "質問：代替のサプライヤーについて何がわかりますか？ 女性が「もう一社は15%安く、納品も早い」と言っているので、Bが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_009",
+      "audioFile": null,
+      "transcript": "Woman: Thank you for calling Greenfield Tech support. How can I help you?\nMan: I purchased a laptop last week, and the battery drains completely in about three hours.\nWoman: That does sound unusual. Have you tried updating the power management software?\nMan: Yes, I did, but it didn't help.\nWoman: In that case, I'd recommend bringing it to our service center. We can run a full diagnostic at no charge since it's under warranty.",
+      "choices": [
+        { "label": "A", "text": "Update the software again" },
+        { "label": "B", "text": "Return the laptop for a refund" },
+        { "label": "C", "text": "Bring it to the service center for a diagnostic" },
+        { "label": "D", "text": "Purchase a replacement battery" }
+      ],
+      "answer": "C",
+      "explanation": "質問：女性は男性に何をするよう勧めていますか？ 「サービスセンターに持ち込んで無料の診断を受けてください」と言っているので、Cが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_010",
+      "audioFile": null,
+      "transcript": "Man: Have you had a chance to look at the proposed layout for the new office space?\nWoman: Yes. I like the open floor plan, but I'm concerned there aren't enough meeting rooms.\nMan: That's a fair point. The architects said they could convert the storage area on the east side into two small conference rooms.\nWoman: That would work. But we'd need to find alternative storage, and the renovation budget is already tight.\nMan: True. Let me talk to finance about whether we can reallocate some funds from the equipment budget.",
+      "choices": [
+        { "label": "A", "text": "There is plenty of budget remaining." },
+        { "label": "B", "text": "The woman is satisfied with the number of meeting rooms." },
+        { "label": "C", "text": "Additional conference rooms may require budget reallocation." },
+        { "label": "D", "text": "The architects rejected the idea of adding rooms." }
+      ],
+      "answer": "C",
+      "explanation": "質問：会議室の追加について何が問題になっていますか？ 改装予算が厳しいため、男性が設備予算から再配分できるか財務部に相談すると言っており、予算の再配分が必要になる可能性があるので、Cが正解。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp3_011",
+      "audioFile": null,
+      "transcript": "Woman: How is the new employee training program going?\nMan: We've completed the first two modules, but attendance has been lower than expected.\nWoman: That's concerning. Do you know why people are missing the sessions?\nMan: Some managers have been scheduling team meetings at the same time. I think we need to send a company-wide memo about the training priority.\nWoman: Good idea. I'll draft one and have HR send it out by tomorrow.",
+      "choices": [
+        { "label": "A", "text": "The training content is too difficult for new employees." },
+        { "label": "B", "text": "Scheduling conflicts with team meetings are reducing attendance." },
+        { "label": "C", "text": "The training program has been cancelled due to budget cuts." },
+        { "label": "D", "text": "New employees are refusing to attend the sessions." }
+      ],
+      "answer": "B",
+      "explanation": "質問：研修プログラムの問題は何ですか？ 男性が「一部のマネージャーが同じ時間にチームミーティングを入れている」と説明しているので、スケジュールの競合が出席率低下の原因であるBが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_012",
+      "audioFile": null,
+      "transcript": "Man: I've been going over the quarterly budget review, and our marketing spend is twenty percent over the projected amount.\nWoman: That's mainly because of the unplanned social media campaign we ran in January.\nMan: I understand, but we need to find ways to cut costs for the rest of the quarter.\nWoman: We could reduce the print advertising budget. Most of our leads are coming through digital channels anyway.\nMan: That makes sense. Can you prepare a revised budget proposal by Friday?",
+      "choices": [
+        { "label": "A", "text": "Increase the overall marketing budget" },
+        { "label": "B", "text": "Cancel all advertising immediately" },
+        { "label": "C", "text": "Reduce the print advertising budget" },
+        { "label": "D", "text": "Hire more marketing staff" }
+      ],
+      "answer": "C",
+      "explanation": "質問：女性はコスト削減のために何を提案していますか？ 「印刷広告の予算を削減できる」と提案しているので、Cが正解。デジタルチャネルからのリード獲得が多いことを根拠にしています。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_013",
+      "audioFile": null,
+      "transcript": "Woman: The product launch for the new smartwatch is scheduled for April fifteenth. Are we on track?\nMan: The hardware is ready, but the companion app still has some bugs that need to be fixed.\nWoman: How long will that take?\nMan: The development team estimates about two more weeks.\nWoman: That's cutting it close. Let's bring in two additional developers to make sure we don't miss the deadline.",
+      "choices": [
+        { "label": "A", "text": "The hardware has major design flaws." },
+        { "label": "B", "text": "The companion app still needs bug fixes." },
+        { "label": "C", "text": "The launch date has been moved to May." },
+        { "label": "D", "text": "The marketing materials are not ready." }
+      ],
+      "answer": "B",
+      "explanation": "質問：新製品発売の主な課題は何ですか？ 男性が「コンパニオンアプリにまだ修正すべきバグがある」と述べているので、Bが正解。ハードウェアは準備できていると明言されています。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_014",
+      "audioFile": null,
+      "transcript": "Man: We've narrowed the candidates for the senior analyst position down to three. Each one has strong qualifications.\nWoman: What's the timeline for making a final decision?\nMan: We'd like to have someone on board by the beginning of March.\nWoman: That's tight. I'd suggest scheduling the final interviews for next week and making an offer by the following Monday.\nMan: Agreed. Also, can you check the salary range with finance? We need to make a competitive offer to attract the best candidate.",
+      "choices": [
+        { "label": "A", "text": "The position has already been filled." },
+        { "label": "B", "text": "Only one candidate applied for the role." },
+        { "label": "C", "text": "They want to have someone hired by early March." },
+        { "label": "D", "text": "The salary has already been finalized." }
+      ],
+      "answer": "C",
+      "explanation": "質問：採用のスケジュールについて何がわかりますか？ 男性が「3月初めまでに入社してほしい」と述べているので、Cが正解。給与についてはまだ財務部に確認が必要な状態です。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp3_015",
+      "audioFile": null,
+      "transcript": "Woman: I've reviewed the proposals from the three vendors for our IT infrastructure upgrade. \nMan: How do they compare?\nWoman: Vendor A has the lowest price, but their service level agreement is weaker than the others. Vendor B offers the best support package, though they're about fifteen percent more expensive.\nMan: What about Vendor C?\nWoman: They're in the middle on price and offer a two-year warranty, which the others don't include.\nMan: I think we should go with Vendor C. The warranty alone could save us a lot in maintenance costs.",
+      "choices": [
+        { "label": "A", "text": "Vendor A, because it has the lowest price" },
+        { "label": "B", "text": "Vendor B, because it has the best support" },
+        { "label": "C", "text": "Vendor C, because of the warranty and reasonable price" },
+        { "label": "D", "text": "None of the vendors, because they want more proposals" }
+      ],
+      "answer": "C",
+      "explanation": "質問：男性はどのベンダーを選ぶべきだと考えていますか？ 男性が「Vendor Cにすべきだ。保証だけでもメンテナンスコストの大幅な節約になる」と述べているので、Cが正解。価格が中間で2年保証が付く点が決め手です。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp3_016",
+      "audioFile": null,
+      "transcript": "Woman: Have you seen the quarterly sales report?\nMan: Yes, I reviewed it this morning.\nWoman: What did you think of the sales figures?\nMan: They exceeded our expectations by fifteen percent.",
+      "choices": [
+        { "label": "A", "text": "Sales were lower than expected." },
+        { "label": "B", "text": "Sales exceeded expectations by 15%." },
+        { "label": "C", "text": "The report hasn't been reviewed yet." },
+        { "label": "D", "text": "Sales met expectations exactly." }
+      ],
+      "answer": "B",
+      "explanation": "質問：売上についてどうでしたか？ 男性が「予想を15%上回った」と述べているので、Bが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_017",
+      "audioFile": null,
+      "transcript": "Man: Excuse me, I'd like to check in. I have a reservation under the name Thompson.\nWoman: Let me look that up. Yes, Mr. Thompson, you're in room four twelve.\nMan: Is breakfast included?\nWoman: Yes, it's served in the restaurant on the first floor from six thirty to nine thirty.",
+      "choices": [
+        { "label": "A", "text": "Room 214" },
+        { "label": "B", "text": "Room 412" },
+        { "label": "C", "text": "Room 312" },
+        { "label": "D", "text": "Room 142" }
+      ],
+      "answer": "B",
+      "explanation": "質問：男性の部屋番号は何番ですか？ 女性が「412号室です」と言っているので、Bが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_018",
+      "audioFile": null,
+      "transcript": "Woman: I'm thinking of taking the train to the conference instead of driving.\nMan: That's a good idea. Parking downtown is really expensive.\nWoman: How long does the train take from Central Station?\nMan: About forty-five minutes, and the convention center is right next to the station.",
+      "choices": [
+        { "label": "A", "text": "Driving is cheaper than taking the train." },
+        { "label": "B", "text": "The conference is far from the train station." },
+        { "label": "C", "text": "Parking downtown is expensive." },
+        { "label": "D", "text": "The train ride takes over two hours." }
+      ],
+      "answer": "C",
+      "explanation": "質問：男性が電車に賛成する理由は何ですか？ 「ダウンタウンの駐車料金は本当に高い」と述べているので、Cが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_019",
+      "audioFile": null,
+      "transcript": "Man: Could you help me pick out a gift for my colleague's retirement party?\nWoman: Of course. What's your budget?\nMan: I'd like to spend around fifty dollars.\nWoman: We have some nice desk accessories and personalized pens in that range.\nMan: The personalized pen sounds perfect. She loves writing.",
+      "choices": [
+        { "label": "A", "text": "A desk lamp" },
+        { "label": "B", "text": "A personalized pen" },
+        { "label": "C", "text": "A gift card" },
+        { "label": "D", "text": "A desk accessory set" }
+      ],
+      "answer": "B",
+      "explanation": "質問：男性は何を購入することに決めましたか？ 男性が「名入れペンが完璧だ」と言っているので、Bが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_020",
+      "audioFile": null,
+      "transcript": "Woman: I just received a complaint from a customer about a defective product.\nMan: What exactly is the issue?\nWoman: The zipper on the jacket broke after only one use.\nMan: That sounds like a manufacturing defect. Let's offer a full replacement and a ten-percent discount on their next purchase.",
+      "choices": [
+        { "label": "A", "text": "A refund only" },
+        { "label": "B", "text": "A replacement and a discount on the next purchase" },
+        { "label": "C", "text": "An apology letter" },
+        { "label": "D", "text": "A repair of the defective product" }
+      ],
+      "answer": "B",
+      "explanation": "質問：男性はどのような対応を提案していますか？ 「全交換と次回購入時の10%割引を提供しよう」と言っているので、Bが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_021",
+      "audioFile": null,
+      "transcript": "Man: The marketing campaign for the new product line is launching next week.\nWoman: Have we finalized the social media strategy?\nMan: Yes, we're focusing on short video content for the first two weeks.\nWoman: Good. What about the influencer partnerships?\nMan: We've secured three influencers with a combined following of two million.",
+      "choices": [
+        { "label": "A", "text": "Print advertising" },
+        { "label": "B", "text": "Television commercials" },
+        { "label": "C", "text": "Short video content on social media" },
+        { "label": "D", "text": "Radio advertisements" }
+      ],
+      "answer": "C",
+      "explanation": "質問：マーケティングキャンペーンの主な戦略は何ですか？ 男性が「最初の2週間はショート動画コンテンツに注力する」と述べているので、Cが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_022",
+      "audioFile": null,
+      "transcript": "Woman: I need to book a flight to Chicago for the trade show next month.\nMan: When do you need to arrive?\nWoman: The show starts on Wednesday, so I should get there by Tuesday evening.\nMan: There's a direct flight that arrives at five thirty on Tuesday. Shall I book that one?\nWoman: That works. And could you also reserve a hotel near the convention center?",
+      "choices": [
+        { "label": "A", "text": "Monday morning" },
+        { "label": "B", "text": "Tuesday evening" },
+        { "label": "C", "text": "Wednesday morning" },
+        { "label": "D", "text": "Thursday afternoon" }
+      ],
+      "answer": "B",
+      "explanation": "質問：女性はいつまでにシカゴに到着する必要がありますか？ 「火曜の夕方までに着くべき」と述べているので、Bが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_023",
+      "audioFile": null,
+      "transcript": "Man: I've been looking at our energy bills, and they've increased by twenty percent over the last quarter.\nWoman: That's significant. Do you know what's causing it?\nMan: I think it's partly because we started running the warehouse lights twenty-four hours a day.\nWoman: We should install motion-activated lighting in the warehouse. That could cut costs considerably.",
+      "choices": [
+        { "label": "A", "text": "Hire more warehouse staff" },
+        { "label": "B", "text": "Reduce warehouse operating hours" },
+        { "label": "C", "text": "Install motion-activated lighting" },
+        { "label": "D", "text": "Switch to a different energy provider" }
+      ],
+      "answer": "C",
+      "explanation": "質問：女性はエネルギーコスト削減のために何を提案していますか？ 「倉庫にモーションセンサー付き照明を設置すべき」と述べているので、Cが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_024",
+      "audioFile": null,
+      "transcript": "Woman: The client wants to move the project deadline up by two weeks.\nMan: That's going to be really tight. We haven't even finished the design phase.\nWoman: I know. Should we bring in additional designers from the other team?\nMan: That might work, but we'd need to get approval from their project manager first.\nWoman: I'll reach out to her right after this meeting.",
+      "choices": [
+        { "label": "A", "text": "Cancel the project entirely" },
+        { "label": "B", "text": "Ask the client to extend the deadline" },
+        { "label": "C", "text": "Bring in additional designers from another team" },
+        { "label": "D", "text": "Reduce the project scope" }
+      ],
+      "answer": "C",
+      "explanation": "質問：締め切り前倒しに対処するために何が提案されていますか？ 女性が「他チームから追加のデザイナーを借りるべきか」と提案し、男性も条件付きで同意しているので、Cが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_025",
+      "audioFile": null,
+      "transcript": "Man: Good morning. I'd like to open a savings account.\nWoman: Certainly. Do you have a preference for a fixed-rate or a variable-rate account?\nMan: What's the current interest rate on the fixed-rate account?\nWoman: It's two point five percent for a twelve-month term.\nMan: That sounds reasonable. I'll go with the fixed-rate option.",
+      "choices": [
+        { "label": "A", "text": "A checking account" },
+        { "label": "B", "text": "A variable-rate savings account" },
+        { "label": "C", "text": "A fixed-rate savings account" },
+        { "label": "D", "text": "A money market account" }
+      ],
+      "answer": "C",
+      "explanation": "質問：男性はどのタイプの口座を開設することにしましたか？ 「固定金利にします」と述べているので、Cが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_026",
+      "audioFile": null,
+      "transcript": "Woman: Dr. Patel, I've been having headaches almost every day for the past two weeks.\nMan: I see. Have you been under more stress than usual at work?\nWoman: Actually, yes. We've had several major deadlines recently.\nMan: That could be a contributing factor. I'd recommend taking regular breaks and staying hydrated. If it continues after a week, we should run some tests.",
+      "choices": [
+        { "label": "A", "text": "She should take medication immediately." },
+        { "label": "B", "text": "She should take breaks and stay hydrated." },
+        { "label": "C", "text": "She needs surgery." },
+        { "label": "D", "text": "She should quit her job." }
+      ],
+      "answer": "B",
+      "explanation": "質問：医師は女性にまず何を勧めていますか？ 「定期的に休憩を取り、水分を摂るように」と勧めているので、Bが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_027",
+      "audioFile": null,
+      "transcript": "Man: We need to finalize the seating arrangement for the annual awards dinner.\nWoman: How many tables do we have?\nMan: Twenty round tables, each seating eight guests.\nWoman: So that's a hundred and sixty seats total. How many RSVPs have we received?\nMan: A hundred and forty-two so far, with about ten more expected.",
+      "choices": [
+        { "label": "A", "text": "About 100" },
+        { "label": "B", "text": "About 120" },
+        { "label": "C", "text": "About 150" },
+        { "label": "D", "text": "About 160" }
+      ],
+      "answer": "C",
+      "explanation": "質問：予想される最終出席者数はおよそ何人ですか？ 142人の返信に加え約10人が追加見込みなので、合計約152人、最も近いのはCの約150人。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_028",
+      "audioFile": null,
+      "transcript": "Woman: The company's new remote work policy starts next month.\nMan: I heard employees can work from home up to three days a week.\nWoman: That's right. But team meetings on Tuesdays and Thursdays are mandatory in-person.\nMan: That makes sense. It'll be nice to have more flexibility.\nWoman: Yes, and the company is providing a stipend for home office equipment too.",
+      "choices": [
+        { "label": "A", "text": "Employees must work in the office every day." },
+        { "label": "B", "text": "Remote work is allowed up to three days per week." },
+        { "label": "C", "text": "All meetings will be conducted online." },
+        { "label": "D", "text": "The policy has been in effect for six months." }
+      ],
+      "answer": "B",
+      "explanation": "質問：新しいリモートワーク方針について正しいのはどれですか？ 男性が「週3日まで在宅勤務可能」と述べ、女性が確認しているので、Bが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_029",
+      "audioFile": null,
+      "transcript": "Man: I'm looking for a new apartment closer to the office.\nWoman: Have you tried the listings on the company bulletin board? A few employees posted openings.\nMan: No, I haven't. That's a good idea.\nWoman: Also, there's a new apartment complex on Elm Street that just opened. It's only a ten-minute walk from here.\nMan: I'll check both of those out this weekend.",
+      "choices": [
+        { "label": "A", "text": "Check listings online only" },
+        { "label": "B", "text": "Check the company bulletin board and a new apartment complex" },
+        { "label": "C", "text": "Contact a real estate agent" },
+        { "label": "D", "text": "Ask his manager for housing assistance" }
+      ],
+      "answer": "B",
+      "explanation": "質問：男性は週末に何をする予定ですか？ 「両方チェックする」と言っており、会社の掲示板とエルム通りの新築マンションの2つを指しているので、Bが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_030",
+      "audioFile": null,
+      "transcript": "Woman: The shipment from our supplier in Vietnam was supposed to arrive yesterday.\nMan: Let me check the tracking information. It looks like it's stuck at customs.\nWoman: How long will that take to clear?\nMan: Usually two to three business days. But I can call our customs broker to try to expedite it.\nWoman: Please do. We need those components for the production run on Monday.",
+      "choices": [
+        { "label": "A", "text": "It was delivered on time." },
+        { "label": "B", "text": "It is delayed at customs." },
+        { "label": "C", "text": "It was sent to the wrong address." },
+        { "label": "D", "text": "It was cancelled by the supplier." }
+      ],
+      "answer": "B",
+      "explanation": "質問：出荷品の状況はどうですか？ 男性が「税関で止まっている」と述べているので、Bが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_031",
+      "audioFile": null,
+      "transcript": "Man: We're running low on paper for the color printer.\nWoman: Didn't we just order a large batch last month?\nMan: We did, but the marketing team used most of it for the product brochures.\nWoman: I see. We should set up a separate paper budget for large print jobs.\nMan: That's a good idea. I'll bring it up at the next operations meeting.",
+      "choices": [
+        { "label": "A", "text": "The paper was defective." },
+        { "label": "B", "text": "The marketing team used most of the paper for brochures." },
+        { "label": "C", "text": "The order was never placed." },
+        { "label": "D", "text": "The printer is broken." }
+      ],
+      "answer": "B",
+      "explanation": "質問：なぜ用紙が不足しているのですか？ 男性が「マーケティングチームが製品パンフレットにほとんど使った」と説明しているので、Bが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_032",
+      "audioFile": null,
+      "transcript": "Woman: I just heard that the Osaka branch manager is retiring next month.\nMan: Really? Mr. Tanaka has been with the company for over thirty years.\nWoman: Yes, they're looking for someone to replace him. Are you interested?\nMan: I'd definitely consider it, but my family is settled here in Tokyo.\nWoman: I understand. They might also consider candidates who would be willing to commute.",
+      "choices": [
+        { "label": "A", "text": "He immediately accepted the position." },
+        { "label": "B", "text": "He is interested but concerned about relocating his family." },
+        { "label": "C", "text": "He has no interest in the position." },
+        { "label": "D", "text": "He plans to retire soon as well." }
+      ],
+      "answer": "B",
+      "explanation": "質問：大阪支店長のポジションについて男性はどう反応していますか？ 「検討はするが、家族が東京に定住している」と述べているので、興味はあるが転居に懸念があるBが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_033",
+      "audioFile": null,
+      "transcript": "Man: Good afternoon. I'm here to pick up my prescription.\nWoman: Sure. What's the name?\nMan: Robert Chen.\nWoman: Let me check. Mr. Chen, your insurance doesn't cover this particular medication. The cost without insurance is eighty-five dollars.\nMan: That's quite expensive. Is there a generic alternative?",
+      "choices": [
+        { "label": "A", "text": "His insurance covers the medication fully." },
+        { "label": "B", "text": "The medication costs $85 without insurance." },
+        { "label": "C", "text": "He decides to pay the full price." },
+        { "label": "D", "text": "The pharmacy is out of the medication." }
+      ],
+      "answer": "B",
+      "explanation": "質問：男性の処方薬について何がわかりますか？ 女性が「保険が適用されず、自費で85ドル」と説明しているので、Bが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_034",
+      "audioFile": null,
+      "transcript": "Woman: The new employee parking system starts on Monday. Have you registered your vehicle?\nMan: Not yet. Where do I do that?\nWoman: You can register online through the facilities portal, or you can go to the security office on the ground floor.\nMan: I'll do it online. Do I need anything besides my license plate number?\nWoman: You'll also need your employee ID number and the make and model of your car.",
+      "choices": [
+        { "label": "A", "text": "License plate number only" },
+        { "label": "B", "text": "License plate number, employee ID, and car make and model" },
+        { "label": "C", "text": "Driver's license and insurance card" },
+        { "label": "D", "text": "Vehicle registration certificate" }
+      ],
+      "answer": "B",
+      "explanation": "質問：オンライン登録に必要な情報は何ですか？ 女性が「ナンバープレート、社員ID、車のメーカーとモデル」と述べているので、Bが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_035",
+      "audioFile": null,
+      "transcript": "Man: I'd like to return this shirt I bought last week. It didn't fit properly.\nWoman: Do you have the receipt?\nMan: Yes, here it is.\nWoman: I see. Unfortunately, this item was purchased during our clearance sale, so we can only offer store credit.\nMan: That's fine. Can I use the store credit today?",
+      "choices": [
+        { "label": "A", "text": "A full cash refund" },
+        { "label": "B", "text": "An exchange for a different size" },
+        { "label": "C", "text": "Store credit" },
+        { "label": "D", "text": "A discount on the next purchase" }
+      ],
+      "answer": "C",
+      "explanation": "質問：返品に対してどのような対応が提示されましたか？ 女性が「クリアランスセール品のため店舗クレジットのみ」と述べているので、Cが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_036",
+      "audioFile": null,
+      "transcript": "Woman: We need to decide on a venue for the company's anniversary celebration.\nMan: What are our options?\nWoman: We have three choices: the Grand Ballroom downtown, the Garden Terrace Hotel, or the Riverside Event Center.\nMan: How many people are we expecting?\nWoman: About two hundred and fifty.\nMan: The Riverside Event Center can hold up to three hundred and has great outdoor space. I think that's the best option.",
+      "choices": [
+        { "label": "A", "text": "The Grand Ballroom" },
+        { "label": "B", "text": "The Garden Terrace Hotel" },
+        { "label": "C", "text": "The Riverside Event Center" },
+        { "label": "D", "text": "The company cafeteria" }
+      ],
+      "answer": "C",
+      "explanation": "質問：男性はどの会場がベストだと考えていますか？ 「リバーサイドイベントセンターは300人収容でき、屋外スペースも素晴らしい」と推しているので、Cが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_037",
+      "audioFile": null,
+      "transcript": "Man: I just got off the phone with the Berlin office. They want to move the product launch to three weeks earlier.\nWoman: That's a major change. Have they discussed it with the supply chain team?\nMan: Not yet. They said the market conditions are favorable and they don't want to miss the window.\nWoman: I understand the urgency, but we need to make sure production can keep up.\nMan: Agreed. Let's set up a call with both teams for tomorrow morning.",
+      "choices": [
+        { "label": "A", "text": "Cancel the product launch" },
+        { "label": "B", "text": "Arrange a meeting with both the Berlin office and supply chain team" },
+        { "label": "C", "text": "Proceed with the original launch date" },
+        { "label": "D", "text": "Fly to Berlin to discuss in person" }
+      ],
+      "answer": "B",
+      "explanation": "質問：話し合いの結果、次のステップとして何をすることにしましたか？ 男性が「明日の朝、両チームとの電話会議を設定しよう」と提案しているので、Bが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_038",
+      "audioFile": null,
+      "transcript": "Woman: Excuse me, I ordered a salad, but this appears to be a pasta dish.\nMan: I'm terribly sorry about that. Let me take this back and bring you the correct order right away.\nWoman: Thank you. Also, could I get some extra dressing on the side?\nMan: Of course. Would you like our house vinaigrette or ranch dressing?\nWoman: The vinaigrette, please.",
+      "choices": [
+        { "label": "A", "text": "She received the wrong order." },
+        { "label": "B", "text": "The food was cold." },
+        { "label": "C", "text": "She wanted to change her order." },
+        { "label": "D", "text": "The restaurant was closing." }
+      ],
+      "answer": "A",
+      "explanation": "質問：女性が店員を呼んだ理由は何ですか？ 「サラダを注文したのにパスタが来た」と述べているので、注文間違いのAが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_039",
+      "audioFile": null,
+      "transcript": "Man: Our website traffic has dropped by thirty percent over the last month.\nWoman: That's concerning. Have we checked if there are any technical issues?\nMan: Yes, the development team confirmed the site is working fine. I think it's related to the search engine algorithm changes.\nWoman: In that case, we should update our SEO strategy. Let me schedule a meeting with the digital marketing team.\nMan: Good idea. We should also review our content calendar to make sure we're publishing regularly.",
+      "choices": [
+        { "label": "A", "text": "The website has technical problems." },
+        { "label": "B", "text": "Search engine algorithm changes may have caused the drop." },
+        { "label": "C", "text": "Competitors launched better websites." },
+        { "label": "D", "text": "The company stopped advertising." }
+      ],
+      "answer": "B",
+      "explanation": "質問：ウェブサイトのトラフィック減少の原因として何が考えられていますか？ 男性が「検索エンジンのアルゴリズム変更に関連していると思う」と述べているので、Bが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_040",
+      "audioFile": null,
+      "transcript": "Woman: I'm interested in signing up for the advanced Excel workshop.\nMan: Sure. That workshop is scheduled for next Friday from ten to four.\nWoman: Is there a fee?\nMan: It's fifty dollars for non-members, but since you're a member, it's free.\nWoman: Great. I'd also like to bring a colleague. She's not a member though.",
+      "choices": [
+        { "label": "A", "text": "$25" },
+        { "label": "B", "text": "$50" },
+        { "label": "C", "text": "$75" },
+        { "label": "D", "text": "Free of charge" }
+      ],
+      "answer": "B",
+      "explanation": "質問：女性の同僚はワークショップにいくら払う必要がありますか？ 非会員は50ドルで、同僚は会員ではないので、Bが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_041",
+      "audioFile": null,
+      "transcript": "Man: The air conditioning system in the east wing broke down this morning.\nWoman: That's the third time this year. I think it's time to replace the entire unit.\nMan: I agree, but the replacement cost is estimated at around twenty thousand dollars.\nWoman: Let's get a second quote. And in the meantime, can we set up portable fans for the staff?\nMan: I'll arrange that right away.",
+      "choices": [
+        { "label": "A", "text": "Replace the unit immediately" },
+        { "label": "B", "text": "Get a second quote and set up portable fans" },
+        { "label": "C", "text": "Close the east wing" },
+        { "label": "D", "text": "Repair the existing unit" }
+      ],
+      "answer": "B",
+      "explanation": "質問：当面の対応策として何が決まりましたか？ 女性が「もう一つ見積もりを取り、当面は扇風機を設置」と提案し、男性が同意しているので、Bが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_042",
+      "audioFile": null,
+      "transcript": "Woman: I've noticed that employee turnover has increased significantly this quarter.\nMan: What departments are most affected?\nWoman: Mainly customer service and IT. Exit interviews suggest that compensation is the primary concern.\nMan: Have we compared our salaries with the industry average?\nWoman: Not recently. I'll have the HR team conduct a comprehensive salary benchmarking study by the end of the month.",
+      "choices": [
+        { "label": "A", "text": "Poor management" },
+        { "label": "B", "text": "Compensation" },
+        { "label": "C", "text": "Long working hours" },
+        { "label": "D", "text": "Lack of career growth" }
+      ],
+      "answer": "B",
+      "explanation": "質問：退職面接で指摘された主な離職理由は何ですか？ 女性が「報酬が主な懸念事項」と述べているので、Bが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_043",
+      "audioFile": null,
+      "transcript": "Man: Have you decided which software to use for the new inventory management system?\nWoman: We've narrowed it down to two options: InventoryPro and StockMaster.\nMan: How do they compare?\nWoman: InventoryPro has better reporting features, but StockMaster integrates more easily with our existing ERP system.\nMan: Integration is crucial for us. I'd recommend going with StockMaster even if the reporting isn't quite as good.",
+      "choices": [
+        { "label": "A", "text": "InventoryPro, for its reporting features" },
+        { "label": "B", "text": "StockMaster, for its easier ERP integration" },
+        { "label": "C", "text": "Both systems, used together" },
+        { "label": "D", "text": "Neither system meets their needs" }
+      ],
+      "answer": "B",
+      "explanation": "質問：男性はどのソフトウェアを推薦していますか？ 「ERPとの統合が重要だからStockMasterを推薦する」と述べているので、Bが正解。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp3_044",
+      "audioFile": null,
+      "transcript": "Woman: The city has announced new parking restrictions on Maple Avenue starting next month.\nMan: That's the street where most of our clients park when they visit our office.\nWoman: Exactly. We might need to arrange alternative parking for client visits.\nMan: What about the municipal parking garage two blocks away? We could validate their tickets.\nWoman: That's a great solution. I'll look into the monthly validation rates.",
+      "choices": [
+        { "label": "A", "text": "Ask clients to take public transportation" },
+        { "label": "B", "text": "Move the office to a different location" },
+        { "label": "C", "text": "Validate client parking at a nearby municipal garage" },
+        { "label": "D", "text": "Build a private parking lot" }
+      ],
+      "answer": "C",
+      "explanation": "質問：新しい駐車規制への対策として何が提案されていますか？ 男性が「2ブロック先の市営駐車場で駐車券を検証する」と提案し、女性が賛成しているので、Cが正解。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp3_045",
+      "audioFile": null,
+      "transcript": "Man: We received feedback from the focus group about our new packaging design.\nWoman: What did they say?\nMan: Most participants liked the colors, but several felt the text was too small to read easily.\nWoman: That's useful feedback. Should we increase the font size?\nMan: Yes, and the design team suggested switching to a sans-serif font for better readability.\nWoman: Let's implement both changes and test it with another group before we finalize.",
+      "choices": [
+        { "label": "A", "text": "The colors were unpopular." },
+        { "label": "B", "text": "The packaging was too expensive to produce." },
+        { "label": "C", "text": "The text was too small to read easily." },
+        { "label": "D", "text": "The design looked outdated." }
+      ],
+      "answer": "C",
+      "explanation": "質問：フォーカスグループからの主な批判は何でしたか？ 男性が「テキストが小さくて読みにくい」という意見が複数あったと報告しているので、Cが正解。色は好評だった。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_046",
+      "audioFile": null,
+      "transcript": "Woman: I'd like to schedule a dental cleaning, please.\nMan: Sure. Our next available appointment is on Tuesday at two o'clock.\nWoman: I have a meeting that afternoon. Do you have anything in the morning?\nMan: Let me check. How about Thursday at nine thirty?\nWoman: That works perfectly.",
+      "choices": [
+        { "label": "A", "text": "Tuesday at 2:00" },
+        { "label": "B", "text": "Wednesday at 10:00" },
+        { "label": "C", "text": "Thursday at 9:30" },
+        { "label": "D", "text": "Friday at 11:00" }
+      ],
+      "answer": "C",
+      "explanation": "質問：女性はいつ予約を入れましたか？ 木曜の9時半を提案され「完璧」と答えているので、Cが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_047",
+      "audioFile": null,
+      "transcript": "Man: I think we should consider offering a subscription model for our software instead of one-time purchases.\nWoman: That's interesting. What made you think of that?\nMan: Our competitors have already switched, and they've seen a forty percent increase in recurring revenue.\nWoman: That's impressive. But we'd need to significantly improve our customer support to retain subscribers.\nMan: True. I'll put together a detailed proposal with projected costs and revenue.",
+      "choices": [
+        { "label": "A", "text": "Competitors saw a 40% increase in recurring revenue with subscriptions." },
+        { "label": "B", "text": "Customers have been requesting a subscription option." },
+        { "label": "C", "text": "The current pricing model is too expensive." },
+        { "label": "D", "text": "One-time purchases are no longer profitable." }
+      ],
+      "answer": "A",
+      "explanation": "質問：サブスクリプションモデルを検討する根拠は何ですか？ 男性が「競合が切り替えて経常収益が40%増加した」と述べているので、Aが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_048",
+      "audioFile": null,
+      "transcript": "Woman: The building manager just informed me that they'll be testing the fire alarm system tomorrow between ten and noon.\nMan: Should we notify all employees?\nWoman: Yes, please send out an email today. Also, let the reception desk know so they can inform visitors.\nMan: Will do. Should we reschedule the eleven o'clock client meeting?\nWoman: Good thinking. Let's move it to one thirty.",
+      "choices": [
+        { "label": "A", "text": "10:00 AM" },
+        { "label": "B", "text": "11:00 AM" },
+        { "label": "C", "text": "12:00 PM" },
+        { "label": "D", "text": "1:30 PM" }
+      ],
+      "answer": "D",
+      "explanation": "質問：クライアントミーティングは何時に変更されますか？ 女性が「1時半に移動しよう」と提案しているので、Dが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_049",
+      "audioFile": null,
+      "transcript": "Man: I've been researching eco-friendly packaging options for our product line.\nWoman: Great. What have you found?\nMan: There are biodegradable materials that cost about fifteen percent more than our current packaging.\nWoman: That's not too bad. It could also be a strong selling point for environmentally conscious consumers.\nMan: Exactly. And it aligns with our sustainability goals for this year.\nWoman: Let's request samples from the supplier and test them with our products.",
+      "choices": [
+        { "label": "A", "text": "Eco-friendly packaging costs twice as much." },
+        { "label": "B", "text": "Biodegradable materials cost about 15% more than current packaging." },
+        { "label": "C", "text": "The new packaging is cheaper than the current option." },
+        { "label": "D", "text": "There are no suitable eco-friendly alternatives." }
+      ],
+      "answer": "B",
+      "explanation": "質問：エコパッケージのコストについて何がわかりますか？ 男性が「現在のパッケージより約15%高い」と述べているので、Bが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_050",
+      "audioFile": null,
+      "transcript": "Woman: I noticed our team's response time to customer emails has increased to an average of forty-eight hours.\nMan: That's well above our target of twenty-four hours. What do you think is the cause?\nWoman: We've had a thirty percent increase in inquiries since the new product launch, but our team size hasn't changed.\nMan: We could either hire temporary staff or implement an automated response system for common questions.\nWoman: Let's try the automated system first. It would be more cost-effective in the long run.",
+      "choices": [
+        { "label": "A", "text": "24 hours" },
+        { "label": "B", "text": "36 hours" },
+        { "label": "C", "text": "48 hours" },
+        { "label": "D", "text": "72 hours" }
+      ],
+      "answer": "C",
+      "explanation": "質問：現在の顧客メールへの平均応答時間はどれくらいですか？ 女性が「平均48時間に増加した」と述べているので、Cが正解。目標は24時間。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_051",
+      "audioFile": null,
+      "transcript": "Man: Have you selected a caterer for the board of directors' dinner?\nWoman: I've contacted three companies. Two of them can accommodate the dietary restrictions we listed.\nMan: What about pricing?\nWoman: Elegant Dining quoted seventy-five dollars per person, and Fresh Table quoted sixty dollars per person.\nMan: Let's go with Fresh Table. The fifteen-dollar difference adds up when you're serving thirty people.",
+      "choices": [
+        { "label": "A", "text": "$900" },
+        { "label": "B", "text": "$1,350" },
+        { "label": "C", "text": "$1,800" },
+        { "label": "D", "text": "$2,250" }
+      ],
+      "answer": "C",
+      "explanation": "質問：Fresh Tableを選んだ場合の合計費用はいくらですか？ 60ドル×30人＝1,800ドルなので、Cが正解。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp3_052",
+      "audioFile": null,
+      "transcript": "Woman: The landlord just notified us that the rent for our office space is going up by eight percent next year.\nMan: That's a significant increase. Our current lease expires in March, doesn't it?\nWoman: Yes. I've been looking at other locations, and there's a comparable space on Fifth Avenue that's actually cheaper.\nMan: What's the catch?\nWoman: It's a bit smaller, and we'd have to pay for the fit-out ourselves.\nMan: Let's schedule visits to both the current space and the Fifth Avenue option before making a decision.",
+      "choices": [
+        { "label": "A", "text": "The new space is more expensive." },
+        { "label": "B", "text": "The new space is cheaper but smaller, and requires fit-out costs." },
+        { "label": "C", "text": "The new space is identical to the current one." },
+        { "label": "D", "text": "The new space is larger but in a less convenient location." }
+      ],
+      "answer": "B",
+      "explanation": "質問：フィフスアベニューの物件の特徴は何ですか？ 女性が「安いが少し狭く、内装費は自費」と説明しているので、Bが正解。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp3_053",
+      "audioFile": null,
+      "transcript": "Man: I'm planning to take the certification exam for project management next month.\nWoman: That's great. Have you started studying?\nMan: I've been taking an online course, but I'm struggling with the risk management section.\nWoman: I passed that exam last year. If you want, I can lend you my study notes.\nMan: That would be incredibly helpful. Thank you.",
+      "choices": [
+        { "label": "A", "text": "A project management certification exam" },
+        { "label": "B", "text": "A financial analysis exam" },
+        { "label": "C", "text": "A software engineering exam" },
+        { "label": "D", "text": "A human resources certification" }
+      ],
+      "answer": "A",
+      "explanation": "質問：男性は何の試験を受ける予定ですか？ 「プロジェクトマネジメントの資格試験」と明言しているので、Aが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_054",
+      "audioFile": null,
+      "transcript": "Woman: Our supplier in Taiwan has informed us that they're experiencing raw material shortages.\nMan: How will that affect our production schedule?\nWoman: We might face a two-week delay on the next batch of components.\nMan: That's going to push back the delivery to our clients. Can we source from an alternative supplier?\nWoman: I've already reached out to two other factories in South Korea. One of them can fill the order, but at a ten percent premium.\nMan: It's worth it to avoid the delay. Go ahead and place the order.",
+      "choices": [
+        { "label": "A", "text": "Wait for the Taiwanese supplier to resolve the shortage" },
+        { "label": "B", "text": "Cancel the client orders" },
+        { "label": "C", "text": "Order from a South Korean supplier at a 10% premium" },
+        { "label": "D", "text": "Reduce the production volume" }
+      ],
+      "answer": "C",
+      "explanation": "質問：最終的にどのような対応をとることにしましたか？ 男性が「遅延を避けるために10%割増でも価値がある。注文してくれ」と決断しているので、Cが正解。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp3_055",
+      "audioFile": null,
+      "transcript": "Man: Good morning. I'd like to ship this package to London.\nWoman: Certainly. Would you like standard or express delivery?\nMan: How long does each take?\nWoman: Standard takes seven to ten business days, and express takes three to four business days.\nMan: I need it there by Friday, so I'll go with express.\nWoman: Express to London will be forty-five dollars.",
+      "choices": [
+        { "label": "A", "text": "Standard delivery for $25" },
+        { "label": "B", "text": "Express delivery for $45" },
+        { "label": "C", "text": "Overnight delivery for $60" },
+        { "label": "D", "text": "Standard delivery for $45" }
+      ],
+      "answer": "B",
+      "explanation": "質問：男性はどの配送オプションを選びましたか？ 金曜までに届ける必要があるため速達を選び、料金は45ドルと言われているので、Bが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_056",
+      "audioFile": null,
+      "transcript": "Woman: I'm considering switching our accounting software to CloudBooks. Have you used it before?\nMan: Yes, actually. We used it at my previous company. It's very user-friendly.\nWoman: How long did the migration process take?\nMan: About three weeks, including data transfer and staff training.\nWoman: That's not bad. Our current system is so outdated that it's costing us hours every month.\nMan: CloudBooks also has a free trial period, so your team could test it before committing.",
+      "choices": [
+        { "label": "A", "text": "About one week" },
+        { "label": "B", "text": "About three weeks" },
+        { "label": "C", "text": "About two months" },
+        { "label": "D", "text": "About six months" }
+      ],
+      "answer": "B",
+      "explanation": "質問：前の会社でのCloudBooksへの移行にはどれくらいかかりましたか？ 男性が「データ移行とスタッフ研修を含めて約3週間」と述べているので、Bが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_057",
+      "audioFile": null,
+      "transcript": "Man: The results of our employee engagement survey are in.\nWoman: What's the overall satisfaction score?\nMan: Seventy-eight percent, which is up from seventy-two percent last year.\nWoman: That's encouraging. What areas still need improvement?\nMan: Work-life balance scored the lowest. Many employees feel they're working too many overtime hours.\nWoman: We should review our overtime policies and consider implementing flexible working hours.",
+      "choices": [
+        { "label": "A", "text": "It decreased from last year." },
+        { "label": "B", "text": "It stayed the same as last year." },
+        { "label": "C", "text": "It increased from 72% to 78%." },
+        { "label": "D", "text": "It reached 90% for the first time." }
+      ],
+      "answer": "C",
+      "explanation": "質問：従業員満足度スコアはどう変化しましたか？ 男性が「78%で、昨年の72%から上昇」と述べているので、Cが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_058",
+      "audioFile": null,
+      "transcript": "Woman: We need to decide on the location for the annual training retreat.\nMan: Last year we went to Lake Tahoe. How about somewhere different this time?\nWoman: I was thinking about Napa Valley. It has great meeting facilities and team-building activities.\nMan: That sounds appealing, but how does the cost compare?\nWoman: It's about twenty percent more expensive, mainly because of accommodation.\nMan: Can we offset that by reducing the retreat from three days to two?",
+      "choices": [
+        { "label": "A", "text": "Accommodation costs" },
+        { "label": "B", "text": "Travel distance" },
+        { "label": "C", "text": "Meeting facility quality" },
+        { "label": "D", "text": "Food and beverage options" }
+      ],
+      "answer": "A",
+      "explanation": "質問：ナパバレーの方が高い主な理由は何ですか？ 女性が「主に宿泊費のため約20%高い」と述べているので、Aが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_059",
+      "audioFile": null,
+      "transcript": "Man: I just discovered that our main competitor has filed a patent for a technology very similar to ours.\nWoman: That's alarming. When was their patent filed?\nMan: About six months ago. But our research started over two years ago.\nWoman: We should consult with our legal team immediately. We may have prior art that could challenge their patent.\nMan: I agree. I'll also gather all our documentation, including lab notes and email correspondence, as evidence.",
+      "choices": [
+        { "label": "A", "text": "They started their research more recently." },
+        { "label": "B", "text": "Their research started over two years ago, before the competitor's filing." },
+        { "label": "C", "text": "They have already filed their own patent." },
+        { "label": "D", "text": "The technologies are completely different." }
+      ],
+      "answer": "B",
+      "explanation": "質問：なぜ彼らは競合の特許に異議を申し立てられる可能性がありますか？ 男性が「自分たちの研究は2年以上前に開始」と述べ、競合の出願は6ヶ月前なので、先行技術として主張できるBが正解。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp3_060",
+      "audioFile": null,
+      "transcript": "Woman: Have you looked into the new tax incentives for companies that invest in renewable energy?\nMan: Yes, there's a twenty-five percent tax credit for solar panel installations.\nWoman: Our factory roof is large enough for a significant installation.\nMan: I calculated that the initial investment would be around two hundred thousand dollars, but the tax credit and energy savings would pay for it within four years.\nWoman: That's a compelling case. Let's include it in next year's capital expenditure proposal.",
+      "choices": [
+        { "label": "A", "text": "About 2 years" },
+        { "label": "B", "text": "About 4 years" },
+        { "label": "C", "text": "About 6 years" },
+        { "label": "D", "text": "About 10 years" }
+      ],
+      "answer": "B",
+      "explanation": "質問：太陽光パネル設置の投資回収期間はどれくらいですか？ 男性が「税額控除とエネルギー節約で4年以内に元が取れる」と述べているので、Bが正解。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp3_061",
+      "audioFile": null,
+      "transcript": "Man: I've been reviewing the expense reports from last quarter, and there are some unusual charges.\nWoman: What kind of charges?\nMan: Several employees have been claiming meals over the one-hundred-dollar limit without manager approval.\nWoman: That's a clear violation of our expense policy. How many cases are we talking about?\nMan: About a dozen. I think we need to send a company-wide reminder about the policy and tighten the approval process.",
+      "choices": [
+        { "label": "A", "text": "Travel expenses are too high." },
+        { "label": "B", "text": "Meal claims exceed the $100 limit without approval." },
+        { "label": "C", "text": "Employees are submitting duplicate receipts." },
+        { "label": "D", "text": "The expense reporting system is malfunctioning." }
+      ],
+      "answer": "B",
+      "explanation": "質問：経費報告で見つかった問題は何ですか？ 男性が「複数の社員が100ドルの上限を超える食事を上司の承認なしで請求している」と述べているので、Bが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_062",
+      "audioFile": null,
+      "transcript": "Woman: The architect has sent the revised floor plans for the new office.\nMan: How do they look?\nWoman: Much better. They added the two extra meeting rooms we requested, and there's now a dedicated quiet zone for focused work.\nMan: What about the kitchen area? I mentioned we needed more space there.\nWoman: Yes, they expanded it and added a second microwave and a dishwasher.\nMan: Perfect. Let's approve the plans so construction can start on schedule.",
+      "choices": [
+        { "label": "A", "text": "They rejected the architect's plans entirely." },
+        { "label": "B", "text": "They approved the revised plans." },
+        { "label": "C", "text": "They asked for more revisions." },
+        { "label": "D", "text": "They decided to postpone the construction." }
+      ],
+      "answer": "B",
+      "explanation": "質問：男性は最終的にどうすることを提案していますか？ 「計画を承認して予定通り工事を開始しよう」と言っているので、Bが正解。要望はすべて反映されていた。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_063",
+      "audioFile": null,
+      "transcript": "Man: I'm looking for a birthday present for my daughter. She just turned twelve.\nWoman: What is she interested in?\nMan: She loves science and building things.\nWoman: We have a great robotics kit that's very popular with kids her age. It comes with step-by-step instructions and a programming guide.\nMan: How much is it?\nWoman: It's sixty-five dollars. We also have a chemistry set for forty-five dollars if you'd prefer something different.",
+      "choices": [
+        { "label": "A", "text": "8 years old" },
+        { "label": "B", "text": "10 years old" },
+        { "label": "C", "text": "12 years old" },
+        { "label": "D", "text": "14 years old" }
+      ],
+      "answer": "C",
+      "explanation": "質問：男性の娘は何歳ですか？ 「12歳になったばかり」と述べているので、Cが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_064",
+      "audioFile": null,
+      "transcript": "Woman: We're considering launching a mentorship program for junior employees.\nMan: That's a great initiative. How would it work?\nWoman: Each senior staff member would be paired with one or two junior employees for a six-month period.\nMan: What kind of commitment would mentors need to make?\nWoman: About two hours per month for one-on-one meetings, plus a monthly group session.\nMan: That's manageable. I'd be happy to volunteer as a mentor.",
+      "choices": [
+        { "label": "A", "text": "Three months" },
+        { "label": "B", "text": "Six months" },
+        { "label": "C", "text": "Nine months" },
+        { "label": "D", "text": "Twelve months" }
+      ],
+      "answer": "B",
+      "explanation": "質問：メンターシッププログラムの期間はどれくらいですか？ 女性が「6ヶ月間」と述べているので、Bが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_065",
+      "audioFile": null,
+      "transcript": "Man: I've noticed that the loading dock gets very congested between eight and nine in the morning.\nWoman: Yes, that's when most deliveries arrive. It's causing delays for our shipping team.\nMan: What if we staggered the delivery times? We could ask suppliers to schedule arrivals in specific time slots.\nWoman: That could work. But some suppliers might resist changing their routes.\nMan: True. Let's start with our five biggest suppliers and see if they're willing to adjust.",
+      "choices": [
+        { "label": "A", "text": "Build a larger loading dock" },
+        { "label": "B", "text": "Hire more shipping staff" },
+        { "label": "C", "text": "Stagger delivery times with suppliers" },
+        { "label": "D", "text": "Switch to a different delivery company" }
+      ],
+      "answer": "C",
+      "explanation": "質問：混雑緩和のために提案された対策は何ですか？ 男性が「配送時間をずらして、サプライヤーに特定の時間枠を割り当てる」と提案しているので、Cが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_066",
+      "audioFile": null,
+      "transcript": "Woman: The city council has approved the new bike lane on Commerce Street. That should make it easier for employees to cycle to work.\nMan: That's great news. We should install more bike racks in the parking area.\nWoman: I agree. Currently we only have ten spaces, but at least twenty employees have expressed interest in cycling.\nMan: Let's add fifteen more racks and also look into providing shower facilities for cyclists.\nWoman: Good idea. I'll get quotes from a few contractors.",
+      "choices": [
+        { "label": "A", "text": "Install 5 more bike racks" },
+        { "label": "B", "text": "Install 15 more bike racks and add shower facilities" },
+        { "label": "C", "text": "Replace all parking spaces with bike racks" },
+        { "label": "D", "text": "Start a carpooling program" }
+      ],
+      "answer": "B",
+      "explanation": "質問：自転車通勤者のために何が計画されていますか？ 男性が「15台分のラックを追加し、シャワー設備も検討」と提案し、女性が同意しているので、Bが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_067",
+      "audioFile": null,
+      "transcript": "Man: I'd like to discuss the new safety regulations that go into effect next month.\nWoman: Which regulations are you referring to?\nMan: The updated fire safety code requires all employees to complete a fire safety course and we need to install additional emergency lighting.\nWoman: How much time do employees need to complete the course?\nMan: It's an online module that takes about ninety minutes.\nWoman: Let's make it mandatory during working hours so no one has to do it on their own time.",
+      "choices": [
+        { "label": "A", "text": "30 minutes" },
+        { "label": "B", "text": "60 minutes" },
+        { "label": "C", "text": "90 minutes" },
+        { "label": "D", "text": "120 minutes" }
+      ],
+      "answer": "C",
+      "explanation": "質問：火災安全コースの所要時間はどれくらいですか？ 男性が「約90分のオンラインモジュール」と述べているので、Cが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_068",
+      "audioFile": null,
+      "transcript": "Woman: Our print advertising budget has been flat for three years, but our digital ad spend has nearly doubled.\nMan: That reflects where our customers are spending their time.\nWoman: Exactly. I'm proposing we cut print by thirty percent and redirect those funds to social media campaigns.\nMan: That makes sense for most products, but our premium product line still benefits from print ads in industry magazines.\nWoman: Fair point. Let's reduce print for the standard products only and keep the premium print budget intact.",
+      "choices": [
+        { "label": "A", "text": "Cut all print advertising completely" },
+        { "label": "B", "text": "Double the print advertising budget" },
+        { "label": "C", "text": "Reduce print ads for standard products and keep premium print ads" },
+        { "label": "D", "text": "Increase both print and digital advertising equally" }
+      ],
+      "answer": "C",
+      "explanation": "質問：最終的にどのような方針で合意しましたか？ 女性が「標準製品の印刷広告のみ削減し、プレミアム製品の印刷広告予算は維持」と提案しているので、Cが正解。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp3_069",
+      "audioFile": null,
+      "transcript": "Man: The translation of our product manuals into Spanish and Portuguese is almost complete.\nWoman: When will they be ready for review?\nMan: By the end of this week. But the Korean and Japanese translations are running about ten days behind schedule.\nWoman: What's causing the delay?\nMan: The technical translator for those languages had a family emergency and has been out for two weeks.\nWoman: I see. Can we find a freelance translator to help catch up?",
+      "choices": [
+        { "label": "A", "text": "Spanish and Portuguese are delayed." },
+        { "label": "B", "text": "Korean and Japanese are delayed due to the translator's absence." },
+        { "label": "C", "text": "All translations are on schedule." },
+        { "label": "D", "text": "The manuals need to be rewritten before translation." }
+      ],
+      "answer": "B",
+      "explanation": "質問：翻訳プロジェクトの状況について正しいのはどれですか？ 男性が「韓国語と日本語は技術翻訳者の家庭の事情で約10日遅れている」と述べているので、Bが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_070",
+      "audioFile": null,
+      "transcript": "Woman: I spoke with the insurance company about our coverage renewal.\nMan: How does it look?\nWoman: Our premium is going up by twelve percent, mainly because of the two claims we filed this year.\nMan: That's a big jump. Are there any ways to lower it?\nWoman: They said if we install a comprehensive security system, they'd reduce the increase to eight percent.\nMan: Let's get a quote for the security system and compare the costs.",
+      "choices": [
+        { "label": "A", "text": "The premium would decrease by 12%." },
+        { "label": "B", "text": "The increase would be reduced from 12% to 8%." },
+        { "label": "C", "text": "The premium would stay the same." },
+        { "label": "D", "text": "The policy would be cancelled." }
+      ],
+      "answer": "B",
+      "explanation": "質問：セキュリティシステムを設置した場合、保険料はどうなりますか？ 女性が「12%の増加を8%に下げてくれる」と述べているので、Bが正解。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp3_071",
+      "audioFile": null,
+      "transcript": "Man: The marketing team wants to sponsor a local charity run next month.\nWoman: That sounds like a great community engagement opportunity. What would the sponsorship involve?\nMan: They're asking for five thousand dollars in exchange for our logo on the event T-shirts and a booth at the finish line.\nWoman: I think it's worth it for the brand exposure. Plus, we could encourage employees to participate as runners.\nMan: I'll have marketing draft a plan and submit it for budget approval.",
+      "choices": [
+        { "label": "A", "text": "$1,000" },
+        { "label": "B", "text": "$2,500" },
+        { "label": "C", "text": "$5,000" },
+        { "label": "D", "text": "$10,000" }
+      ],
+      "answer": "C",
+      "explanation": "質問：チャリティーランのスポンサーシップ費用はいくらですか？ 男性が「5,000ドル」と述べているので、Cが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp3_072",
+      "audioFile": null,
+      "transcript": "Woman: I've been evaluating our current customer loyalty program, and participation has dropped by fifteen percent this year.\nMan: Do we know why customers are losing interest?\nWoman: The main feedback is that the rewards take too long to earn. Customers have to spend over five hundred dollars to get a ten-dollar voucher.\nMan: That does seem like a high threshold. What if we lowered it to three hundred dollars?\nWoman: I think that would help. We could also add exclusive early access to new products as an additional perk.\nMan: Great ideas. Let's revamp the program and relaunch it next quarter.",
+      "choices": [
+        { "label": "A", "text": "The rewards program is too complicated to join." },
+        { "label": "B", "text": "Rewards take too long to earn relative to spending." },
+        { "label": "C", "text": "The program has too many competitors." },
+        { "label": "D", "text": "The vouchers expire too quickly." }
+      ],
+      "answer": "B",
+      "explanation": "質問：顧客ロイヤルティプログラムの参加率が下がった主な理由は何ですか？ 女性が「特典を得るのに時間がかかりすぎる」というフィードバックを報告しているので、Bが正解。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp3_073",
+      "audioFile": null,
+      "transcript": "Man: We have a problem with the new batch of ceramic tiles. The color doesn't match the sample we approved.\nWoman: How far off is it?\nMan: It's noticeably darker. The client will definitely reject it.\nWoman: Can the manufacturer correct it and produce a new batch?\nMan: They said it would take three weeks and they'd cover the cost since it was their error.\nWoman: Three weeks puts us behind on the renovation schedule. Let's inform the client and discuss options.",
+      "choices": [
+        { "label": "A", "text": "The tiles are the wrong size." },
+        { "label": "B", "text": "The color is noticeably darker than the approved sample." },
+        { "label": "C", "text": "The tiles arrived broken." },
+        { "label": "D", "text": "The manufacturer shipped the wrong product entirely." }
+      ],
+      "answer": "B",
+      "explanation": "質問：セラミックタイルの問題は何ですか？ 男性が「承認したサンプルより明らかに色が暗い」と述べているので、Bが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_074",
+      "audioFile": null,
+      "transcript": "Woman: I've compiled the data from our customer feedback surveys across all five store locations.\nMan: What are the key findings?\nWoman: Three stores scored above ninety percent satisfaction. The downtown location scored seventy-eight percent, and the airport store scored eighty-two percent.\nMan: What's bringing down the scores at those two stores?\nWoman: The downtown store had complaints about long wait times, and the airport store had issues with product availability.\nMan: Let's address those specifically. More staff downtown and better inventory management at the airport.",
+      "choices": [
+        { "label": "A", "text": "Product quality issues" },
+        { "label": "B", "text": "Long wait times" },
+        { "label": "C", "text": "Unfriendly staff" },
+        { "label": "D", "text": "High prices" }
+      ],
+      "answer": "B",
+      "explanation": "質問：ダウンタウン店の顧客満足度が低い主な原因は何ですか？ 女性が「ダウンタウン店は長い待ち時間に対する苦情があった」と述べているので、Bが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp3_075",
+      "audioFile": null,
+      "transcript": "Man: Our company's carbon emissions report for this fiscal year is due next month. How are we doing compared to last year?\nWoman: We've reduced emissions by eighteen percent, mainly thanks to switching to renewable energy sources for our manufacturing plants.\nMan: That's impressive. Are we on track to meet the thirty-percent reduction target by next year?\nWoman: We'll need to address transportation emissions, which haven't changed much. Transitioning the delivery fleet to electric vehicles would make a significant impact.\nMan: That's a major investment. Let's present it to the board with a cost-benefit analysis.\nWoman: I'll have the numbers ready by next week.",
+      "choices": [
+        { "label": "A", "text": "Manufacturing energy usage" },
+        { "label": "B", "text": "Office electricity consumption" },
+        { "label": "C", "text": "Transportation and delivery fleet emissions" },
+        { "label": "D", "text": "Employee commuting" }
+      ],
+      "answer": "C",
+      "explanation": "質問：30%削減目標を達成するために今後取り組むべき主な領域は何ですか？ 女性が「輸送排出量はほとんど変わっていない。配送車両をEVに切り替えると大きな影響がある」と述べているので、Cが正解。製造は再生可能エネルギーへの切り替えで既に対応済み。",
+      "difficulty": 3
+    }
+  ]
+}

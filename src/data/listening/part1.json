@@ -1,0 +1,3631 @@
+{
+  "category": "part1",
+  "categoryLabel": "Part 1: 写真描写",
+  "questions": [
+    {
+      "id": "lp1_001",
+      "audioFile": null,
+      "transcript": "A woman is standing near a copy machine.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A woman is standing near a copy machine."
+        },
+        {
+          "label": "B",
+          "text": "A woman is sitting at a desk."
+        },
+        {
+          "label": "C",
+          "text": "A man is using the printer."
+        },
+        {
+          "label": "D",
+          "text": "The office is empty."
+        }
+      ],
+      "answer": "A",
+      "explanation": "女性がコピー機の近くに立っている描写が正解です。",
+      "difficulty": 1,
+      "sceneEmoji": "👩🖨️",
+      "sceneJa": "オフィス",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_002",
+      "audioFile": null,
+      "transcript": "Two men are shaking hands in a conference room.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Two men are shaking hands in a conference room."
+        },
+        {
+          "label": "B",
+          "text": "Two men are eating lunch together."
+        },
+        {
+          "label": "C",
+          "text": "A man is presenting at a whiteboard."
+        },
+        {
+          "label": "D",
+          "text": "The conference room is empty."
+        }
+      ],
+      "answer": "A",
+      "explanation": "会議室で2人の男性が握手をしている描写が正解です。",
+      "difficulty": 1,
+      "sceneEmoji": "🤝👔",
+      "sceneJa": "会議室",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_003",
+      "audioFile": null,
+      "transcript": "Boxes are being loaded onto a truck.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A truck is parked on the street."
+        },
+        {
+          "label": "B",
+          "text": "Boxes are being loaded onto a truck."
+        },
+        {
+          "label": "C",
+          "text": "Workers are taking a break."
+        },
+        {
+          "label": "D",
+          "text": "The warehouse is closed."
+        }
+      ],
+      "answer": "B",
+      "explanation": "箱がトラックに積み込まれている描写が正解です。受動態の進行形に注意。",
+      "difficulty": 1,
+      "sceneEmoji": "📦🚛",
+      "sceneJa": "屋外・配送エリア",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_004",
+      "audioFile": null,
+      "transcript": "A woman is typing on a laptop computer.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A woman is reading a newspaper."
+        },
+        {
+          "label": "B",
+          "text": "A woman is talking on the phone."
+        },
+        {
+          "label": "C",
+          "text": "A woman is typing on a laptop computer."
+        },
+        {
+          "label": "D",
+          "text": "A woman is writing on paper."
+        }
+      ],
+      "answer": "C",
+      "explanation": "女性がラップトップでタイピングしている描写が正解です。",
+      "difficulty": 1,
+      "sceneEmoji": "👩💻",
+      "sceneJa": "デスク",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_005",
+      "audioFile": null,
+      "transcript": "Passengers are boarding an airplane.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The airplane is on the runway."
+        },
+        {
+          "label": "B",
+          "text": "Passengers are boarding an airplane."
+        },
+        {
+          "label": "C",
+          "text": "Passengers are waiting at the gate."
+        },
+        {
+          "label": "D",
+          "text": "The airplane has landed."
+        }
+      ],
+      "answer": "B",
+      "explanation": "乗客が飛行機に搭乗している描写が正解です。",
+      "difficulty": 1,
+      "sceneEmoji": "✈️👥",
+      "sceneJa": "空港",
+      "sceneBg": "airport"
+    },
+    {
+      "id": "lp1_006",
+      "audioFile": null,
+      "transcript": "A waiter is pouring water into a glass.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A waiter is taking an order from a customer."
+        },
+        {
+          "label": "B",
+          "text": "A waiter is pouring water into a glass."
+        },
+        {
+          "label": "C",
+          "text": "A waiter is clearing dishes from a table."
+        },
+        {
+          "label": "D",
+          "text": "A customer is paying the bill."
+        }
+      ],
+      "answer": "B",
+      "explanation": "ウェイターがグラスに水を注いでいる描写が正解です。pouringは「注ぐ」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🍽️💧",
+      "sceneJa": "レストラン",
+      "sceneBg": "restaurant"
+    },
+    {
+      "id": "lp1_007",
+      "audioFile": null,
+      "transcript": "Luggage is being placed on a conveyor belt.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Travelers are checking in at the counter."
+        },
+        {
+          "label": "B",
+          "text": "A plane is taxiing on the runway."
+        },
+        {
+          "label": "C",
+          "text": "Luggage is being placed on a conveyor belt."
+        },
+        {
+          "label": "D",
+          "text": "Security guards are inspecting passports."
+        }
+      ],
+      "answer": "C",
+      "explanation": "荷物がベルトコンベアに載せられている描写が正解です。空港の手荷物受取所の場面で、受動態の進行形が使われています。",
+      "difficulty": 2,
+      "sceneEmoji": "🧳🔄",
+      "sceneJa": "空港・手荷物エリア",
+      "sceneBg": "airport"
+    },
+    {
+      "id": "lp1_008",
+      "audioFile": null,
+      "transcript": "A construction worker is wearing a hard hat.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A construction worker is wearing a hard hat."
+        },
+        {
+          "label": "B",
+          "text": "A construction worker is operating a crane."
+        },
+        {
+          "label": "C",
+          "text": "Building materials are stacked on the ground."
+        },
+        {
+          "label": "D",
+          "text": "The construction site is surrounded by a fence."
+        }
+      ],
+      "answer": "A",
+      "explanation": "建設作業員がヘルメットをかぶっている描写が正解です。wearは着用している状態を表します。",
+      "difficulty": 1,
+      "sceneEmoji": "👷🏗️",
+      "sceneJa": "建設現場",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_009",
+      "audioFile": null,
+      "transcript": "Several people are jogging along a path in the park.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Children are playing on the swings."
+        },
+        {
+          "label": "B",
+          "text": "Several people are jogging along a path in the park."
+        },
+        {
+          "label": "C",
+          "text": "A man is walking his dog near the pond."
+        },
+        {
+          "label": "D",
+          "text": "People are sitting on benches under the trees."
+        }
+      ],
+      "answer": "B",
+      "explanation": "公園の小道で数人がジョギングしている描写が正解です。along a pathは「小道に沿って」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🏃🌳",
+      "sceneJa": "公園",
+      "sceneBg": "park"
+    },
+    {
+      "id": "lp1_010",
+      "audioFile": null,
+      "transcript": "A cashier is scanning items at the checkout counter.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A customer is trying on clothes in a fitting room."
+        },
+        {
+          "label": "B",
+          "text": "Shelves are being restocked with merchandise."
+        },
+        {
+          "label": "C",
+          "text": "A cashier is scanning items at the checkout counter."
+        },
+        {
+          "label": "D",
+          "text": "Shopping carts are lined up near the entrance."
+        }
+      ],
+      "answer": "C",
+      "explanation": "レジ係がレジカウンターで商品をスキャンしている描写が正解です。checkout counterは「レジカウンター」を意味します。",
+      "difficulty": 2,
+      "sceneEmoji": "🛒💳",
+      "sceneJa": "スーパーマーケット",
+      "sceneBg": "shop"
+    },
+    {
+      "id": "lp1_011",
+      "audioFile": null,
+      "transcript": "A nurse is adjusting medical equipment beside a patient's bed.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A doctor is examining a patient in the office."
+        },
+        {
+          "label": "B",
+          "text": "A nurse is adjusting medical equipment beside a patient's bed."
+        },
+        {
+          "label": "C",
+          "text": "Patients are sitting in the waiting room."
+        },
+        {
+          "label": "D",
+          "text": "Medicine bottles are arranged on a shelf."
+        }
+      ],
+      "answer": "B",
+      "explanation": "看護師が患者のベッドの横で医療機器を調整している描写が正解です。adjustは「調整する」、besideは「〜のそばに」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "👩‍⚕️🏥",
+      "sceneJa": "病院・病室",
+      "sceneBg": "hospital"
+    },
+    {
+      "id": "lp1_012",
+      "audioFile": null,
+      "transcript": "Workers in safety vests are directing traffic around the construction zone.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A bulldozer is clearing debris from the road."
+        },
+        {
+          "label": "B",
+          "text": "Pedestrians are crossing at the intersection."
+        },
+        {
+          "label": "C",
+          "text": "Workers in safety vests are directing traffic around the construction zone."
+        },
+        {
+          "label": "D",
+          "text": "Concrete is being poured into a foundation."
+        }
+      ],
+      "answer": "C",
+      "explanation": "安全ベストを着た作業員が工事区域周辺の交通整理をしている描写が正解です。directing trafficは「交通整理をする」という表現です。",
+      "difficulty": 3,
+      "sceneEmoji": "🦺🚧",
+      "sceneJa": "道路・工事区域",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_013",
+      "audioFile": null,
+      "transcript": "Products are being assembled on a factory floor.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Machines are being repaired by a technician."
+        },
+        {
+          "label": "B",
+          "text": "Products are being assembled on a factory floor."
+        },
+        {
+          "label": "C",
+          "text": "Finished goods are stored in a warehouse."
+        },
+        {
+          "label": "D",
+          "text": "A supervisor is inspecting the production line."
+        }
+      ],
+      "answer": "B",
+      "explanation": "工場のフロアで製品が組み立てられている描写が正解です。are being assembledは受動態の進行形で「組み立てられている最中」を表します。",
+      "difficulty": 2,
+      "sceneEmoji": "🏭⚙️",
+      "sceneJa": "工場",
+      "sceneBg": "factory"
+    },
+    {
+      "id": "lp1_014",
+      "audioFile": null,
+      "transcript": "Diners are seated at tables overlooking a garden terrace.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A chef is preparing food in the kitchen."
+        },
+        {
+          "label": "B",
+          "text": "Tables are being set for an evening event."
+        },
+        {
+          "label": "C",
+          "text": "Diners are seated at tables overlooking a garden terrace."
+        },
+        {
+          "label": "D",
+          "text": "A hostess is greeting guests at the entrance."
+        }
+      ],
+      "answer": "C",
+      "explanation": "食事客がガーデンテラスを見渡せるテーブルに座っている描写が正解です。overlookingは「見渡す」という意味で、現在分詞が形容詞的に使われています。",
+      "difficulty": 3,
+      "sceneEmoji": "🍽️🌿",
+      "sceneJa": "テラスレストラン",
+      "sceneBg": "restaurant"
+    },
+    {
+      "id": "lp1_015",
+      "audioFile": null,
+      "transcript": "A traveler is retrieving a boarding pass from the self-service kiosk.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A traveler is retrieving a boarding pass from the self-service kiosk."
+        },
+        {
+          "label": "B",
+          "text": "An agent is announcing a gate change over the intercom."
+        },
+        {
+          "label": "C",
+          "text": "Passengers are lining up at the departure gate."
+        },
+        {
+          "label": "D",
+          "text": "A flight attendant is demonstrating safety procedures."
+        }
+      ],
+      "answer": "A",
+      "explanation": "旅行者がセルフサービスキオスクから搭乗券を取得している描写が正解です。retrieveは「取り出す・受け取る」という意味で、self-service kioskは空港の自動チェックイン機を指します。",
+      "difficulty": 3,
+      "sceneEmoji": "✈️🎫",
+      "sceneJa": "空港ターミナル",
+      "sceneBg": "airport"
+    },
+    {
+      "id": "lp1_016",
+      "audioFile": null,
+      "transcript": "A woman is browsing books on a shelf in the library.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A woman is browsing books on a shelf in the library."
+        },
+        {
+          "label": "B",
+          "text": "A woman is checking out books at the front desk."
+        },
+        {
+          "label": "C",
+          "text": "Books are stacked on the floor near the entrance."
+        },
+        {
+          "label": "D",
+          "text": "A librarian is organizing a display case."
+        }
+      ],
+      "answer": "A",
+      "explanation": "女性が図書館の棚で本を閲覧している描写が正解です。browseは「ざっと見る・閲覧する」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "📚👩",
+      "sceneJa": "図書館",
+      "sceneBg": "library"
+    },
+    {
+      "id": "lp1_017",
+      "audioFile": null,
+      "transcript": "A man is lifting weights in the gym.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A man is running on a treadmill."
+        },
+        {
+          "label": "B",
+          "text": "A man is lifting weights in the gym."
+        },
+        {
+          "label": "C",
+          "text": "Exercise equipment is being moved to another room."
+        },
+        {
+          "label": "D",
+          "text": "A group of people are taking a yoga class."
+        }
+      ],
+      "answer": "B",
+      "explanation": "男性がジムでウェイトを持ち上げている描写が正解です。lifting weightsは「重量挙げをする」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "💪🏋️",
+      "sceneJa": "ジム",
+      "sceneBg": "gym"
+    },
+    {
+      "id": "lp1_018",
+      "audioFile": null,
+      "transcript": "Cars are parked in rows across the parking lot.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cars are parked in rows across the parking lot."
+        },
+        {
+          "label": "B",
+          "text": "A driver is pulling into a parking space."
+        },
+        {
+          "label": "C",
+          "text": "A parking attendant is directing vehicles."
+        },
+        {
+          "label": "D",
+          "text": "The parking lot is completely empty."
+        }
+      ],
+      "answer": "A",
+      "explanation": "駐車場に車が列をなして駐車している描写が正解です。in rowsは「列になって」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🚗🅿️",
+      "sceneJa": "駐車場",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_019",
+      "audioFile": null,
+      "transcript": "Pallets of goods are being moved through the warehouse with a forklift.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Workers are unloading a delivery truck."
+        },
+        {
+          "label": "B",
+          "text": "Pallets of goods are being moved through the warehouse with a forklift."
+        },
+        {
+          "label": "C",
+          "text": "Shelves in the warehouse are mostly empty."
+        },
+        {
+          "label": "D",
+          "text": "A security guard is checking inventory lists."
+        }
+      ],
+      "answer": "B",
+      "explanation": "フォークリフトで倉庫内のパレットに載った商品が移動されている描写が正解です。palletsは「パレット（荷役台）」、forkliftは「フォークリフト」です。",
+      "difficulty": 2,
+      "sceneEmoji": "📦🏭",
+      "sceneJa": "倉庫",
+      "sceneBg": "factory"
+    },
+    {
+      "id": "lp1_020",
+      "audioFile": null,
+      "transcript": "A gardener is trimming hedges along the walkway.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A gardener is trimming hedges along the walkway."
+        },
+        {
+          "label": "B",
+          "text": "Flowers are being planted in the garden beds."
+        },
+        {
+          "label": "C",
+          "text": "A sprinkler is watering the lawn."
+        },
+        {
+          "label": "D",
+          "text": "Leaves are scattered across the pathway."
+        }
+      ],
+      "answer": "A",
+      "explanation": "庭師が歩道沿いの生垣を刈り込んでいる描写が正解です。trimmingは「刈り込む」、hedgesは「生垣」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🌿✂️",
+      "sceneJa": "庭・歩道",
+      "sceneBg": "park"
+    },
+    {
+      "id": "lp1_021",
+      "audioFile": null,
+      "transcript": "Visitors are waiting in the lobby near the reception desk.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The lobby is being cleaned by maintenance staff."
+        },
+        {
+          "label": "B",
+          "text": "Visitors are waiting in the lobby near the reception desk."
+        },
+        {
+          "label": "C",
+          "text": "A receptionist is talking on the phone."
+        },
+        {
+          "label": "D",
+          "text": "Furniture is being rearranged in the lobby."
+        }
+      ],
+      "answer": "B",
+      "explanation": "訪問者がロビーの受付デスクの近くで待っている描写が正解です。reception deskは「受付」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🏢👥",
+      "sceneJa": "オフィスロビー",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_022",
+      "audioFile": null,
+      "transcript": "People are stepping out of an elevator on the ground floor.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "People are stepping out of an elevator on the ground floor."
+        },
+        {
+          "label": "B",
+          "text": "A technician is repairing the elevator."
+        },
+        {
+          "label": "C",
+          "text": "The elevator doors are closed."
+        },
+        {
+          "label": "D",
+          "text": "A sign indicates the elevator is out of order."
+        }
+      ],
+      "answer": "A",
+      "explanation": "1階でエレベーターから人々が降りている描写が正解です。stepping outは「外に出る・降りる」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🛗👥",
+      "sceneJa": "ビル1階",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_023",
+      "audioFile": null,
+      "transcript": "Umbrellas are set up along the beach near the water's edge.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Swimmers are diving into the ocean."
+        },
+        {
+          "label": "B",
+          "text": "A lifeguard is watching from a tower."
+        },
+        {
+          "label": "C",
+          "text": "Umbrellas are set up along the beach near the water's edge."
+        },
+        {
+          "label": "D",
+          "text": "Beach chairs are being folded and stored."
+        }
+      ],
+      "answer": "C",
+      "explanation": "水際に沿ってビーチパラソルが設置されている描写が正解です。water's edgeは「水際」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🏖️⛱️",
+      "sceneJa": "ビーチ",
+      "sceneBg": "beach"
+    },
+    {
+      "id": "lp1_024",
+      "audioFile": null,
+      "transcript": "A library patron is using a computer at a study desk.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A librarian is shelving returned books."
+        },
+        {
+          "label": "B",
+          "text": "Students are discussing a project in the reading area."
+        },
+        {
+          "label": "C",
+          "text": "A library patron is using a computer at a study desk."
+        },
+        {
+          "label": "D",
+          "text": "The library is closed for renovation."
+        }
+      ],
+      "answer": "C",
+      "explanation": "図書館の利用者が学習机でパソコンを使っている描写が正解です。patronは「利用者・常連客」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "📚💻",
+      "sceneJa": "図書館・学習スペース",
+      "sceneBg": "library"
+    },
+    {
+      "id": "lp1_025",
+      "audioFile": null,
+      "transcript": "Gym members are stretching on mats before a fitness class begins.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An instructor is demonstrating an exercise on stage."
+        },
+        {
+          "label": "B",
+          "text": "Gym members are stretching on mats before a fitness class begins."
+        },
+        {
+          "label": "C",
+          "text": "Equipment is being wiped down after use."
+        },
+        {
+          "label": "D",
+          "text": "The gym is empty because it's closed for maintenance."
+        }
+      ],
+      "answer": "B",
+      "explanation": "フィットネスクラスの開始前にジムの会員がマットの上でストレッチをしている描写が正解です。stretchingは「ストレッチをする」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🧘‍♀️🏋️",
+      "sceneJa": "フィットネスジム",
+      "sceneBg": "gym"
+    },
+    {
+      "id": "lp1_026",
+      "audioFile": null,
+      "transcript": "A chef is preparing food in a restaurant kitchen.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A chef is preparing food in a restaurant kitchen."
+        },
+        {
+          "label": "B",
+          "text": "Customers are ordering from the menu."
+        },
+        {
+          "label": "C",
+          "text": "The kitchen is being cleaned."
+        },
+        {
+          "label": "D",
+          "text": "Food is being served at a table."
+        }
+      ],
+      "answer": "A",
+      "explanation": "シェフがレストランのキッチンで料理を準備している描写が正解です。",
+      "difficulty": 1,
+      "sceneEmoji": "👨‍🍳🍳",
+      "sceneJa": "レストランキッチン",
+      "sceneBg": "restaurant"
+    },
+    {
+      "id": "lp1_027",
+      "audioFile": null,
+      "transcript": "A technician is examining equipment in a laboratory.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Scientists are conducting an experiment with chemicals."
+        },
+        {
+          "label": "B",
+          "text": "A technician is examining equipment in a laboratory."
+        },
+        {
+          "label": "C",
+          "text": "Lab coats are hanging on hooks near the door."
+        },
+        {
+          "label": "D",
+          "text": "Test tubes are being washed in the sink."
+        }
+      ],
+      "answer": "B",
+      "explanation": "技術者が研究室で機器を調べている描写が正解です。examiningは「調べる・検査する」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🔬🧪",
+      "sceneJa": "研究室",
+      "sceneBg": "hospital"
+    },
+    {
+      "id": "lp1_028",
+      "audioFile": null,
+      "transcript": "A delivery person is handing a package to a woman at the door.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A delivery person is handing a package to a woman at the door."
+        },
+        {
+          "label": "B",
+          "text": "A woman is signing for a large shipment."
+        },
+        {
+          "label": "C",
+          "text": "Packages are stacked on the front porch."
+        },
+        {
+          "label": "D",
+          "text": "A delivery truck is parked on the street."
+        }
+      ],
+      "answer": "A",
+      "explanation": "配達員がドアで女性に荷物を渡している描写が正解です。handingは「手渡す」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "📦🚪",
+      "sceneJa": "玄関先",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_029",
+      "audioFile": null,
+      "transcript": "Students are raising their hands in a classroom.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A teacher is writing on the blackboard."
+        },
+        {
+          "label": "B",
+          "text": "Students are raising their hands in a classroom."
+        },
+        {
+          "label": "C",
+          "text": "Desks are arranged in a circle."
+        },
+        {
+          "label": "D",
+          "text": "The classroom is empty after school hours."
+        }
+      ],
+      "answer": "B",
+      "explanation": "教室で生徒たちが手を挙げている描写が正解です。raising their handsは「手を挙げる」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "✋🏫",
+      "sceneJa": "教室",
+      "sceneBg": "library"
+    },
+    {
+      "id": "lp1_030",
+      "audioFile": null,
+      "transcript": "A man is withdrawing cash from an ATM machine.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A man is filling out a deposit slip at the counter."
+        },
+        {
+          "label": "B",
+          "text": "A teller is counting bills behind the window."
+        },
+        {
+          "label": "C",
+          "text": "A man is withdrawing cash from an ATM machine."
+        },
+        {
+          "label": "D",
+          "text": "Customers are waiting in line at the bank."
+        }
+      ],
+      "answer": "C",
+      "explanation": "男性がATMで現金を引き出している描写が正解です。withdrawingは「引き出す」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🏧💵",
+      "sceneJa": "銀行ATM",
+      "sceneBg": "shop"
+    },
+    {
+      "id": "lp1_031",
+      "audioFile": null,
+      "transcript": "A woman is hanging a painting on the wall of a gallery.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Visitors are admiring sculptures in the gallery."
+        },
+        {
+          "label": "B",
+          "text": "A woman is hanging a painting on the wall of a gallery."
+        },
+        {
+          "label": "C",
+          "text": "The gallery is closed for a private event."
+        },
+        {
+          "label": "D",
+          "text": "Frames are stacked against the wall."
+        }
+      ],
+      "answer": "B",
+      "explanation": "女性がギャラリーの壁に絵画を掛けている描写が正解です。hangingは「掛ける」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🖼️👩",
+      "sceneJa": "ギャラリー",
+      "sceneBg": "shop"
+    },
+    {
+      "id": "lp1_032",
+      "audioFile": null,
+      "transcript": "Boats are docked along the waterfront marina.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Boats are docked along the waterfront marina."
+        },
+        {
+          "label": "B",
+          "text": "Fishermen are casting their nets into the sea."
+        },
+        {
+          "label": "C",
+          "text": "A sailboat is racing across the bay."
+        },
+        {
+          "label": "D",
+          "text": "Workers are repairing a dock near the shore."
+        }
+      ],
+      "answer": "A",
+      "explanation": "ウォーターフロントのマリーナに沿ってボートが停泊している描写が正解です。dockedは「停泊している」という状態を表します。",
+      "difficulty": 1,
+      "sceneEmoji": "⛵🏖️",
+      "sceneJa": "マリーナ",
+      "sceneBg": "beach"
+    },
+    {
+      "id": "lp1_033",
+      "audioFile": null,
+      "transcript": "A receptionist is greeting a guest at the hotel front desk.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A bellhop is carrying luggage to a room."
+        },
+        {
+          "label": "B",
+          "text": "Guests are relaxing in the hotel lounge."
+        },
+        {
+          "label": "C",
+          "text": "A receptionist is greeting a guest at the hotel front desk."
+        },
+        {
+          "label": "D",
+          "text": "The hotel lobby is being decorated for a wedding."
+        }
+      ],
+      "answer": "C",
+      "explanation": "受付係がホテルのフロントデスクでゲストを迎えている描写が正解です。greetingは「迎える・挨拶する」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🏨🛎️",
+      "sceneJa": "ホテルフロント",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_034",
+      "audioFile": null,
+      "transcript": "A mechanic is inspecting the engine of a car.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A mechanic is inspecting the engine of a car."
+        },
+        {
+          "label": "B",
+          "text": "A car is being washed at an automated car wash."
+        },
+        {
+          "label": "C",
+          "text": "Tires are stacked against the garage wall."
+        },
+        {
+          "label": "D",
+          "text": "A customer is paying for repairs at the counter."
+        }
+      ],
+      "answer": "A",
+      "explanation": "整備士が車のエンジンを点検している描写が正解です。inspectingは「点検する・検査する」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🔧🚗",
+      "sceneJa": "自動車整備工場",
+      "sceneBg": "factory"
+    },
+    {
+      "id": "lp1_035",
+      "audioFile": null,
+      "transcript": "Pedestrians are crossing the street at a crosswalk.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pedestrians are crossing the street at a crosswalk."
+        },
+        {
+          "label": "B",
+          "text": "A traffic officer is writing a parking ticket."
+        },
+        {
+          "label": "C",
+          "text": "Cars are stopped at a red light."
+        },
+        {
+          "label": "D",
+          "text": "A cyclist is riding along the bike lane."
+        }
+      ],
+      "answer": "A",
+      "explanation": "歩行者が横断歩道で通りを横断している描写が正解です。crosswalkは「横断歩道」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🚶‍♂️🚦",
+      "sceneJa": "街の交差点",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_036",
+      "audioFile": null,
+      "transcript": "Documents are being reviewed by a team seated around a table.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A manager is giving a presentation on a screen."
+        },
+        {
+          "label": "B",
+          "text": "Documents are being reviewed by a team seated around a table."
+        },
+        {
+          "label": "C",
+          "text": "An employee is making copies in the print room."
+        },
+        {
+          "label": "D",
+          "text": "Files are being stored in a cabinet."
+        }
+      ],
+      "answer": "B",
+      "explanation": "テーブルを囲んで座っているチームが書類を確認している描写が正解です。受動態の進行形が使われています。",
+      "difficulty": 3,
+      "sceneEmoji": "📄👥",
+      "sceneJa": "会議室",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_037",
+      "audioFile": null,
+      "transcript": "A pharmacist is handing a prescription to a customer over the counter.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A pharmacist is handing a prescription to a customer over the counter."
+        },
+        {
+          "label": "B",
+          "text": "Medicine bottles are being arranged on a shelf."
+        },
+        {
+          "label": "C",
+          "text": "A patient is waiting in the examination room."
+        },
+        {
+          "label": "D",
+          "text": "A doctor is writing a prescription at the desk."
+        }
+      ],
+      "answer": "A",
+      "explanation": "薬剤師がカウンター越しに処方箋を客に手渡している描写が正解です。prescriptionは「処方箋」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "💊🏥",
+      "sceneJa": "薬局",
+      "sceneBg": "hospital"
+    },
+    {
+      "id": "lp1_038",
+      "audioFile": null,
+      "transcript": "Workers are installing solar panels on the roof of a building.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A crane is lifting materials to the top of a building."
+        },
+        {
+          "label": "B",
+          "text": "Workers are installing solar panels on the roof of a building."
+        },
+        {
+          "label": "C",
+          "text": "The building is being painted by a maintenance crew."
+        },
+        {
+          "label": "D",
+          "text": "An architect is reviewing blueprints at the site."
+        }
+      ],
+      "answer": "B",
+      "explanation": "作業員が建物の屋根にソーラーパネルを設置している描写が正解です。installingは「設置する」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "☀️🏠",
+      "sceneJa": "建物の屋上",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_039",
+      "audioFile": null,
+      "transcript": "A woman is selecting produce at an outdoor farmers' market.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A vendor is setting up a display of baked goods."
+        },
+        {
+          "label": "B",
+          "text": "A woman is selecting produce at an outdoor farmers' market."
+        },
+        {
+          "label": "C",
+          "text": "Shopping bags are piled near the entrance."
+        },
+        {
+          "label": "D",
+          "text": "Workers are loading crates onto a truck."
+        }
+      ],
+      "answer": "B",
+      "explanation": "女性が屋外のファーマーズマーケットで農産物を選んでいる描写が正解です。produceは「農産物」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🥕🧺",
+      "sceneJa": "屋外マーケット",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_040",
+      "audioFile": null,
+      "transcript": "A security guard is checking identification at the building entrance.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A security guard is checking identification at the building entrance."
+        },
+        {
+          "label": "B",
+          "text": "An employee is swiping a key card at the door."
+        },
+        {
+          "label": "C",
+          "text": "Surveillance cameras are mounted above the doorway."
+        },
+        {
+          "label": "D",
+          "text": "Visitors are signing in at the registration desk."
+        }
+      ],
+      "answer": "A",
+      "explanation": "警備員が建物の入口で身分証明書を確認している描写が正解です。identificationは「身分証明書」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🛡️🏢",
+      "sceneJa": "ビル入口",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_041",
+      "audioFile": null,
+      "transcript": "Clothes are displayed on mannequins in a store window.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A customer is trying on a jacket in the fitting room."
+        },
+        {
+          "label": "B",
+          "text": "Clothes are displayed on mannequins in a store window."
+        },
+        {
+          "label": "C",
+          "text": "A salesperson is folding shirts on the counter."
+        },
+        {
+          "label": "D",
+          "text": "Shoppers are waiting in line at the cash register."
+        }
+      ],
+      "answer": "B",
+      "explanation": "店のショーウィンドウにマネキンに着せた服が展示されている描写が正解です。mannequinsは「マネキン」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "👗🪟",
+      "sceneJa": "衣料品店",
+      "sceneBg": "shop"
+    },
+    {
+      "id": "lp1_042",
+      "audioFile": null,
+      "transcript": "A lifeguard is watching swimmers from an elevated chair.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Children are building sandcastles on the shore."
+        },
+        {
+          "label": "B",
+          "text": "Surfers are riding waves near the pier."
+        },
+        {
+          "label": "C",
+          "text": "A lifeguard is watching swimmers from an elevated chair."
+        },
+        {
+          "label": "D",
+          "text": "Beach towels are spread across the sand."
+        }
+      ],
+      "answer": "C",
+      "explanation": "ライフガードが高い椅子から泳いでいる人たちを見守っている描写が正解です。elevatedは「高くなった」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🏊‍♂️🏖️",
+      "sceneJa": "ビーチ",
+      "sceneBg": "beach"
+    },
+    {
+      "id": "lp1_043",
+      "audioFile": null,
+      "transcript": "A man is mopping the floor in a hospital corridor.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A man is mopping the floor in a hospital corridor."
+        },
+        {
+          "label": "B",
+          "text": "A nurse is pushing a wheelchair down the hallway."
+        },
+        {
+          "label": "C",
+          "text": "Medical supplies are stacked in the storage room."
+        },
+        {
+          "label": "D",
+          "text": "Patients are lined up at the registration counter."
+        }
+      ],
+      "answer": "A",
+      "explanation": "男性が病院の廊下で床をモップがけしている描写が正解です。moppingは「モップがけをする」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🧹🏥",
+      "sceneJa": "病院の廊下",
+      "sceneBg": "hospital"
+    },
+    {
+      "id": "lp1_044",
+      "audioFile": null,
+      "transcript": "A forklift operator is stacking crates in a warehouse.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Workers are unloading boxes from a delivery truck."
+        },
+        {
+          "label": "B",
+          "text": "A forklift operator is stacking crates in a warehouse."
+        },
+        {
+          "label": "C",
+          "text": "The warehouse shelves are nearly empty."
+        },
+        {
+          "label": "D",
+          "text": "An inspector is checking labels on packages."
+        }
+      ],
+      "answer": "B",
+      "explanation": "フォークリフトの運転者が倉庫で木箱を積み上げている描写が正解です。stackingは「積み上げる」という意味です。",
+      "difficulty": 3,
+      "sceneEmoji": "🏗️📦",
+      "sceneJa": "倉庫",
+      "sceneBg": "factory"
+    },
+    {
+      "id": "lp1_045",
+      "audioFile": null,
+      "transcript": "A woman is placing flowers in a vase on the reception counter.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A woman is placing flowers in a vase on the reception counter."
+        },
+        {
+          "label": "B",
+          "text": "A florist is wrapping a bouquet for a customer."
+        },
+        {
+          "label": "C",
+          "text": "Plants are lined up along the office windowsill."
+        },
+        {
+          "label": "D",
+          "text": "A man is watering potted plants in the lobby."
+        }
+      ],
+      "answer": "A",
+      "explanation": "女性が受付カウンターの花瓶に花を生けている描写が正解です。placingは「置く・生ける」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "💐🏢",
+      "sceneJa": "オフィス受付",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_046",
+      "audioFile": null,
+      "transcript": "Hikers are walking along a mountain trail surrounded by trees.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hikers are walking along a mountain trail surrounded by trees."
+        },
+        {
+          "label": "B",
+          "text": "A group is setting up tents at a campsite."
+        },
+        {
+          "label": "C",
+          "text": "A river is flowing through a narrow valley."
+        },
+        {
+          "label": "D",
+          "text": "Birds are perched on branches near the path."
+        }
+      ],
+      "answer": "A",
+      "explanation": "ハイカーたちが木々に囲まれた山道を歩いている描写が正解です。surroundedは「囲まれた」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🥾🌲",
+      "sceneJa": "山道",
+      "sceneBg": "park"
+    },
+    {
+      "id": "lp1_047",
+      "audioFile": null,
+      "transcript": "An electrician is repairing wiring inside a ceiling panel.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A plumber is fixing a pipe under the sink."
+        },
+        {
+          "label": "B",
+          "text": "Lights are being installed in the new office."
+        },
+        {
+          "label": "C",
+          "text": "An electrician is repairing wiring inside a ceiling panel."
+        },
+        {
+          "label": "D",
+          "text": "Tools are scattered across the workbench."
+        }
+      ],
+      "answer": "C",
+      "explanation": "電気技師が天井パネル内の配線を修理している描写が正解です。wiringは「配線」という意味です。",
+      "difficulty": 3,
+      "sceneEmoji": "🔌🛠️",
+      "sceneJa": "建物内部",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_048",
+      "audioFile": null,
+      "transcript": "Passengers are waiting on the platform for a train to arrive.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A train is departing from the station."
+        },
+        {
+          "label": "B",
+          "text": "Passengers are waiting on the platform for a train to arrive."
+        },
+        {
+          "label": "C",
+          "text": "A conductor is punching tickets on the train."
+        },
+        {
+          "label": "D",
+          "text": "The ticket office is closed for the night."
+        }
+      ],
+      "answer": "B",
+      "explanation": "乗客がホームで電車の到着を待っている描写が正解です。platformは「プラットホーム」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🚆🧑‍🤝‍🧑",
+      "sceneJa": "駅のホーム",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_049",
+      "audioFile": null,
+      "transcript": "A painter is applying a coat of paint to the exterior wall.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A painter is applying a coat of paint to the exterior wall."
+        },
+        {
+          "label": "B",
+          "text": "Scaffolding is being set up around the building."
+        },
+        {
+          "label": "C",
+          "text": "A worker is mixing paint in a large bucket."
+        },
+        {
+          "label": "D",
+          "text": "The building facade has been freshly renovated."
+        }
+      ],
+      "answer": "A",
+      "explanation": "ペンキ職人が外壁に塗料を塗っている描写が正解です。applyingは「塗る・適用する」、exteriorは「外部の」という意味です。",
+      "difficulty": 3,
+      "sceneEmoji": "🎨🏠",
+      "sceneJa": "建物の外壁",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_050",
+      "audioFile": null,
+      "transcript": "A barista is frothing milk behind the coffee shop counter.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Customers are sitting at tables reading newspapers."
+        },
+        {
+          "label": "B",
+          "text": "A barista is frothing milk behind the coffee shop counter."
+        },
+        {
+          "label": "C",
+          "text": "Pastries are arranged in a glass display case."
+        },
+        {
+          "label": "D",
+          "text": "A line of people stretches out the door."
+        }
+      ],
+      "answer": "B",
+      "explanation": "バリスタがコーヒーショップのカウンターの後ろでミルクを泡立てている描写が正解です。frothingは「泡立てる」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "☕🥛",
+      "sceneJa": "カフェ",
+      "sceneBg": "restaurant"
+    },
+    {
+      "id": "lp1_051",
+      "audioFile": null,
+      "transcript": "A scientist is peering through a microscope in the research facility.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A scientist is peering through a microscope in the research facility."
+        },
+        {
+          "label": "B",
+          "text": "Lab assistants are cleaning glassware at the sink."
+        },
+        {
+          "label": "C",
+          "text": "Chemical samples are stored in a refrigerator."
+        },
+        {
+          "label": "D",
+          "text": "A researcher is recording data on a clipboard."
+        }
+      ],
+      "answer": "A",
+      "explanation": "科学者が研究施設で顕微鏡を覗いている描写が正解です。peering throughは「覗き込む」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🔬👨‍🔬",
+      "sceneJa": "研究施設",
+      "sceneBg": "hospital"
+    },
+    {
+      "id": "lp1_052",
+      "audioFile": null,
+      "transcript": "Shelves of merchandise are being restocked by an employee.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A customer is pushing a shopping cart through the aisle."
+        },
+        {
+          "label": "B",
+          "text": "Shelves of merchandise are being restocked by an employee."
+        },
+        {
+          "label": "C",
+          "text": "A sale sign is posted on the front window."
+        },
+        {
+          "label": "D",
+          "text": "The store is closed for inventory."
+        }
+      ],
+      "answer": "B",
+      "explanation": "従業員が商品棚に補充している描写が正解です。restockedは「補充する」という意味の受動態です。",
+      "difficulty": 2,
+      "sceneEmoji": "🛒📦",
+      "sceneJa": "小売店",
+      "sceneBg": "shop"
+    },
+    {
+      "id": "lp1_053",
+      "audioFile": null,
+      "transcript": "A pilot is walking across the tarmac toward an aircraft.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A pilot is walking across the tarmac toward an aircraft."
+        },
+        {
+          "label": "B",
+          "text": "Passengers are disembarking from the plane."
+        },
+        {
+          "label": "C",
+          "text": "Ground crew members are loading cargo into the hold."
+        },
+        {
+          "label": "D",
+          "text": "A fuel truck is parked beside the terminal."
+        }
+      ],
+      "answer": "A",
+      "explanation": "パイロットが駐機場を横切って航空機に向かって歩いている描写が正解です。tarmacは「駐機場」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "👨‍✈️✈️",
+      "sceneJa": "空港の駐機場",
+      "sceneBg": "airport"
+    },
+    {
+      "id": "lp1_054",
+      "audioFile": null,
+      "transcript": "A dentist is examining a patient's teeth under a bright light.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A receptionist is scheduling an appointment on the phone."
+        },
+        {
+          "label": "B",
+          "text": "Dental instruments are laid out on a tray."
+        },
+        {
+          "label": "C",
+          "text": "A dentist is examining a patient's teeth under a bright light."
+        },
+        {
+          "label": "D",
+          "text": "A patient is filling out forms in the waiting area."
+        }
+      ],
+      "answer": "C",
+      "explanation": "歯科医が明るいライトの下で患者の歯を診察している描写が正解です。examiningは「診察する」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🦷💡",
+      "sceneJa": "歯科医院",
+      "sceneBg": "hospital"
+    },
+    {
+      "id": "lp1_055",
+      "audioFile": null,
+      "transcript": "Laundry is hanging on a clothesline in the backyard.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A woman is loading clothes into a washing machine."
+        },
+        {
+          "label": "B",
+          "text": "Laundry is hanging on a clothesline in the backyard."
+        },
+        {
+          "label": "C",
+          "text": "Towels are folded neatly on a shelf."
+        },
+        {
+          "label": "D",
+          "text": "A man is ironing a shirt on an ironing board."
+        }
+      ],
+      "answer": "B",
+      "explanation": "裏庭の物干しロープに洗濯物が干されている描写が正解です。clotheslineは「物干しロープ」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "👕🌞",
+      "sceneJa": "裏庭",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_056",
+      "audioFile": null,
+      "transcript": "A teller is counting banknotes behind the glass partition.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A customer is filling out a loan application."
+        },
+        {
+          "label": "B",
+          "text": "A teller is counting banknotes behind the glass partition."
+        },
+        {
+          "label": "C",
+          "text": "The vault door is open for maintenance."
+        },
+        {
+          "label": "D",
+          "text": "Security cameras are mounted above the entrance."
+        }
+      ],
+      "answer": "B",
+      "explanation": "窓口係がガラスの仕切りの後ろで紙幣を数えている描写が正解です。banknotesは「紙幣」、partitionは「仕切り」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🏦💵",
+      "sceneJa": "銀行窓口",
+      "sceneBg": "shop"
+    },
+    {
+      "id": "lp1_057",
+      "audioFile": null,
+      "transcript": "A child is feeding ducks at the edge of a pond in the park.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A family is having a picnic on the grass."
+        },
+        {
+          "label": "B",
+          "text": "A jogger is running along the path near the pond."
+        },
+        {
+          "label": "C",
+          "text": "A child is feeding ducks at the edge of a pond in the park."
+        },
+        {
+          "label": "D",
+          "text": "Ducks are swimming toward the center of the pond."
+        }
+      ],
+      "answer": "C",
+      "explanation": "子供が公園の池のほとりでアヒルに餌をやっている描写が正解です。feedingは「餌をやる」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🦆👧",
+      "sceneJa": "公園の池",
+      "sceneBg": "park"
+    },
+    {
+      "id": "lp1_058",
+      "audioFile": null,
+      "transcript": "Conference attendees are registering at a check-in table in the lobby.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A speaker is addressing the audience from a podium."
+        },
+        {
+          "label": "B",
+          "text": "Conference attendees are registering at a check-in table in the lobby."
+        },
+        {
+          "label": "C",
+          "text": "Chairs are being set up in the auditorium."
+        },
+        {
+          "label": "D",
+          "text": "Refreshments are laid out on a buffet table."
+        }
+      ],
+      "answer": "B",
+      "explanation": "会議の出席者がロビーの受付テーブルで登録手続きをしている描写が正解です。registeringは「登録する」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "📋🏢",
+      "sceneJa": "会議場ロビー",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_059",
+      "audioFile": null,
+      "transcript": "A welder is working on a steel beam while wearing protective gear.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A welder is working on a steel beam while wearing protective gear."
+        },
+        {
+          "label": "B",
+          "text": "Construction materials are piled next to the foundation."
+        },
+        {
+          "label": "C",
+          "text": "A crane is lowering a load onto the site."
+        },
+        {
+          "label": "D",
+          "text": "Workers are taking a lunch break under a canopy."
+        }
+      ],
+      "answer": "A",
+      "explanation": "溶接工が保護具を着用しながら鉄骨に作業をしている描写が正解です。welderは「溶接工」、protective gearは「保護具」という意味です。",
+      "difficulty": 3,
+      "sceneEmoji": "🔥🏗️",
+      "sceneJa": "建設現場",
+      "sceneBg": "factory"
+    },
+    {
+      "id": "lp1_060",
+      "audioFile": null,
+      "transcript": "Suitcases are lined up beside the hotel entrance awaiting pickup.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A bellhop is loading luggage onto a cart."
+        },
+        {
+          "label": "B",
+          "text": "Guests are checking in at the front desk."
+        },
+        {
+          "label": "C",
+          "text": "Suitcases are lined up beside the hotel entrance awaiting pickup."
+        },
+        {
+          "label": "D",
+          "text": "A taxi is pulling up to the hotel driveway."
+        }
+      ],
+      "answer": "C",
+      "explanation": "ホテルの入口の横にスーツケースが並んで引き取りを待っている描写が正解です。awaitingは「待っている」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🧳🏨",
+      "sceneJa": "ホテル入口",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_061",
+      "audioFile": null,
+      "transcript": "A woman is arranging items on a display shelf in a boutique.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A woman is arranging items on a display shelf in a boutique."
+        },
+        {
+          "label": "B",
+          "text": "A customer is examining price tags on clothing racks."
+        },
+        {
+          "label": "C",
+          "text": "The shop window is being decorated for a holiday sale."
+        },
+        {
+          "label": "D",
+          "text": "Boxes of new inventory are stacked near the back door."
+        }
+      ],
+      "answer": "A",
+      "explanation": "女性がブティックの陳列棚に商品を並べている描写が正解です。arrangingは「並べる・配置する」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🛍️✨",
+      "sceneJa": "ブティック",
+      "sceneBg": "shop"
+    },
+    {
+      "id": "lp1_062",
+      "audioFile": null,
+      "transcript": "A firefighter is climbing a ladder propped against a building.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A fire truck is parked at the curb with its lights flashing."
+        },
+        {
+          "label": "B",
+          "text": "A firefighter is climbing a ladder propped against a building."
+        },
+        {
+          "label": "C",
+          "text": "Smoke is rising from a chimney on the rooftop."
+        },
+        {
+          "label": "D",
+          "text": "Firefighters are rolling up hoses on the street."
+        }
+      ],
+      "answer": "B",
+      "explanation": "消防士が建物に立てかけたはしごを登っている描写が正解です。proppedは「立てかけた」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🚒🪜",
+      "sceneJa": "建物外壁",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_063",
+      "audioFile": null,
+      "transcript": "A man is reading a newspaper on a bench in the park.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A man is reading a newspaper on a bench in the park."
+        },
+        {
+          "label": "B",
+          "text": "Children are playing on a jungle gym nearby."
+        },
+        {
+          "label": "C",
+          "text": "A dog is running across the open field."
+        },
+        {
+          "label": "D",
+          "text": "A vendor is selling ice cream from a cart."
+        }
+      ],
+      "answer": "A",
+      "explanation": "男性が公園のベンチで新聞を読んでいる描写が正解です。",
+      "difficulty": 1,
+      "sceneEmoji": "📰🪑",
+      "sceneJa": "公園のベンチ",
+      "sceneBg": "park"
+    },
+    {
+      "id": "lp1_064",
+      "audioFile": null,
+      "transcript": "Nurses are gathered around a station reviewing patient charts.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A doctor is performing surgery in the operating room."
+        },
+        {
+          "label": "B",
+          "text": "Nurses are gathered around a station reviewing patient charts."
+        },
+        {
+          "label": "C",
+          "text": "An ambulance is arriving at the emergency entrance."
+        },
+        {
+          "label": "D",
+          "text": "Medical equipment is being sterilized in the supply room."
+        }
+      ],
+      "answer": "B",
+      "explanation": "看護師たちがナースステーションに集まって患者のカルテを確認している描写が正解です。chartsは「カルテ」という意味です。",
+      "difficulty": 3,
+      "sceneEmoji": "👩‍⚕️📋",
+      "sceneJa": "ナースステーション",
+      "sceneBg": "hospital"
+    },
+    {
+      "id": "lp1_065",
+      "audioFile": null,
+      "transcript": "A janitor is emptying trash bins along the office hallway.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A janitor is emptying trash bins along the office hallway."
+        },
+        {
+          "label": "B",
+          "text": "Recycling containers are overflowing near the elevator."
+        },
+        {
+          "label": "C",
+          "text": "An employee is walking toward the break room."
+        },
+        {
+          "label": "D",
+          "text": "Cleaning supplies are stored inside a closet."
+        }
+      ],
+      "answer": "A",
+      "explanation": "清掃員がオフィスの廊下に沿ってゴミ箱を空にしている描写が正解です。janitorは「清掃員」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🗑️🧹",
+      "sceneJa": "オフィスの廊下",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_066",
+      "audioFile": null,
+      "transcript": "Kayakers are paddling down a calm river surrounded by greenery.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A fisherman is casting a line from the riverbank."
+        },
+        {
+          "label": "B",
+          "text": "Kayakers are paddling down a calm river surrounded by greenery."
+        },
+        {
+          "label": "C",
+          "text": "A bridge spans the river in the distance."
+        },
+        {
+          "label": "D",
+          "text": "Logs are floating downstream toward the dam."
+        }
+      ],
+      "answer": "B",
+      "explanation": "カヤックの漕ぎ手たちが緑に囲まれた穏やかな川を下っている描写が正解です。paddlingは「パドルで漕ぐ」という意味です。",
+      "difficulty": 3,
+      "sceneEmoji": "🛶🌿",
+      "sceneJa": "川",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_067",
+      "audioFile": null,
+      "transcript": "A teacher is distributing worksheets to students in a classroom.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Students are taking a test at their desks."
+        },
+        {
+          "label": "B",
+          "text": "A teacher is distributing worksheets to students in a classroom."
+        },
+        {
+          "label": "C",
+          "text": "A projector is displaying a graph on the screen."
+        },
+        {
+          "label": "D",
+          "text": "Backpacks are hanging on hooks near the door."
+        }
+      ],
+      "answer": "B",
+      "explanation": "教師が教室で生徒にワークシートを配っている描写が正解です。distributingは「配布する」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "📝👩‍🏫",
+      "sceneJa": "教室",
+      "sceneBg": "library"
+    },
+    {
+      "id": "lp1_068",
+      "audioFile": null,
+      "transcript": "A row of treadmills faces a large window overlooking the city.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "People are stretching on yoga mats."
+        },
+        {
+          "label": "B",
+          "text": "A personal trainer is demonstrating an exercise."
+        },
+        {
+          "label": "C",
+          "text": "A row of treadmills faces a large window overlooking the city."
+        },
+        {
+          "label": "D",
+          "text": "Weights are arranged on a rack against the wall."
+        }
+      ],
+      "answer": "C",
+      "explanation": "一列のトレッドミルが街を見渡す大きな窓に面している描写が正解です。treadmillsは「ランニングマシン」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🏃‍♂️🪟",
+      "sceneJa": "フィットネスジム",
+      "sceneBg": "gym"
+    },
+    {
+      "id": "lp1_069",
+      "audioFile": null,
+      "transcript": "A customs officer is inspecting luggage at the border checkpoint.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Travelers are lining up to show their passports."
+        },
+        {
+          "label": "B",
+          "text": "A customs officer is inspecting luggage at the border checkpoint."
+        },
+        {
+          "label": "C",
+          "text": "A bus is crossing the international bridge."
+        },
+        {
+          "label": "D",
+          "text": "Signs are posted in multiple languages at the gate."
+        }
+      ],
+      "answer": "B",
+      "explanation": "税関職員が国境の検問所で荷物を検査している描写が正解です。customs officerは「税関職員」、checkpointは「検問所」です。",
+      "difficulty": 3,
+      "sceneEmoji": "🛃🧳",
+      "sceneJa": "国境検問所",
+      "sceneBg": "airport"
+    },
+    {
+      "id": "lp1_070",
+      "audioFile": null,
+      "transcript": "A baker is sliding a tray of bread into a large oven.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A baker is sliding a tray of bread into a large oven."
+        },
+        {
+          "label": "B",
+          "text": "Loaves of bread are cooling on a wire rack."
+        },
+        {
+          "label": "C",
+          "text": "A customer is choosing pastries from the display case."
+        },
+        {
+          "label": "D",
+          "text": "Flour bags are stacked in the storage area."
+        }
+      ],
+      "answer": "A",
+      "explanation": "パン職人がパンの載ったトレイを大きなオーブンに入れている描写が正解です。slidingは「滑り込ませる」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🍞🔥",
+      "sceneJa": "パン工房",
+      "sceneBg": "restaurant"
+    },
+    {
+      "id": "lp1_071",
+      "audioFile": null,
+      "transcript": "A woman is leaning against a railing while looking at the ocean.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A woman is leaning against a railing while looking at the ocean."
+        },
+        {
+          "label": "B",
+          "text": "Surfers are wading into the water with their boards."
+        },
+        {
+          "label": "C",
+          "text": "A ship is anchored far from the shore."
+        },
+        {
+          "label": "D",
+          "text": "Seagulls are flying over the pier."
+        }
+      ],
+      "answer": "A",
+      "explanation": "女性が手すりにもたれかかりながら海を眺めている描写が正解です。leaning againstは「もたれかかる」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🌊👩",
+      "sceneJa": "海辺の展望台",
+      "sceneBg": "beach"
+    },
+    {
+      "id": "lp1_072",
+      "audioFile": null,
+      "transcript": "Machinery on the factory floor is operated by workers wearing earplugs.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Machinery on the factory floor is operated by workers wearing earplugs."
+        },
+        {
+          "label": "B",
+          "text": "A supervisor is writing notes on a clipboard."
+        },
+        {
+          "label": "C",
+          "text": "Boxes are being sealed on the packaging line."
+        },
+        {
+          "label": "D",
+          "text": "The factory lights are turned off for the night."
+        }
+      ],
+      "answer": "A",
+      "explanation": "工場のフロアで耳栓を着用した作業員が機械を操作している描写が正解です。earplugsは「耳栓」という意味です。",
+      "difficulty": 3,
+      "sceneEmoji": "🏭🔊",
+      "sceneJa": "工場フロア",
+      "sceneBg": "factory"
+    },
+    {
+      "id": "lp1_073",
+      "audioFile": null,
+      "transcript": "An instructor is writing equations on a whiteboard in front of the class.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Students are taking notes at their desks."
+        },
+        {
+          "label": "B",
+          "text": "An instructor is writing equations on a whiteboard in front of the class."
+        },
+        {
+          "label": "C",
+          "text": "A student is asking a question with a raised hand."
+        },
+        {
+          "label": "D",
+          "text": "Textbooks are open on every desk."
+        }
+      ],
+      "answer": "B",
+      "explanation": "講師がクラスの前のホワイトボードに方程式を書いている描写が正解です。equationsは「方程式」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "📐👨‍🏫",
+      "sceneJa": "教室",
+      "sceneBg": "library"
+    },
+    {
+      "id": "lp1_074",
+      "audioFile": null,
+      "transcript": "A valet attendant is opening a car door for a hotel guest.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A valet attendant is opening a car door for a hotel guest."
+        },
+        {
+          "label": "B",
+          "text": "Cars are parked in rows in the underground garage."
+        },
+        {
+          "label": "C",
+          "text": "A doorman is holding the hotel entrance open."
+        },
+        {
+          "label": "D",
+          "text": "Luggage is being unloaded from the trunk of a vehicle."
+        }
+      ],
+      "answer": "A",
+      "explanation": "バレー係がホテルの客のために車のドアを開けている描写が正解です。valetは「バレー（駐車係）」という意味です。",
+      "difficulty": 3,
+      "sceneEmoji": "🚗🏨",
+      "sceneJa": "ホテル車寄せ",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_075",
+      "audioFile": null,
+      "transcript": "A woman is placing groceries into a reusable bag at the checkout.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A cashier is scanning barcodes at the register."
+        },
+        {
+          "label": "B",
+          "text": "A woman is placing groceries into a reusable bag at the checkout."
+        },
+        {
+          "label": "C",
+          "text": "Shopping carts are lined up outside the store."
+        },
+        {
+          "label": "D",
+          "text": "A store employee is stacking cans on a shelf."
+        }
+      ],
+      "answer": "B",
+      "explanation": "女性がレジでエコバッグに食料品を入れている描写が正解です。reusable bagは「エコバッグ」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🛒🥬",
+      "sceneJa": "スーパーマーケット",
+      "sceneBg": "shop"
+    },
+    {
+      "id": "lp1_076",
+      "audioFile": null,
+      "transcript": "A man is adjusting his tie in front of a mirror in the hallway.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A man is adjusting his tie in front of a mirror in the hallway."
+        },
+        {
+          "label": "B",
+          "text": "An employee is hanging a coat on the rack."
+        },
+        {
+          "label": "C",
+          "text": "A woman is checking her phone near the elevator."
+        },
+        {
+          "label": "D",
+          "text": "The hallway lights are being replaced by maintenance."
+        }
+      ],
+      "answer": "A",
+      "explanation": "男性が廊下の鏡の前でネクタイを直している描写が正解です。adjustingは「調整する・直す」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "👔🪞",
+      "sceneJa": "オフィスの廊下",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_077",
+      "audioFile": null,
+      "transcript": "Road construction equipment is parked alongside the highway.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Traffic is moving slowly through the construction zone."
+        },
+        {
+          "label": "B",
+          "text": "Road construction equipment is parked alongside the highway."
+        },
+        {
+          "label": "C",
+          "text": "Workers are laying fresh asphalt on the road surface."
+        },
+        {
+          "label": "D",
+          "text": "Orange cones are set up across two lanes."
+        }
+      ],
+      "answer": "B",
+      "explanation": "道路工事の機材が高速道路の脇に駐車されている描写が正解です。alongsideは「〜の脇に」という意味です。",
+      "difficulty": 3,
+      "sceneEmoji": "🚜🛣️",
+      "sceneJa": "高速道路脇",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_078",
+      "audioFile": null,
+      "transcript": "A server is carrying a tray of drinks through the restaurant.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A server is carrying a tray of drinks through the restaurant."
+        },
+        {
+          "label": "B",
+          "text": "Diners are studying the dessert menu."
+        },
+        {
+          "label": "C",
+          "text": "Tables are being wiped down after the lunch rush."
+        },
+        {
+          "label": "D",
+          "text": "A hostess is escorting guests to their seats."
+        }
+      ],
+      "answer": "A",
+      "explanation": "サーバーがレストラン内をドリンクの載ったトレイを持って運んでいる描写が正解です。",
+      "difficulty": 1,
+      "sceneEmoji": "🍹🍽️",
+      "sceneJa": "レストラン",
+      "sceneBg": "restaurant"
+    },
+    {
+      "id": "lp1_079",
+      "audioFile": null,
+      "transcript": "A postal worker is sorting letters into mailboxes at the post office.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A customer is purchasing stamps at the window."
+        },
+        {
+          "label": "B",
+          "text": "Packages are stacked on a dolly near the loading dock."
+        },
+        {
+          "label": "C",
+          "text": "A postal worker is sorting letters into mailboxes at the post office."
+        },
+        {
+          "label": "D",
+          "text": "A mail truck is parked outside the building."
+        }
+      ],
+      "answer": "C",
+      "explanation": "郵便局員が郵便局で手紙を郵便受けに仕分けしている描写が正解です。sortingは「仕分けする」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "✉️📬",
+      "sceneJa": "郵便局",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_080",
+      "audioFile": null,
+      "transcript": "A photographer is setting up a tripod in front of a landscape.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A photographer is setting up a tripod in front of a landscape."
+        },
+        {
+          "label": "B",
+          "text": "Tourists are taking selfies at a scenic overlook."
+        },
+        {
+          "label": "C",
+          "text": "A painter is sketching mountains on a canvas."
+        },
+        {
+          "label": "D",
+          "text": "A group is posing for a picture near the waterfall."
+        }
+      ],
+      "answer": "A",
+      "explanation": "写真家が風景の前で三脚を設置している描写が正解です。tripodは「三脚」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "📷🏔️",
+      "sceneJa": "屋外の景勝地",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_081",
+      "audioFile": null,
+      "transcript": "Medical records are being filed in cabinets by an administrative assistant.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A doctor is consulting with a colleague in the office."
+        },
+        {
+          "label": "B",
+          "text": "Medical records are being filed in cabinets by an administrative assistant."
+        },
+        {
+          "label": "C",
+          "text": "A patient is being wheeled on a gurney down the corridor."
+        },
+        {
+          "label": "D",
+          "text": "Appointment reminders are displayed on a bulletin board."
+        }
+      ],
+      "answer": "B",
+      "explanation": "事務アシスタントが医療記録をキャビネットに整理している描写が正解です。filedは「ファイルする・整理する」という意味の受動態です。",
+      "difficulty": 3,
+      "sceneEmoji": "📁🏥",
+      "sceneJa": "病院事務室",
+      "sceneBg": "hospital"
+    },
+    {
+      "id": "lp1_082",
+      "audioFile": null,
+      "transcript": "A man is loading suitcases into the trunk of a car.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A man is loading suitcases into the trunk of a car."
+        },
+        {
+          "label": "B",
+          "text": "A woman is fastening her seatbelt in the passenger seat."
+        },
+        {
+          "label": "C",
+          "text": "The car engine is being inspected by a mechanic."
+        },
+        {
+          "label": "D",
+          "text": "A child is waving from the back window of the car."
+        }
+      ],
+      "answer": "A",
+      "explanation": "男性が車のトランクにスーツケースを積み込んでいる描写が正解です。loadingは「積み込む」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🧳🚗",
+      "sceneJa": "駐車場",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_083",
+      "audioFile": null,
+      "transcript": "A swimmer is diving into a pool from the starting block.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Spectators are cheering from the bleachers."
+        },
+        {
+          "label": "B",
+          "text": "A swimmer is diving into a pool from the starting block."
+        },
+        {
+          "label": "C",
+          "text": "A coach is holding a stopwatch at the poolside."
+        },
+        {
+          "label": "D",
+          "text": "Lane dividers are floating on the surface of the pool."
+        }
+      ],
+      "answer": "B",
+      "explanation": "水泳選手がスタート台からプールに飛び込んでいる描写が正解です。starting blockは「スタート台」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🏊‍♂️💦",
+      "sceneJa": "屋内プール",
+      "sceneBg": "gym"
+    },
+    {
+      "id": "lp1_084",
+      "audioFile": null,
+      "transcript": "A clerk is stamping documents at the government office counter.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Citizens are filling out forms at standing desks."
+        },
+        {
+          "label": "B",
+          "text": "A queue number is being displayed on the electronic board."
+        },
+        {
+          "label": "C",
+          "text": "A clerk is stamping documents at the government office counter."
+        },
+        {
+          "label": "D",
+          "text": "Brochures are stacked on a table near the entrance."
+        }
+      ],
+      "answer": "C",
+      "explanation": "職員が役所のカウンターで書類にスタンプを押している描写が正解です。stampingは「スタンプを押す」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🏛️📄",
+      "sceneJa": "役所の窓口",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_085",
+      "audioFile": null,
+      "transcript": "A dog walker is leading several dogs along a sidewalk.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A dog walker is leading several dogs along a sidewalk."
+        },
+        {
+          "label": "B",
+          "text": "A woman is sitting on a park bench with her pet."
+        },
+        {
+          "label": "C",
+          "text": "Dogs are playing with a ball in the fenced area."
+        },
+        {
+          "label": "D",
+          "text": "A veterinarian is examining a dog on a table."
+        }
+      ],
+      "answer": "A",
+      "explanation": "ドッグウォーカーが歩道で数匹の犬を連れて歩いている描写が正解です。leadingは「連れて行く」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🐕🚶",
+      "sceneJa": "歩道",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_086",
+      "audioFile": null,
+      "transcript": "An architect is pointing at blueprints spread across a conference table.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An architect is pointing at blueprints spread across a conference table."
+        },
+        {
+          "label": "B",
+          "text": "A model of a building is displayed in a glass case."
+        },
+        {
+          "label": "C",
+          "text": "Construction workers are reviewing safety protocols onsite."
+        },
+        {
+          "label": "D",
+          "text": "Drafting tools are organized neatly in a drawer."
+        }
+      ],
+      "answer": "A",
+      "explanation": "建築家が会議テーブルに広げた設計図を指し示している描写が正解です。blueprintsは「設計図」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "📐🏗️",
+      "sceneJa": "会議室",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_087",
+      "audioFile": null,
+      "transcript": "Divers are preparing their equipment on the deck of a boat.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The boat is anchored near a coral reef."
+        },
+        {
+          "label": "B",
+          "text": "Divers are preparing their equipment on the deck of a boat."
+        },
+        {
+          "label": "C",
+          "text": "Fish are visible beneath the clear water surface."
+        },
+        {
+          "label": "D",
+          "text": "A crew member is steering the boat toward the shore."
+        }
+      ],
+      "answer": "B",
+      "explanation": "ダイバーたちがボートのデッキで機材を準備している描写が正解です。deckは「甲板」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🤿🚤",
+      "sceneJa": "ボートのデッキ",
+      "sceneBg": "beach"
+    },
+    {
+      "id": "lp1_088",
+      "audioFile": null,
+      "transcript": "A ticket collector is scanning boarding passes at the departure gate.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Passengers are retrieving their luggage from the overhead bin."
+        },
+        {
+          "label": "B",
+          "text": "A ticket collector is scanning boarding passes at the departure gate."
+        },
+        {
+          "label": "C",
+          "text": "An announcement is being made over the loudspeaker."
+        },
+        {
+          "label": "D",
+          "text": "Travelers are browsing shops in the duty-free area."
+        }
+      ],
+      "answer": "B",
+      "explanation": "改札係が出発ゲートで搭乗券をスキャンしている描写が正解です。boarding passesは「搭乗券」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🎫✈️",
+      "sceneJa": "空港の出発ゲート",
+      "sceneBg": "airport"
+    },
+    {
+      "id": "lp1_089",
+      "audioFile": null,
+      "transcript": "A man is stacking firewood beside a cabin in the woods.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A man is stacking firewood beside a cabin in the woods."
+        },
+        {
+          "label": "B",
+          "text": "Smoke is rising from the cabin chimney."
+        },
+        {
+          "label": "C",
+          "text": "A canoe is resting on the shore of a nearby lake."
+        },
+        {
+          "label": "D",
+          "text": "Leaves are falling from the trees onto the ground."
+        }
+      ],
+      "answer": "A",
+      "explanation": "男性が森の中の小屋の横で薪を積み上げている描写が正解です。firewoodは「薪」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🪵🏕️",
+      "sceneJa": "森のキャビン",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_090",
+      "audioFile": null,
+      "transcript": "Office workers are collaborating around a whiteboard covered in sticky notes.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Office workers are collaborating around a whiteboard covered in sticky notes."
+        },
+        {
+          "label": "B",
+          "text": "A manager is giving feedback during a performance review."
+        },
+        {
+          "label": "C",
+          "text": "Desks are arranged in an open-plan layout."
+        },
+        {
+          "label": "D",
+          "text": "An employee is organizing binders on a bookshelf."
+        }
+      ],
+      "answer": "A",
+      "explanation": "オフィスの従業員たちが付箋だらけのホワイトボードの周りで協力して作業している描写が正解です。collaboratingは「協力する」という意味です。",
+      "difficulty": 3,
+      "sceneEmoji": "📌🤝",
+      "sceneJa": "オフィス",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_091",
+      "audioFile": null,
+      "transcript": "A woman is hailing a taxi on a busy city street.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A woman is hailing a taxi on a busy city street."
+        },
+        {
+          "label": "B",
+          "text": "A bus is stopped at the curb to pick up passengers."
+        },
+        {
+          "label": "C",
+          "text": "A cyclist is weaving through traffic."
+        },
+        {
+          "label": "D",
+          "text": "Street vendors are selling food from carts."
+        }
+      ],
+      "answer": "A",
+      "explanation": "女性が賑やかな街の通りでタクシーを呼び止めている描写が正解です。hailingは「呼び止める」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🚕🙋‍♀️",
+      "sceneJa": "繁華街",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_092",
+      "audioFile": null,
+      "transcript": "Bookshelves stretch from floor to ceiling in the reading room.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A librarian is pushing a book cart between the aisles."
+        },
+        {
+          "label": "B",
+          "text": "Students are gathered at a study table near the window."
+        },
+        {
+          "label": "C",
+          "text": "Bookshelves stretch from floor to ceiling in the reading room."
+        },
+        {
+          "label": "D",
+          "text": "A child is sitting on a cushion in the children's section."
+        }
+      ],
+      "answer": "C",
+      "explanation": "読書室で本棚が床から天井まで伸びている描写が正解です。stretchは「伸びる・広がる」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "📚🏛️",
+      "sceneJa": "図書館の読書室",
+      "sceneBg": "library"
+    },
+    {
+      "id": "lp1_093",
+      "audioFile": null,
+      "transcript": "A crane is hoisting steel beams above an unfinished building structure.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Workers are pouring concrete into wooden forms."
+        },
+        {
+          "label": "B",
+          "text": "A crane is hoisting steel beams above an unfinished building structure."
+        },
+        {
+          "label": "C",
+          "text": "Scaffolding surrounds the lower floors of the building."
+        },
+        {
+          "label": "D",
+          "text": "Safety barriers are set up around the perimeter."
+        }
+      ],
+      "answer": "B",
+      "explanation": "クレーンが未完成の建物の上に鉄骨を吊り上げている描写が正解です。hoistingは「吊り上げる」という意味です。",
+      "difficulty": 3,
+      "sceneEmoji": "🏗️🔩",
+      "sceneJa": "建設現場",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_094",
+      "audioFile": null,
+      "transcript": "A chef is garnishing a plate of food with fresh herbs.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A chef is garnishing a plate of food with fresh herbs."
+        },
+        {
+          "label": "B",
+          "text": "Pots are simmering on the stove in the background."
+        },
+        {
+          "label": "C",
+          "text": "A dishwasher is rinsing plates in the sink."
+        },
+        {
+          "label": "D",
+          "text": "Ingredients are spread across the prep counter."
+        }
+      ],
+      "answer": "A",
+      "explanation": "シェフがフレッシュハーブで料理の盛り付けをしている描写が正解です。garnishingは「飾り付ける・盛り付ける」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "👨‍🍳🌿",
+      "sceneJa": "レストランキッチン",
+      "sceneBg": "restaurant"
+    },
+    {
+      "id": "lp1_095",
+      "audioFile": null,
+      "transcript": "Audience members are applauding at the end of a concert performance.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Musicians are tuning their instruments on stage."
+        },
+        {
+          "label": "B",
+          "text": "Audience members are applauding at the end of a concert performance."
+        },
+        {
+          "label": "C",
+          "text": "Stage lights are being tested before the show."
+        },
+        {
+          "label": "D",
+          "text": "Programs are being distributed at the entrance."
+        }
+      ],
+      "answer": "B",
+      "explanation": "観客がコンサートの終わりに拍手をしている描写が正解です。applaudingは「拍手する」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "👏🎵",
+      "sceneJa": "コンサートホール",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_096",
+      "audioFile": null,
+      "transcript": "A flight attendant is demonstrating the use of an oxygen mask.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Passengers are fastening their seatbelts before takeoff."
+        },
+        {
+          "label": "B",
+          "text": "A pilot is making an announcement over the intercom."
+        },
+        {
+          "label": "C",
+          "text": "A flight attendant is demonstrating the use of an oxygen mask."
+        },
+        {
+          "label": "D",
+          "text": "Overhead compartments are being closed by passengers."
+        }
+      ],
+      "answer": "C",
+      "explanation": "客室乗務員が酸素マスクの使い方を実演している描写が正解です。demonstratingは「実演する」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "✈️😷",
+      "sceneJa": "機内",
+      "sceneBg": "airport"
+    },
+    {
+      "id": "lp1_097",
+      "audioFile": null,
+      "transcript": "A maintenance worker is replacing a light bulb in the ceiling fixture.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A maintenance worker is replacing a light bulb in the ceiling fixture."
+        },
+        {
+          "label": "B",
+          "text": "An electrician is installing a new outlet on the wall."
+        },
+        {
+          "label": "C",
+          "text": "A ladder is leaning against the storage room door."
+        },
+        {
+          "label": "D",
+          "text": "The hallway is dimly lit due to a power outage."
+        }
+      ],
+      "answer": "A",
+      "explanation": "保守作業員が天井の照明器具の電球を交換している描写が正解です。replacingは「交換する」、fixtureは「照明器具」です。",
+      "difficulty": 2,
+      "sceneEmoji": "💡🔧",
+      "sceneJa": "建物の廊下",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_098",
+      "audioFile": null,
+      "transcript": "Fishing boats are anchored in the harbor at dawn.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fishermen are repairing nets on the dock."
+        },
+        {
+          "label": "B",
+          "text": "Fishing boats are anchored in the harbor at dawn."
+        },
+        {
+          "label": "C",
+          "text": "Waves are crashing against the breakwater."
+        },
+        {
+          "label": "D",
+          "text": "A lighthouse beacon is shining over the water."
+        }
+      ],
+      "answer": "B",
+      "explanation": "夜明けに漁船が港に停泊している描写が正解です。anchoredは「停泊した」、harborは「港」、dawnは「夜明け」という意味です。",
+      "difficulty": 3,
+      "sceneEmoji": "🚢🌅",
+      "sceneJa": "港",
+      "sceneBg": "beach"
+    },
+    {
+      "id": "lp1_099",
+      "audioFile": null,
+      "transcript": "A woman is scanning a document using a photocopier.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A woman is scanning a document using a photocopier."
+        },
+        {
+          "label": "B",
+          "text": "Paper is jammed inside the printer."
+        },
+        {
+          "label": "C",
+          "text": "An IT technician is setting up a new computer."
+        },
+        {
+          "label": "D",
+          "text": "Files are stacked on the desk next to the keyboard."
+        }
+      ],
+      "answer": "A",
+      "explanation": "女性がコピー機で書類をスキャンしている描写が正解です。photocopierは「コピー機」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🖨️📄",
+      "sceneJa": "オフィス",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_100",
+      "audioFile": null,
+      "transcript": "A group of cyclists is riding in formation along a country road.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A group of cyclists is riding in formation along a country road."
+        },
+        {
+          "label": "B",
+          "text": "A car is overtaking a slow-moving vehicle on the highway."
+        },
+        {
+          "label": "C",
+          "text": "Farmland stretches out on both sides of the road."
+        },
+        {
+          "label": "D",
+          "text": "A road sign warns of a sharp curve ahead."
+        }
+      ],
+      "answer": "A",
+      "explanation": "自転車のグループが田舎道をフォーメーションを組んで走っている描写が正解です。in formationは「隊列を組んで」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🚴‍♂️🛤️",
+      "sceneJa": "田舎道",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_101",
+      "audioFile": null,
+      "transcript": "A librarian is helping a patron locate a book using the catalog system.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A librarian is helping a patron locate a book using the catalog system."
+        },
+        {
+          "label": "B",
+          "text": "Books are being returned through the drop-off slot."
+        },
+        {
+          "label": "C",
+          "text": "A reading group is discussing a novel in the meeting room."
+        },
+        {
+          "label": "D",
+          "text": "New arrivals are displayed on a table near the entrance."
+        }
+      ],
+      "answer": "A",
+      "explanation": "図書館員がカタログシステムを使って利用者の本探しを手伝っている描写が正解です。locateは「見つける」という意味です。",
+      "difficulty": 3,
+      "sceneEmoji": "📚🔍",
+      "sceneJa": "図書館",
+      "sceneBg": "library"
+    },
+    {
+      "id": "lp1_102",
+      "audioFile": null,
+      "transcript": "A man is polishing the floor of a hotel lobby with a buffing machine.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Guests are sitting on sofas in the lobby lounge."
+        },
+        {
+          "label": "B",
+          "text": "A man is polishing the floor of a hotel lobby with a buffing machine."
+        },
+        {
+          "label": "C",
+          "text": "A chandelier hangs from the ceiling above the front desk."
+        },
+        {
+          "label": "D",
+          "text": "A concierge is handing a map to a tourist."
+        }
+      ],
+      "answer": "B",
+      "explanation": "男性がバフ研磨機でホテルのロビーの床を磨いている描写が正解です。polishingは「磨く」、buffing machineは「床磨き機」です。",
+      "difficulty": 3,
+      "sceneEmoji": "✨🏨",
+      "sceneJa": "ホテルロビー",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_103",
+      "audioFile": null,
+      "transcript": "A woman is watering potted plants on a balcony.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A woman is watering potted plants on a balcony."
+        },
+        {
+          "label": "B",
+          "text": "A gardener is mowing the lawn in the front yard."
+        },
+        {
+          "label": "C",
+          "text": "Flowers are blooming in the garden below."
+        },
+        {
+          "label": "D",
+          "text": "Rain is falling on the patio furniture."
+        }
+      ],
+      "answer": "A",
+      "explanation": "女性がバルコニーの鉢植えに水をやっている描写が正解です。potted plantsは「鉢植え」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🌱💧",
+      "sceneJa": "バルコニー",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_104",
+      "audioFile": null,
+      "transcript": "A surgeon is scrubbing hands at the sink before entering the operating room.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A surgeon is scrubbing hands at the sink before entering the operating room."
+        },
+        {
+          "label": "B",
+          "text": "Nurses are preparing surgical instruments on a tray."
+        },
+        {
+          "label": "C",
+          "text": "A patient is being wheeled into the recovery ward."
+        },
+        {
+          "label": "D",
+          "text": "Monitors are displaying vital signs on the screen."
+        }
+      ],
+      "answer": "A",
+      "explanation": "外科医が手術室に入る前にシンクで手を洗っている描写が正解です。scrubbingは「ごしごし洗う」という意味で、手術前の手洗いを表します。",
+      "difficulty": 3,
+      "sceneEmoji": "🩺🧼",
+      "sceneJa": "手術室前",
+      "sceneBg": "hospital"
+    },
+    {
+      "id": "lp1_105",
+      "audioFile": null,
+      "transcript": "Packages are being sorted on a conveyor belt in a distribution center.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A truck is backing up to the loading dock."
+        },
+        {
+          "label": "B",
+          "text": "Packages are being sorted on a conveyor belt in a distribution center."
+        },
+        {
+          "label": "C",
+          "text": "Workers are scanning barcodes with handheld devices."
+        },
+        {
+          "label": "D",
+          "text": "Empty pallets are stacked near the warehouse exit."
+        }
+      ],
+      "answer": "B",
+      "explanation": "配送センターのベルトコンベアで荷物が仕分けされている描写が正解です。distribution centerは「配送センター」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "📦🔄",
+      "sceneJa": "配送センター",
+      "sceneBg": "factory"
+    },
+    {
+      "id": "lp1_106",
+      "audioFile": null,
+      "transcript": "A couple is strolling along a cobblestone path beside a canal.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A couple is strolling along a cobblestone path beside a canal."
+        },
+        {
+          "label": "B",
+          "text": "A boat is passing under a stone bridge."
+        },
+        {
+          "label": "C",
+          "text": "Street musicians are performing near the waterfront."
+        },
+        {
+          "label": "D",
+          "text": "Outdoor cafes line the edge of the canal."
+        }
+      ],
+      "answer": "A",
+      "explanation": "カップルが運河沿いの石畳の道を散歩している描写が正解です。cobblestoneは「石畳」、strollingは「散歩する」という意味です。",
+      "difficulty": 3,
+      "sceneEmoji": "👫🌉",
+      "sceneJa": "運河沿いの道",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_107",
+      "audioFile": null,
+      "transcript": "A bus driver is collecting fares from passengers boarding the bus.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A bus driver is collecting fares from passengers boarding the bus."
+        },
+        {
+          "label": "B",
+          "text": "Passengers are exiting through the rear door."
+        },
+        {
+          "label": "C",
+          "text": "A bus is stopped at a red traffic light."
+        },
+        {
+          "label": "D",
+          "text": "An advertisement is displayed on the side of the bus."
+        }
+      ],
+      "answer": "A",
+      "explanation": "バスの運転手が乗車する乗客から運賃を徴収している描写が正解です。faresは「運賃」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🚌💰",
+      "sceneJa": "バス車内",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_108",
+      "audioFile": null,
+      "transcript": "A woman is trying on sunglasses at an optical shop.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An optician is adjusting the frames of a pair of glasses."
+        },
+        {
+          "label": "B",
+          "text": "A woman is trying on sunglasses at an optical shop."
+        },
+        {
+          "label": "C",
+          "text": "Display cases are filled with eyeglass frames."
+        },
+        {
+          "label": "D",
+          "text": "A customer is reading an eye chart on the wall."
+        }
+      ],
+      "answer": "B",
+      "explanation": "女性が眼鏡店でサングラスを試着している描写が正解です。trying onは「試着する」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🕶️🛍️",
+      "sceneJa": "眼鏡店",
+      "sceneBg": "shop"
+    },
+    {
+      "id": "lp1_109",
+      "audioFile": null,
+      "transcript": "Workers are laying bricks to construct a garden wall.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Workers are laying bricks to construct a garden wall."
+        },
+        {
+          "label": "B",
+          "text": "A fence is being painted white along the property line."
+        },
+        {
+          "label": "C",
+          "text": "Gravel is spread across the driveway."
+        },
+        {
+          "label": "D",
+          "text": "A wheelbarrow is parked near a pile of sand."
+        }
+      ],
+      "answer": "A",
+      "explanation": "作業員がレンガを積んで庭の壁を建設している描写が正解です。laying bricksは「レンガを積む」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🧱🏡",
+      "sceneJa": "庭の工事現場",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_110",
+      "audioFile": null,
+      "transcript": "A presenter is pointing at a bar chart projected on a large screen.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A presenter is pointing at a bar chart projected on a large screen."
+        },
+        {
+          "label": "B",
+          "text": "Attendees are typing notes on their laptops."
+        },
+        {
+          "label": "C",
+          "text": "Handouts are being distributed before the meeting."
+        },
+        {
+          "label": "D",
+          "text": "The projector is being set up on the conference table."
+        }
+      ],
+      "answer": "A",
+      "explanation": "発表者が大きなスクリーンに映し出された棒グラフを指している描写が正解です。bar chartは「棒グラフ」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "📊👨‍💼",
+      "sceneJa": "会議室",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_111",
+      "audioFile": null,
+      "transcript": "A patient is sitting in a wheelchair in the hospital garden.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A doctor is making rounds in the ward."
+        },
+        {
+          "label": "B",
+          "text": "A patient is sitting in a wheelchair in the hospital garden."
+        },
+        {
+          "label": "C",
+          "text": "A nurse is administering medication at the bedside."
+        },
+        {
+          "label": "D",
+          "text": "Visitors are signing in at the reception desk."
+        }
+      ],
+      "answer": "B",
+      "explanation": "患者が病院の庭で車椅子に座っている描写が正解です。wheelchairは「車椅子」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "♿🌳",
+      "sceneJa": "病院の庭",
+      "sceneBg": "hospital"
+    },
+    {
+      "id": "lp1_112",
+      "audioFile": null,
+      "transcript": "Sailboats are gliding across the surface of a lake on a windy day.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sailboats are gliding across the surface of a lake on a windy day."
+        },
+        {
+          "label": "B",
+          "text": "A family is rowing a small boat near the dock."
+        },
+        {
+          "label": "C",
+          "text": "Swimmers are floating on inflatable rafts."
+        },
+        {
+          "label": "D",
+          "text": "A motorboat is pulling a water skier."
+        }
+      ],
+      "answer": "A",
+      "explanation": "風の強い日にヨットが湖面を滑るように進んでいる描写が正解です。glidingは「滑るように進む」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "⛵🌊",
+      "sceneJa": "湖",
+      "sceneBg": "beach"
+    },
+    {
+      "id": "lp1_113",
+      "audioFile": null,
+      "transcript": "A technician is calibrating instruments in the quality control lab.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A technician is calibrating instruments in the quality control lab."
+        },
+        {
+          "label": "B",
+          "text": "Samples are arranged in test tubes on the counter."
+        },
+        {
+          "label": "C",
+          "text": "A researcher is entering data into a spreadsheet."
+        },
+        {
+          "label": "D",
+          "text": "Safety goggles are hanging from a hook on the wall."
+        }
+      ],
+      "answer": "A",
+      "explanation": "技術者が品質管理ラボで計器を校正している描写が正解です。calibratingは「校正する」という意味です。",
+      "difficulty": 3,
+      "sceneEmoji": "⚗️📏",
+      "sceneJa": "品質管理ラボ",
+      "sceneBg": "factory"
+    },
+    {
+      "id": "lp1_114",
+      "audioFile": null,
+      "transcript": "A food truck is parked at the curb with a line of customers waiting.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A chef is grilling burgers on the restaurant patio."
+        },
+        {
+          "label": "B",
+          "text": "A food truck is parked at the curb with a line of customers waiting."
+        },
+        {
+          "label": "C",
+          "text": "Picnic tables are set up in the park for an outdoor festival."
+        },
+        {
+          "label": "D",
+          "text": "A vendor is handing change to a customer."
+        }
+      ],
+      "answer": "B",
+      "explanation": "フードトラックが歩道沿いに停まり、客が列を作っている描写が正解です。curbは「歩道の縁石」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🚚🍔",
+      "sceneJa": "路上のフードトラック",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_115",
+      "audioFile": null,
+      "transcript": "A window washer is suspended on a platform outside a high-rise building.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A window washer is suspended on a platform outside a high-rise building."
+        },
+        {
+          "label": "B",
+          "text": "Office workers are looking out the window at the street below."
+        },
+        {
+          "label": "C",
+          "text": "A crane is lifting materials to the upper floors."
+        },
+        {
+          "label": "D",
+          "text": "The building entrance has a revolving glass door."
+        }
+      ],
+      "answer": "A",
+      "explanation": "窓拭き作業員が高層ビルの外側のプラットフォームに吊り下がっている描写が正解です。suspendedは「吊り下がった」、high-riseは「高層」という意味です。",
+      "difficulty": 3,
+      "sceneEmoji": "🧹🏙️",
+      "sceneJa": "高層ビル外壁",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_116",
+      "audioFile": null,
+      "transcript": "A woman is signing a receipt at the checkout counter of a department store.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A woman is signing a receipt at the checkout counter of a department store."
+        },
+        {
+          "label": "B",
+          "text": "A sales associate is wrapping a gift box."
+        },
+        {
+          "label": "C",
+          "text": "Clothing racks are arranged by color in the aisle."
+        },
+        {
+          "label": "D",
+          "text": "A mannequin is dressed in a seasonal outfit."
+        }
+      ],
+      "answer": "A",
+      "explanation": "女性がデパートのレジカウンターでレシートにサインしている描写が正解です。receiptは「レシート」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "✍️🛍️",
+      "sceneJa": "デパートのレジ",
+      "sceneBg": "shop"
+    },
+    {
+      "id": "lp1_117",
+      "audioFile": null,
+      "transcript": "An ambulance is parked at the emergency entrance with its rear doors open.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An ambulance is parked at the emergency entrance with its rear doors open."
+        },
+        {
+          "label": "B",
+          "text": "Paramedics are rushing a stretcher through the hallway."
+        },
+        {
+          "label": "C",
+          "text": "A doctor is speaking with a patient's family in the waiting area."
+        },
+        {
+          "label": "D",
+          "text": "Medical equipment is being loaded onto a cart."
+        }
+      ],
+      "answer": "A",
+      "explanation": "救急車が後部ドアを開けた状態で救急入口に停まっている描写が正解です。rear doorsは「後部ドア」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🚑🏥",
+      "sceneJa": "病院の救急入口",
+      "sceneBg": "hospital"
+    },
+    {
+      "id": "lp1_118",
+      "audioFile": null,
+      "transcript": "A man is assembling furniture using tools spread out on the floor.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A man is assembling furniture using tools spread out on the floor."
+        },
+        {
+          "label": "B",
+          "text": "Moving boxes are stacked in the center of the room."
+        },
+        {
+          "label": "C",
+          "text": "A woman is measuring a wall with a tape measure."
+        },
+        {
+          "label": "D",
+          "text": "Curtains are being hung on a new curtain rod."
+        }
+      ],
+      "answer": "A",
+      "explanation": "男性が床に広げた道具を使って家具を組み立てている描写が正解です。assemblingは「組み立てる」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🔨🪑",
+      "sceneJa": "室内",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_119",
+      "audioFile": null,
+      "transcript": "Runners are crossing a finish line marked with a banner overhead.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Athletes are warming up on the track before the race."
+        },
+        {
+          "label": "B",
+          "text": "Runners are crossing a finish line marked with a banner overhead."
+        },
+        {
+          "label": "C",
+          "text": "Volunteers are handing out water bottles along the course."
+        },
+        {
+          "label": "D",
+          "text": "Spectators are holding signs and cheering from the sidelines."
+        }
+      ],
+      "answer": "B",
+      "explanation": "ランナーたちが頭上のバナーで示されたゴールラインを越えている描写が正解です。finish lineは「ゴールライン」という意味です。",
+      "difficulty": 2,
+      "sceneEmoji": "🏃‍♀️🏁",
+      "sceneJa": "マラソンコース",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_120",
+      "audioFile": null,
+      "transcript": "A waiter is setting the table with napkins folded into decorative shapes.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A waiter is setting the table with napkins folded into decorative shapes."
+        },
+        {
+          "label": "B",
+          "text": "Candles are lit in the center of each table."
+        },
+        {
+          "label": "C",
+          "text": "A sommelier is presenting a wine bottle to a guest."
+        },
+        {
+          "label": "D",
+          "text": "Menus are placed at each seat around the table."
+        }
+      ],
+      "answer": "A",
+      "explanation": "ウェイターが装飾的な形に折ったナプキンでテーブルセッティングをしている描写が正解です。decorativeは「装飾的な」という意味です。",
+      "difficulty": 3,
+      "sceneEmoji": "🍽️🎀",
+      "sceneJa": "高級レストラン",
+      "sceneBg": "restaurant"
+    },
+    {
+      "id": "lp1_121",
+      "audioFile": null,
+      "transcript": "A rock climber is scaling a steep cliff face wearing a harness.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A rock climber is scaling a steep cliff face wearing a harness."
+        },
+        {
+          "label": "B",
+          "text": "Hikers are resting at the summit of the mountain."
+        },
+        {
+          "label": "C",
+          "text": "Ropes and carabiners are laid out on the ground."
+        },
+        {
+          "label": "D",
+          "text": "A group is gathered at the base of the cliff."
+        }
+      ],
+      "answer": "A",
+      "explanation": "ロッククライマーがハーネスを着用して急な崖面を登っている描写が正解です。scalingは「よじ登る」、harnessは「ハーネス（安全帯）」です。",
+      "difficulty": 3,
+      "sceneEmoji": "🧗‍♂️⛰️",
+      "sceneJa": "崖",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_122",
+      "audioFile": null,
+      "transcript": "An employee is refilling the paper tray of a large office printer.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An employee is refilling the paper tray of a large office printer."
+        },
+        {
+          "label": "B",
+          "text": "Printed documents are being collated and stapled."
+        },
+        {
+          "label": "C",
+          "text": "A repairman is opening the side panel of the copier."
+        },
+        {
+          "label": "D",
+          "text": "Ink cartridges are stored on the shelf above the printer."
+        }
+      ],
+      "answer": "A",
+      "explanation": "従業員が大型オフィスプリンターの用紙トレイを補充している描写が正解です。refillingは「補充する」という意味です。",
+      "difficulty": 1,
+      "sceneEmoji": "🖨️📃",
+      "sceneJa": "オフィスの印刷室",
+      "sceneBg": "office"
+    },
+    {
+      "id": "lp1_123",
+      "audioFile": null,
+      "transcript": "Volunteers are distributing blankets to people at an outdoor shelter.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tents are being set up in a large open field."
+        },
+        {
+          "label": "B",
+          "text": "Volunteers are distributing blankets to people at an outdoor shelter."
+        },
+        {
+          "label": "C",
+          "text": "A truck is delivering supplies to the aid station."
+        },
+        {
+          "label": "D",
+          "text": "Tables of food are arranged under a canopy."
+        }
+      ],
+      "answer": "B",
+      "explanation": "ボランティアが屋外の避難所で人々に毛布を配っている描写が正解です。distributingは「配布する」、shelterは「避難所」です。",
+      "difficulty": 3,
+      "sceneEmoji": "🤝🏕️",
+      "sceneJa": "屋外避難所",
+      "sceneBg": "outdoor"
+    },
+    {
+      "id": "lp1_124",
+      "audioFile": null,
+      "transcript": "A man is operating a power drill on a wooden workbench.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A man is operating a power drill on a wooden workbench."
+        },
+        {
+          "label": "B",
+          "text": "Sawdust is scattered across the workshop floor."
+        },
+        {
+          "label": "C",
+          "text": "Safety glasses are placed on top of a toolbox."
+        },
+        {
+          "label": "D",
+          "text": "Wooden planks are leaning against the workshop wall."
+        }
+      ],
+      "answer": "A",
+      "explanation": "男性が木製の作業台で電動ドリルを操作している描写が正解です。power drillは「電動ドリル」、workbenchは「作業台」です。",
+      "difficulty": 2,
+      "sceneEmoji": "🔩🪵",
+      "sceneJa": "工房",
+      "sceneBg": "factory"
+    },
+    {
+      "id": "lp1_125",
+      "audioFile": null,
+      "transcript": "Guests are checking out of the hotel while a porter holds the door.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A housekeeper is making the bed in a guest room."
+        },
+        {
+          "label": "B",
+          "text": "The hotel pool area is empty in the early morning."
+        },
+        {
+          "label": "C",
+          "text": "Guests are checking out of the hotel while a porter holds the door."
+        },
+        {
+          "label": "D",
+          "text": "Room keys are placed in a tray on the counter."
+        }
+      ],
+      "answer": "C",
+      "explanation": "ポーターがドアを押さえている間にゲストがホテルをチェックアウトしている描写が正解です。porterは「ポーター（荷物係）」、checking outは「チェックアウトする」です。",
+      "difficulty": 3,
+      "sceneEmoji": "🏨🧳",
+      "sceneJa": "ホテルのロビー",
+      "sceneBg": "office"
+    }
+  ]
+}

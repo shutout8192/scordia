@@ -1,0 +1,1956 @@
+{
+  "category": "part2",
+  "categoryLabel": "Part 2: 応答問題",
+  "questions": [
+    {
+      "id": "lp2_001",
+      "audioFile": null,
+      "transcript": "When is the next staff meeting?",
+      "choices": [
+        { "label": "A", "text": "It's on Thursday afternoon." },
+        { "label": "B", "text": "Yes, we had a meeting." },
+        { "label": "C", "text": "The staff is very helpful." }
+      ],
+      "answer": "A",
+      "explanation": "「いつ？」という質問に対し、具体的な日時を答えているAが正解。Bは過去形で不適切。Cはstaffに引っかけた誤答。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_002",
+      "audioFile": null,
+      "transcript": "Who is in charge of the marketing campaign?",
+      "choices": [
+        { "label": "A", "text": "Ms. Park is leading it." },
+        { "label": "B", "text": "We're charging a fee." },
+        { "label": "C", "text": "The campaign starts next week." }
+      ],
+      "answer": "A",
+      "explanation": "「誰が担当？」に対し、人名を答えているAが正解。Bはchargeの別の意味に引っかけた誤答。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_003",
+      "audioFile": null,
+      "transcript": "Would you like to join us for lunch?",
+      "choices": [
+        { "label": "A", "text": "The lunch menu looks great." },
+        { "label": "B", "text": "Sure, that sounds nice." },
+        { "label": "C", "text": "I joined the company last year." }
+      ],
+      "answer": "B",
+      "explanation": "ランチの誘いに対する適切な応答はB。Aはメニューの感想で不自然。Cはjoinの別の意味。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_004",
+      "audioFile": null,
+      "transcript": "Where can I find the annual report?",
+      "choices": [
+        { "label": "A", "text": "It was an excellent report." },
+        { "label": "B", "text": "About thirty pages." },
+        { "label": "C", "text": "It's on the company website." }
+      ],
+      "answer": "C",
+      "explanation": "「どこで見つけられる？」に対し、場所を答えているCが正解。Aは感想、Bはページ数で不適切。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_005",
+      "audioFile": null,
+      "transcript": "How long will the renovation take?",
+      "choices": [
+        { "label": "A", "text": "About three months." },
+        { "label": "B", "text": "It's a long building." },
+        { "label": "C", "text": "Yes, we're renovating." }
+      ],
+      "answer": "A",
+      "explanation": "「どのくらいかかる？」に対し、期間を答えているAが正解。Bはlongに引っかけた誤答。Cはyes/noで不適切。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_006",
+      "audioFile": null,
+      "transcript": "Haven't you submitted the expense report yet?",
+      "choices": [
+        { "label": "A", "text": "I'll do it by this afternoon." },
+        { "label": "B", "text": "The report was very detailed." },
+        { "label": "C", "text": "Yes, it's quite expensive." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文で「まだ提出していないの？」に対し、「今日の午後までにやります」と答えるAが適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_007",
+      "audioFile": null,
+      "transcript": "Could you show me how to use the new software?",
+      "choices": [
+        { "label": "A", "text": "The show starts at eight." },
+        { "label": "B", "text": "Of course, let me walk you through it." },
+        { "label": "C", "text": "It's the newest version." }
+      ],
+      "answer": "B",
+      "explanation": "使い方を教えてほしいという依頼に対し、「もちろん、説明しますよ」と答えるBが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_008",
+      "audioFile": null,
+      "transcript": "Why was the product launch delayed?",
+      "choices": [
+        { "label": "A", "text": "It launched last Tuesday." },
+        { "label": "B", "text": "There were some quality issues." },
+        { "label": "C", "text": "The product is very popular." }
+      ],
+      "answer": "B",
+      "explanation": "「なぜ遅延した？」に対し、理由を述べているBが正解。Aは時期、Cは人気について述べており不適切。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_009",
+      "audioFile": null,
+      "transcript": "Shall I make copies for everyone?",
+      "choices": [
+        { "label": "A", "text": "That would be helpful, thank you." },
+        { "label": "B", "text": "Everyone is in the meeting room." },
+        { "label": "C", "text": "I copied the file yesterday." }
+      ],
+      "answer": "A",
+      "explanation": "「皆の分コピーしましょうか？」という申し出に対し、「助かります」と答えるAが正解。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_010",
+      "audioFile": null,
+      "transcript": "Don't you think we should hire more staff?",
+      "choices": [
+        { "label": "A", "text": "I agree. We're quite understaffed." },
+        { "label": "B", "text": "The hiring process is complex." },
+        { "label": "C", "text": "No, I don't think so." }
+      ],
+      "answer": "A",
+      "explanation": "「もっとスタッフを雇うべきだと思わない？」に対し、同意を示すAが最も自然。Cも文法的には可能だが、Aの方が会話として自然。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_011",
+      "audioFile": null,
+      "transcript": "What time does the warehouse close today?",
+      "choices": [
+        { "label": "A", "text": "At six o'clock, same as usual." },
+        { "label": "B", "text": "Yes, it's closed on weekends." },
+        { "label": "C", "text": "The warehouse is on Fifth Street." }
+      ],
+      "answer": "A",
+      "explanation": "「何時に閉まる？」に対し、具体的な時間を答えているAが正解。Bはyes/noで答えており不適切。Cは場所を述べており的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_012",
+      "audioFile": null,
+      "transcript": "The shipment was supposed to arrive yesterday, wasn't it?",
+      "choices": [
+        { "label": "A", "text": "I shipped it last Monday." },
+        { "label": "B", "text": "Yes, but it was delayed due to weather." },
+        { "label": "C", "text": "The ship departs at noon." }
+      ],
+      "answer": "B",
+      "explanation": "付加疑問文「昨日届くはずだったよね？」に対し、肯定しつつ遅延の理由を述べるBが正解。Aは主語が違う。Cはshipに引っかけた誤答。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_013",
+      "audioFile": null,
+      "transcript": "I'm thinking of applying for the branch manager position.",
+      "choices": [
+        { "label": "A", "text": "The branch is located downtown." },
+        { "label": "B", "text": "You'd be a great candidate." },
+        { "label": "C", "text": "Please fill out this application." }
+      ],
+      "answer": "B",
+      "explanation": "「支店長に応募しようと思っている」という発言に対し、「あなたはいい候補者になる」と励ますBが最も自然な応答。Cはapplyに引っかけた事務的な応答で文脈に合わない。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_014",
+      "audioFile": null,
+      "transcript": "How should we handle the customer complaint?",
+      "choices": [
+        { "label": "A", "text": "Let's offer them a full refund." },
+        { "label": "B", "text": "The customer arrived at ten." },
+        { "label": "C", "text": "I can handle heavy boxes." }
+      ],
+      "answer": "A",
+      "explanation": "「顧客のクレームにどう対処すべき？」に対し、具体的な対処法を提案するAが正解。Bは無関係。Cはhandleの別の意味に引っかけた誤答。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_015",
+      "audioFile": null,
+      "transcript": "Didn't the client approve the revised budget?",
+      "choices": [
+        { "label": "A", "text": "Actually, they requested a few more changes." },
+        { "label": "B", "text": "The budget is about two million dollars." },
+        { "label": "C", "text": "I revised it twice already." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文「クライアントは修正予算を承認しなかった？」に対し、「実はもう少し変更を求められた」と状況を説明するAが正解。Bは金額、Cは修正回数で的外れ。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp2_016",
+      "audioFile": null,
+      "transcript": "Who should I contact about the building maintenance?",
+      "choices": [
+        { "label": "A", "text": "The building has twenty floors." },
+        { "label": "B", "text": "Try calling the facilities department." },
+        { "label": "C", "text": "It was maintained very well." }
+      ],
+      "answer": "B",
+      "explanation": "「誰に連絡すればいい？」に対し、連絡先を具体的に示すBが正解。Aはビルの階数、Cはmaintainに引っかけた誤答。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_017",
+      "audioFile": null,
+      "transcript": "Either the Tuesday or Wednesday slot works for me.",
+      "choices": [
+        { "label": "A", "text": "Let's go with Wednesday, then." },
+        { "label": "B", "text": "I work on the second floor." },
+        { "label": "C", "text": "Tuesday was a holiday." }
+      ],
+      "answer": "A",
+      "explanation": "「火曜か水曜のどちらでもいい」という発言に対し、水曜を選ぶAが自然な応答。Bはworkの別の意味に引っかけた誤答。Cは過去形で文脈に合わない。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_018",
+      "audioFile": null,
+      "transcript": "Why don't we postpone the presentation until next week?",
+      "choices": [
+        { "label": "A", "text": "That might be a good idea, given the circumstances." },
+        { "label": "B", "text": "The presentation lasted about an hour." },
+        { "label": "C", "text": "She presented the award to Mr. Chen." }
+      ],
+      "answer": "A",
+      "explanation": "「プレゼンを来週に延期しない？」という提案に対し、状況を考慮して賛同するAが正解。Bは時間、Cはpresentの別の意味で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_019",
+      "audioFile": null,
+      "transcript": "Has the quarterly earnings report been finalized yet?",
+      "choices": [
+        { "label": "A", "text": "The finance team is still reviewing the figures." },
+        { "label": "B", "text": "We earn a competitive salary." },
+        { "label": "C", "text": "It's the third quarter of the year." }
+      ],
+      "answer": "A",
+      "explanation": "「四半期決算報告はもう確定した？」に対し、「財務チームがまだ数字を確認中」と進捗を答えるAが正解。Bはearnに引っかけた誤答。Cはquarterの説明で的外れ。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp2_020",
+      "audioFile": null,
+      "transcript": "You've already booked the conference room, haven't you?",
+      "choices": [
+        { "label": "A", "text": "I'm reading a really interesting book." },
+        { "label": "B", "text": "Not yet. I'll reserve it right away." },
+        { "label": "C", "text": "The conference was very informative." }
+      ],
+      "answer": "B",
+      "explanation": "付加疑問文「もう会議室を予約したよね？」に対し、「まだです。すぐ予約します」と答えるBが正解。Aはbookの別の意味。Cはconferenceに引っかけた誤答。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp2_021",
+      "audioFile": null,
+      "transcript": "Where did you park your car this morning?",
+      "choices": [
+        { "label": "A", "text": "In the garage across the street." },
+        { "label": "B", "text": "I usually drive to work." },
+        { "label": "C", "text": "The park opens at eight." }
+      ],
+      "answer": "A",
+      "explanation": "「今朝どこに車を停めた？」に対し、具体的な場所を答えているAが正解。Bは通勤方法で的外れ。Cはparkの別の意味に引っかけた誤答。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_022",
+      "audioFile": null,
+      "transcript": "Wouldn't it be better to reschedule the training session?",
+      "choices": [
+        { "label": "A", "text": "Yes, several participants can't make it on that day." },
+        { "label": "B", "text": "The train departs from platform five." },
+        { "label": "C", "text": "I trained for three years." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文「研修を日程変更した方がいいのでは？」に対し、参加者の都合を理由に同意するAが正解。Bはtrainに引っかけた誤答。Cはtrainedの別の用法。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_023",
+      "audioFile": null,
+      "transcript": "I forgot to bring my laptop charger today.",
+      "choices": [
+        { "label": "A", "text": "You can borrow mine. I have a spare." },
+        { "label": "B", "text": "The laptop costs about eight hundred dollars." },
+        { "label": "C", "text": "I'll bring dessert to the party." }
+      ],
+      "answer": "A",
+      "explanation": "「充電器を忘れた」という発言に対し、「予備があるから貸すよ」と申し出るAが最も自然な応答。Bは価格、Cはbringに引っかけた誤答。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_024",
+      "audioFile": null,
+      "transcript": "How many copies of the brochure should I print?",
+      "choices": [
+        { "label": "A", "text": "The printer is in the supply room." },
+        { "label": "B", "text": "About two hundred should be enough." },
+        { "label": "C", "text": "The brochure was redesigned last month." }
+      ],
+      "answer": "B",
+      "explanation": "「パンフレットを何部印刷すべき？」に対し、具体的な数を答えているBが正解。Aはプリンターの場所、Cはデザイン変更で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_025",
+      "audioFile": null,
+      "transcript": "The office renovation should be finished by next month, shouldn't it?",
+      "choices": [
+        { "label": "A", "text": "Actually, it's been pushed back to March." },
+        { "label": "B", "text": "The office is on the tenth floor." },
+        { "label": "C", "text": "I finished the report this morning." }
+      ],
+      "answer": "A",
+      "explanation": "付加疑問文「来月までに終わるはずだよね？」に対し、「実は3月に延期された」と答えるAが正解。Bはオフィスの場所、Cはfinishedに引っかけた誤答。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_026",
+      "audioFile": null,
+      "transcript": "Would you rather meet in person or have a video call?",
+      "choices": [
+        { "label": "A", "text": "A video call would save us both travel time." },
+        { "label": "B", "text": "I met her at the conference last year." },
+        { "label": "C", "text": "The person in charge is Mr. Tanaka." }
+      ],
+      "answer": "A",
+      "explanation": "「対面とビデオ通話どちらがいい？」という選択疑問に対し、理由を添えてビデオ通話を選ぶAが正解。Bはmetの過去形で文脈が違う。Cはpersonに引っかけた誤答。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_027",
+      "audioFile": null,
+      "transcript": "Why hasn't the new employee handbook been distributed yet?",
+      "choices": [
+        { "label": "A", "text": "It's still being reviewed by the legal department." },
+        { "label": "B", "text": "We hired five new employees." },
+        { "label": "C", "text": "The handbook has about fifty pages." }
+      ],
+      "answer": "A",
+      "explanation": "「なぜまだ配布されていない？」に対し、法務部がまだ確認中と理由を述べるAが正解。Bは新入社員の数、Cはページ数で的外れ。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_028",
+      "audioFile": null,
+      "transcript": "Do you know if the supply order has been shipped?",
+      "choices": [
+        { "label": "A", "text": "Let me check the tracking number for you." },
+        { "label": "B", "text": "We ordered new supplies last week." },
+        { "label": "C", "text": "The ship arrived at the port yesterday." }
+      ],
+      "answer": "A",
+      "explanation": "「備品の注文は発送された？」に対し、「追跡番号を確認しますね」と答えるAが正解。Bは注文の時期で的外れ。Cはshipに引っかけた誤答。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_029",
+      "audioFile": null,
+      "transcript": "Ms. Yamada was promoted to regional director, wasn't she?",
+      "choices": [
+        { "label": "A", "text": "Yes, the announcement was made yesterday." },
+        { "label": "B", "text": "She directed the marketing campaign." },
+        { "label": "C", "text": "The region covers three prefectures." }
+      ],
+      "answer": "A",
+      "explanation": "付加疑問文「山田さんは地域ディレクターに昇進したよね？」に対し、「はい、昨日発表されました」と確認するAが正解。Bはdirectedの別の用法。Cはregionの説明で的外れ。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp2_030",
+      "audioFile": null,
+      "transcript": "Shouldn't we get approval from headquarters before proceeding?",
+      "choices": [
+        { "label": "A", "text": "You're right. I'll send the proposal today." },
+        { "label": "B", "text": "The headquarters building is under construction." },
+        { "label": "C", "text": "We proceeded to the next chapter." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文「進める前に本社の承認を得るべきでは？」に対し、同意して提案書を送ると答えるAが正解。Bは本社ビルの状態で的外れ。Cはproceedに引っかけた誤答。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp2_031",
+      "audioFile": null,
+      "transcript": "Where is the nearest pharmacy?",
+      "choices": [
+        { "label": "A", "text": "There's one on the corner of Main Street." },
+        { "label": "B", "text": "I need to buy some medicine." },
+        { "label": "C", "text": "The pharmacy closes at nine." }
+      ],
+      "answer": "A",
+      "explanation": "「一番近い薬局はどこ？」に対し、具体的な場所を答えているAが正解。Bは自分の用事、Cは閉店時間で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_032",
+      "audioFile": null,
+      "transcript": "When does the training workshop begin?",
+      "choices": [
+        { "label": "A", "text": "In the large meeting room." },
+        { "label": "B", "text": "It starts at ten o'clock sharp." },
+        { "label": "C", "text": "The workshop was very productive." }
+      ],
+      "answer": "B",
+      "explanation": "「研修はいつ始まる？」に対し、具体的な時間を答えているBが正解。Aは場所、Cは感想で不適切。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_033",
+      "audioFile": null,
+      "transcript": "Who left this package on my desk?",
+      "choices": [
+        { "label": "A", "text": "I think it was the courier from DHL." },
+        { "label": "B", "text": "Your desk is near the window." },
+        { "label": "C", "text": "I left work early yesterday." }
+      ],
+      "answer": "A",
+      "explanation": "「誰がこの荷物を置いた？」に対し、人物を答えているAが正解。Bはデスクの位置、Cはleftの別の意味で不適切。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_034",
+      "audioFile": null,
+      "transcript": "What's the weather forecast for this weekend?",
+      "choices": [
+        { "label": "A", "text": "They're calling for rain on Saturday." },
+        { "label": "B", "text": "I went hiking last weekend." },
+        { "label": "C", "text": "The forecast was accurate." }
+      ],
+      "answer": "A",
+      "explanation": "「週末の天気予報は？」に対し、具体的な天気を答えているAが正解。Bは先週の話、Cは予報の精度で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_035",
+      "audioFile": null,
+      "transcript": "How do I get to the train station from here?",
+      "choices": [
+        { "label": "A", "text": "The train leaves at half past three." },
+        { "label": "B", "text": "Go straight for two blocks, then turn right." },
+        { "label": "C", "text": "I usually take the bus." }
+      ],
+      "answer": "B",
+      "explanation": "「ここから駅にどう行く？」に対し、道順を教えているBが正解。Aは出発時刻、Cは自分の通勤手段で不適切。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_036",
+      "audioFile": null,
+      "transcript": "Can you help me carry these boxes to the storage room?",
+      "choices": [
+        { "label": "A", "text": "Sure, let me just finish this email." },
+        { "label": "B", "text": "There are about ten boxes." },
+        { "label": "C", "text": "The storage room was recently cleaned." }
+      ],
+      "answer": "A",
+      "explanation": "「箱を運ぶのを手伝ってくれる？」という依頼に対し、承諾するAが正解。Bは数量、Cは倉庫の状態で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_037",
+      "audioFile": null,
+      "transcript": "Why was the factory inspection postponed?",
+      "choices": [
+        { "label": "A", "text": "The inspector was unavailable this week." },
+        { "label": "B", "text": "The factory produces electronic parts." },
+        { "label": "C", "text": "It was inspected last month." }
+      ],
+      "answer": "A",
+      "explanation": "「なぜ工場検査が延期された？」に対し、理由を述べるAが正解。Bは工場の製品、Cは過去の検査で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_038",
+      "audioFile": null,
+      "transcript": "Is the cafeteria open on weekends?",
+      "choices": [
+        { "label": "A", "text": "No, it's only open Monday through Friday." },
+        { "label": "B", "text": "The food was delicious." },
+        { "label": "C", "text": "I opened the window for fresh air." }
+      ],
+      "answer": "A",
+      "explanation": "「カフェテリアは週末も開いている？」に対し、営業日を答えているAが正解。Bは食事の感想、Cはopenの別の意味で不適切。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_039",
+      "audioFile": null,
+      "transcript": "Shall we take a taxi or walk to the restaurant?",
+      "choices": [
+        { "label": "A", "text": "It's only a five-minute walk, so let's walk." },
+        { "label": "B", "text": "The restaurant serves Italian food." },
+        { "label": "C", "text": "I took a taxi yesterday." }
+      ],
+      "answer": "A",
+      "explanation": "「タクシーか歩きか？」という選択疑問に対し、歩くことを選ぶAが正解。Bはレストランの種類、Cは昨日の話で不適切。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_040",
+      "audioFile": null,
+      "transcript": "How many people attended the workshop last Friday?",
+      "choices": [
+        { "label": "A", "text": "It was held in the auditorium." },
+        { "label": "B", "text": "About forty-five participants." },
+        { "label": "C", "text": "The workshop covered project management." }
+      ],
+      "answer": "B",
+      "explanation": "「何人参加した？」に対し、具体的な人数を答えているBが正解。Aは場所、Cはテーマで的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_041",
+      "audioFile": null,
+      "transcript": "The hotel shuttle departs every thirty minutes, doesn't it?",
+      "choices": [
+        { "label": "A", "text": "Actually, it runs every twenty minutes during peak hours." },
+        { "label": "B", "text": "The hotel has a swimming pool." },
+        { "label": "C", "text": "I shuttled between the two offices." }
+      ],
+      "answer": "A",
+      "explanation": "付加疑問文「シャトルは30分おきだよね？」に対し、「実はピーク時は20分おき」と訂正するAが正解。Bはホテルの施設、Cはshuttleの動詞用法で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_042",
+      "audioFile": null,
+      "transcript": "Haven't the new security badges been issued yet?",
+      "choices": [
+        { "label": "A", "text": "They should be ready by the end of the week." },
+        { "label": "B", "text": "Security is very important." },
+        { "label": "C", "text": "I found my old badge in the drawer." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文「新しいセキュリティバッジはまだ発行されてない？」に対し、「今週末までには準備できるはず」と答えるAが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_043",
+      "audioFile": null,
+      "transcript": "I'm not sure whether to take the morning or afternoon shift.",
+      "choices": [
+        { "label": "A", "text": "The morning shift is usually quieter." },
+        { "label": "B", "text": "I shifted the furniture to the left." },
+        { "label": "C", "text": "You should be sure about your decision." }
+      ],
+      "answer": "A",
+      "explanation": "「午前と午後のシフトどちらにするか迷っている」という発言に対し、判断材料を提供するAが正解。Bはshiftの別の意味。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_044",
+      "audioFile": null,
+      "transcript": "Why don't we upgrade the office Wi-Fi network?",
+      "choices": [
+        { "label": "A", "text": "That's a good point. The connection has been slow lately." },
+        { "label": "B", "text": "I work in the office every day." },
+        { "label": "C", "text": "The network has fifty employees." }
+      ],
+      "answer": "A",
+      "explanation": "「Wi-Fiをアップグレードしない？」という提案に対し、賛同するAが正解。Bは勤務形態、Cはnetworkの別の意味で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_045",
+      "audioFile": null,
+      "transcript": "Could you forward that email to the entire team?",
+      "choices": [
+        { "label": "A", "text": "I already forwarded it about an hour ago." },
+        { "label": "B", "text": "The team has eight members." },
+        { "label": "C", "text": "I'm looking forward to the weekend." }
+      ],
+      "answer": "A",
+      "explanation": "「そのメールをチーム全員に転送してくれる？」に対し、「1時間前に転送済み」と答えるAが正解。Cはforwardに引っかけた誤答。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_046",
+      "audioFile": null,
+      "transcript": "The quarterly sales figures look promising this time.",
+      "choices": [
+        { "label": "A", "text": "Yes, especially in the Asian market." },
+        { "label": "B", "text": "We sell office supplies." },
+        { "label": "C", "text": "The figures are on page seven." }
+      ],
+      "answer": "A",
+      "explanation": "「四半期の売上が好調に見える」という発言に対し、具体的な市場を挙げて同意するAが正解。Bは販売品、Cはページ番号で的外れ。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_047",
+      "audioFile": null,
+      "transcript": "Do you prefer the window seat or the aisle seat?",
+      "choices": [
+        { "label": "A", "text": "The flight is at two o'clock." },
+        { "label": "B", "text": "An aisle seat, please. I like to stretch my legs." },
+        { "label": "C", "text": "I prefer coffee to tea." }
+      ],
+      "answer": "B",
+      "explanation": "「窓側と通路側どちらがいい？」という選択疑問に対し、通路側を選ぶBが正解。Aはフライト時間、Cは飲み物の好みで不適切。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_048",
+      "audioFile": null,
+      "transcript": "Weren't the new office chairs supposed to be delivered today?",
+      "choices": [
+        { "label": "A", "text": "The chairs are very comfortable." },
+        { "label": "B", "text": "They called to say the delivery truck broke down." },
+        { "label": "C", "text": "I delivered the presentation yesterday." }
+      ],
+      "answer": "B",
+      "explanation": "否定疑問文「新しい椅子は今日届くはずじゃなかった？」に対し、「配送トラックが故障したと連絡があった」と理由を説明するBが正解。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_049",
+      "audioFile": null,
+      "transcript": "Ms. Chen will be leading the negotiations, won't she?",
+      "choices": [
+        { "label": "A", "text": "Actually, Mr. Park is taking over that role." },
+        { "label": "B", "text": "The negotiation lasted three hours." },
+        { "label": "C", "text": "She leads a team of twelve." }
+      ],
+      "answer": "A",
+      "explanation": "付加疑問文「チェンさんが交渉を担当するよね？」に対し、「実はパクさんに変わった」と訂正するAが正解。Bは過去の交渉時間、Cはチーム規模で的外れ。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_050",
+      "audioFile": null,
+      "transcript": "I heard the parking lot will be closed for maintenance next week.",
+      "choices": [
+        { "label": "A", "text": "We can use the lot across the street temporarily." },
+        { "label": "B", "text": "I parked in the underground garage." },
+        { "label": "C", "text": "A lot of people are attending." }
+      ],
+      "answer": "A",
+      "explanation": "「駐車場が来週閉鎖される」という情報に対し、代替案を提案するAが正解。Bは自分の駐車、Cはlotの別の意味で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_051",
+      "audioFile": null,
+      "transcript": "Where should I submit my travel reimbursement form?",
+      "choices": [
+        { "label": "A", "text": "Hand it in to the accounting department." },
+        { "label": "B", "text": "The trip lasted about five days." },
+        { "label": "C", "text": "I traveled to London last month." }
+      ],
+      "answer": "A",
+      "explanation": "「旅費精算書はどこに提出すればいい？」に対し、提出先を答えているAが正解。Bは期間、Cは自分の旅行で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_052",
+      "audioFile": null,
+      "transcript": "The air conditioning seems to be broken again.",
+      "choices": [
+        { "label": "A", "text": "I'll call maintenance to take a look at it." },
+        { "label": "B", "text": "The condition of the roads is poor." },
+        { "label": "C", "text": "The air quality has improved." }
+      ],
+      "answer": "A",
+      "explanation": "「エアコンがまた壊れたみたい」という発言に対し、「メンテナンスに電話する」と対応を示すAが正解。Bはconditionの別の意味、Cはairに引っかけた誤答。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_053",
+      "audioFile": null,
+      "transcript": "Should we order lunch in or go out to eat?",
+      "choices": [
+        { "label": "A", "text": "Let's order in. I have a deadline at two." },
+        { "label": "B", "text": "I ate a sandwich for lunch." },
+        { "label": "C", "text": "The order arrived on time." }
+      ],
+      "answer": "A",
+      "explanation": "「ランチは出前にするか外食するか？」に対し、理由を添えて出前を選ぶAが正解。Bは過去の食事、Cはorderの別の意味で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_054",
+      "audioFile": null,
+      "transcript": "This copier seems to be jammed again.",
+      "choices": [
+        { "label": "A", "text": "Try opening the side panel and removing the paper." },
+        { "label": "B", "text": "I like strawberry jam." },
+        { "label": "C", "text": "We need five copies of the report." }
+      ],
+      "answer": "A",
+      "explanation": "「コピー機がまた詰まった」に対し、対処法を教えるAが正解。Bはjamの別の意味に引っかけた誤答。Cはコピー枚数で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_055",
+      "audioFile": null,
+      "transcript": "Don't you think the new logo design is a bit too modern?",
+      "choices": [
+        { "label": "A", "text": "I actually think it fits our brand well." },
+        { "label": "B", "text": "The designer works on the third floor." },
+        { "label": "C", "text": "I designed it myself." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文「新しいロゴはモダンすぎると思わない？」に対し、意見を述べるAが正解。Bはデザイナーの場所、Cは自分がデザインしたという的外れな応答。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_056",
+      "audioFile": null,
+      "transcript": "Would you mind reviewing this contract before I sign it?",
+      "choices": [
+        { "label": "A", "text": "Not at all. Let me take a look." },
+        { "label": "B", "text": "I signed up for the newsletter." },
+        { "label": "C", "text": "The contract expires in December." }
+      ],
+      "answer": "A",
+      "explanation": "「署名する前にこの契約書を確認してくれない？」という依頼に対し、快諾するAが正解。Bはsignの別の意味、Cは契約期限で的外れ。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_057",
+      "audioFile": null,
+      "transcript": "Has anyone called about the job posting we put up last week?",
+      "choices": [
+        { "label": "A", "text": "Yes, we've received about fifteen inquiries so far." },
+        { "label": "B", "text": "I posted the letter this morning." },
+        { "label": "C", "text": "The job requires five years of experience." }
+      ],
+      "answer": "A",
+      "explanation": "「求人について問い合わせはあった？」に対し、具体的な数を報告するAが正解。Bはpostの別の意味、Cは要件で的外れ。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_058",
+      "audioFile": null,
+      "transcript": "Isn't there a more efficient way to process these invoices?",
+      "choices": [
+        { "label": "A", "text": "We could automate it with the new accounting software." },
+        { "label": "B", "text": "The invoices total about three thousand dollars." },
+        { "label": "C", "text": "I processed the order yesterday." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文「請求書処理のもっと効率的な方法はないの？」に対し、自動化を提案するAが正解。Bは金額、Cはprocessの別の用法で不適切。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp2_059",
+      "audioFile": null,
+      "transcript": "The board meeting has been rescheduled to next Monday, hasn't it?",
+      "choices": [
+        { "label": "A", "text": "Yes, due to a scheduling conflict with the CEO." },
+        { "label": "B", "text": "The board has twelve members." },
+        { "label": "C", "text": "I scheduled a dentist appointment." }
+      ],
+      "answer": "A",
+      "explanation": "付加疑問文「取締役会は来週月曜に変更されたよね？」に対し、理由を添えて確認するAが正解。Bは構成人数、Cは個人の予定で的外れ。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_060",
+      "audioFile": null,
+      "transcript": "You wouldn't happen to know where the first-aid kit is, would you?",
+      "choices": [
+        { "label": "A", "text": "Check the cabinet next to the break room." },
+        { "label": "B", "text": "I had my first day last Monday." },
+        { "label": "C", "text": "The kit includes several tools." }
+      ],
+      "answer": "A",
+      "explanation": "丁寧な間接疑問「救急箱がどこか知りませんか？」に対し、場所を教えるAが正解。Bはfirstに引っかけた誤答、Cはkitの別の意味で不適切。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp2_061",
+      "audioFile": null,
+      "transcript": "What time does the bank close on Fridays?",
+      "choices": [
+        { "label": "A", "text": "It closes at four, an hour earlier than usual." },
+        { "label": "B", "text": "The bank is on Oak Avenue." },
+        { "label": "C", "text": "I closed the door behind me." }
+      ],
+      "answer": "A",
+      "explanation": "「金曜日は銀行何時に閉まる？」に対し、具体的な時間を答えているAが正解。Bは場所、Cはclosedの別の用法で不適切。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_062",
+      "audioFile": null,
+      "transcript": "Who's responsible for ordering office supplies?",
+      "choices": [
+        { "label": "A", "text": "The supplies are in the closet." },
+        { "label": "B", "text": "That's usually handled by the receptionist." },
+        { "label": "C", "text": "We ordered pizza for the party." }
+      ],
+      "answer": "B",
+      "explanation": "「誰が備品注文の担当？」に対し、担当者を答えているBが正解。Aは備品の場所、Cはorderの別の用法で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_063",
+      "audioFile": null,
+      "transcript": "How was the trade show in Frankfurt?",
+      "choices": [
+        { "label": "A", "text": "We made some excellent contacts." },
+        { "label": "B", "text": "It shows at ten o'clock." },
+        { "label": "C", "text": "Frankfurt is in Germany." }
+      ],
+      "answer": "A",
+      "explanation": "「フランクフルトの展示会はどうだった？」に対し、成果を報告するAが正解。Bはshowの別の意味、Cは地理情報で不適切。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_064",
+      "audioFile": null,
+      "transcript": "I need someone to cover my shift on Saturday.",
+      "choices": [
+        { "label": "A", "text": "I don't have any plans, so I can do it." },
+        { "label": "B", "text": "The cover of the book is blue." },
+        { "label": "C", "text": "Saturday is the day after Friday." }
+      ],
+      "answer": "A",
+      "explanation": "「土曜のシフトを代わってくれる人が必要」に対し、引き受けるAが正解。Bはcoverの別の意味に引っかけた誤答。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_065",
+      "audioFile": null,
+      "transcript": "When are the new interns starting?",
+      "choices": [
+        { "label": "A", "text": "They're joining us on the first of next month." },
+        { "label": "B", "text": "There are three interns this year." },
+        { "label": "C", "text": "The internship lasts six months." }
+      ],
+      "answer": "A",
+      "explanation": "「新しいインターンはいつから？」に対し、開始日を答えているAが正解。Bは人数、Cは期間で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_066",
+      "audioFile": null,
+      "transcript": "Could you check whether the shipment has cleared customs?",
+      "choices": [
+        { "label": "A", "text": "I'll contact the freight forwarder right away." },
+        { "label": "B", "text": "The customs in this country are interesting." },
+        { "label": "C", "text": "I cleared my desk before leaving." }
+      ],
+      "answer": "A",
+      "explanation": "「出荷品が通関を通ったか確認してくれる？」に対し、「すぐ運送業者に連絡する」と対応を示すAが正解。Bはcustomsの別の意味（慣習）、Cはclearの別の用法。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_067",
+      "audioFile": null,
+      "transcript": "The keynote speaker at the conference was impressive.",
+      "choices": [
+        { "label": "A", "text": "Yes, her research on AI was fascinating." },
+        { "label": "B", "text": "I lost my keys yesterday." },
+        { "label": "C", "text": "She speaks three languages." }
+      ],
+      "answer": "A",
+      "explanation": "「基調講演者は素晴らしかった」という感想に対し、具体的に同意するAが正解。Bはkeyに引っかけた誤答、Cはspeakの別の用法で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_068",
+      "audioFile": null,
+      "transcript": "Hasn't the fire alarm system been tested this month?",
+      "choices": [
+        { "label": "A", "text": "It's scheduled for this Thursday." },
+        { "label": "B", "text": "The alarm goes off at seven." },
+        { "label": "C", "text": "There was a fire drill last year." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文「今月の火災報知器テストはまだ？」に対し、予定を答えるAが正解。Bは目覚ましの話、Cは昨年の話で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_069",
+      "audioFile": null,
+      "transcript": "I think we should reconsider our pricing strategy.",
+      "choices": [
+        { "label": "A", "text": "What changes did you have in mind?" },
+        { "label": "B", "text": "The price of oil has gone up." },
+        { "label": "C", "text": "Our strategy meeting is at three." }
+      ],
+      "answer": "A",
+      "explanation": "「価格戦略を見直すべきだと思う」に対し、具体的な提案を求めるAが正解。Bは原油価格、Cは会議時間で的外れ。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_070",
+      "audioFile": null,
+      "transcript": "Would you like me to arrange transportation from the airport?",
+      "choices": [
+        { "label": "A", "text": "That would be great. My flight lands at four." },
+        { "label": "B", "text": "The airport was recently renovated." },
+        { "label": "C", "text": "I arranged the flowers on the table." }
+      ],
+      "answer": "A",
+      "explanation": "「空港からの送迎を手配しましょうか？」に対し、受け入れて到着時間を伝えるAが正解。Bは空港情報、Cはarrangeの別の意味で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_071",
+      "audioFile": null,
+      "transcript": "The proposal deadline was extended by a week, wasn't it?",
+      "choices": [
+        { "label": "A", "text": "That's right. We now have until the twenty-fifth." },
+        { "label": "B", "text": "The deadline was very tight." },
+        { "label": "C", "text": "I extended my stay at the hotel." }
+      ],
+      "answer": "A",
+      "explanation": "付加疑問文「提案の締め切りが1週間延びたよね？」に対し、新しい日付を伝えるAが正解。Bは感想、Cはextendの別の用法で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_072",
+      "audioFile": null,
+      "transcript": "Why is the elevator out of service?",
+      "choices": [
+        { "label": "A", "text": "They're doing the annual safety inspection." },
+        { "label": "B", "text": "It's on the ground floor." },
+        { "label": "C", "text": "The service was excellent." }
+      ],
+      "answer": "A",
+      "explanation": "「なぜエレベーターが使えない？」に対し、年次安全検査を理由に挙げるAが正解。Bは場所、Cはserviceの別の意味で不適切。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_073",
+      "audioFile": null,
+      "transcript": "Should we hire a consultant for the IT migration project?",
+      "choices": [
+        { "label": "A", "text": "It might save us time in the long run." },
+        { "label": "B", "text": "The consultant arrived at noon." },
+        { "label": "C", "text": "We migrated the data last week." }
+      ],
+      "answer": "A",
+      "explanation": "「ITの移行プロジェクトにコンサルタントを雇うべき？」に対し、長期的なメリットを述べて賛成するAが正解。Bは過去の事実、Cは先週の話で的外れ。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_074",
+      "audioFile": null,
+      "transcript": "Have you had a chance to test the new software update?",
+      "choices": [
+        { "label": "A", "text": "Not yet, but I'll try it after lunch." },
+        { "label": "B", "text": "I updated my resume last night." },
+        { "label": "C", "text": "The software costs about two hundred dollars." }
+      ],
+      "answer": "A",
+      "explanation": "「新しいソフトの更新をテストした？」に対し、まだだが午後やると答えるAが正解。Bはupdateの別の用法、Cは価格で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_075",
+      "audioFile": null,
+      "transcript": "The company picnic has been moved to the community center, right?",
+      "choices": [
+        { "label": "A", "text": "Yes, because of the rain forecast." },
+        { "label": "B", "text": "I moved to this city last year." },
+        { "label": "C", "text": "The picnic food was delicious." }
+      ],
+      "answer": "A",
+      "explanation": "「会社のピクニックはコミュニティセンターに変更されたよね？」に対し、理由を添えて確認するAが正解。Bはmovedの別の意味、Cは食事の感想で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_076",
+      "audioFile": null,
+      "transcript": "I can't seem to find the meeting minutes from last Wednesday.",
+      "choices": [
+        { "label": "A", "text": "They should be in the shared drive under 'Team Notes.'" },
+        { "label": "B", "text": "The meeting lasted about forty-five minutes." },
+        { "label": "C", "text": "Wednesday is my day off." }
+      ],
+      "answer": "A",
+      "explanation": "「先週水曜の議事録が見つからない」に対し、保存場所を教えるAが正解。Bはminutesの別の意味（分）に引っかけた誤答。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_077",
+      "audioFile": null,
+      "transcript": "Didn't the client ask for a progress update by Friday?",
+      "choices": [
+        { "label": "A", "text": "Yes, I'm putting together a summary right now." },
+        { "label": "B", "text": "The client is based in Tokyo." },
+        { "label": "C", "text": "Friday is a public holiday." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文「クライアントは金曜までに進捗報告を求めたよね？」に対し、現在準備中と答えるAが正解。Bは所在地、Cは祝日の話で的外れ。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_078",
+      "audioFile": null,
+      "transcript": "Which vendor did we select for the catering?",
+      "choices": [
+        { "label": "A", "text": "We went with Sunrise Catering." },
+        { "label": "B", "text": "The event is next Saturday." },
+        { "label": "C", "text": "I selected the blue option." }
+      ],
+      "answer": "A",
+      "explanation": "「ケータリングはどの業者に決めた？」に対し、具体的な業者名を答えるAが正解。Bはイベント日、Cはselectの別の文脈で不適切。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_079",
+      "audioFile": null,
+      "transcript": "I'm having trouble connecting to the VPN from home.",
+      "choices": [
+        { "label": "A", "text": "Have you tried restarting your router?" },
+        { "label": "B", "text": "I connected with Mr. Lee at the conference." },
+        { "label": "C", "text": "Home prices have increased recently." }
+      ],
+      "answer": "A",
+      "explanation": "「自宅からVPNに接続できない」という問題に対し、対処法を提案するAが正解。Bはconnectの別の意味、Cはhomeに引っかけた誤答。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_080",
+      "audioFile": null,
+      "transcript": "How often do the express buses run to the city center?",
+      "choices": [
+        { "label": "A", "text": "Every fifteen minutes during rush hour." },
+        { "label": "B", "text": "I expressed my concern at the meeting." },
+        { "label": "C", "text": "The city center is about ten kilometers away." }
+      ],
+      "answer": "A",
+      "explanation": "「急行バスはどのくらいの頻度で走っている？」に対し、運行間隔を答えるAが正解。Bはexpressの別の意味、Cは距離で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_081",
+      "audioFile": null,
+      "transcript": "Do you know if the company health checkups are mandatory?",
+      "choices": [
+        { "label": "A", "text": "Yes, all employees must complete them by March." },
+        { "label": "B", "text": "I checked the report for errors." },
+        { "label": "C", "text": "The company was founded in nineteen ninety." }
+      ],
+      "answer": "A",
+      "explanation": "「健康診断は義務ですか？」に対し、全員3月までに受診必須と答えるAが正解。Bはcheckの別の意味、Cは会社の歴史で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_082",
+      "audioFile": null,
+      "transcript": "The new intern is doing a wonderful job, isn't she?",
+      "choices": [
+        { "label": "A", "text": "Absolutely. She's already handling client calls on her own." },
+        { "label": "B", "text": "We hired three interns." },
+        { "label": "C", "text": "I wonder what job she applied for." }
+      ],
+      "answer": "A",
+      "explanation": "付加疑問文「新しいインターンはよくやっているよね？」に対し、具体例を挙げて同意するAが正解。Bは人数、Cは応募した職種で的外れ。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_083",
+      "audioFile": null,
+      "transcript": "Where should we set up the registration table for the conference?",
+      "choices": [
+        { "label": "A", "text": "Right by the main entrance would be most visible." },
+        { "label": "B", "text": "Registration closes on the fifteenth." },
+        { "label": "C", "text": "The table seats eight people." }
+      ],
+      "answer": "A",
+      "explanation": "「受付テーブルをどこに設置すべき？」に対し、場所を提案するAが正解。Bは登録締切、Cはテーブルの座席数で的外れ。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_084",
+      "audioFile": null,
+      "transcript": "Shouldn't we include a risk assessment in the proposal?",
+      "choices": [
+        { "label": "A", "text": "You're right. I'll add a section on potential risks." },
+        { "label": "B", "text": "The proposal is about fifty pages long." },
+        { "label": "C", "text": "I assessed the damage after the storm." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文「提案書にリスク評価を含めるべきでは？」に対し、同意してセクション追加を約束するAが正解。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp2_085",
+      "audioFile": null,
+      "transcript": "I'll be transferring to the Singapore office next quarter.",
+      "choices": [
+        { "label": "A", "text": "That's exciting! Have you found a place to live yet?" },
+        { "label": "B", "text": "Please transfer the call to extension three." },
+        { "label": "C", "text": "Singapore has a tropical climate." }
+      ],
+      "answer": "A",
+      "explanation": "「来四半期にシンガポールオフィスへ異動する」という報告に対し、関心を示すAが正解。Bはtransferの別の意味、Cは気候情報で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_086",
+      "audioFile": null,
+      "transcript": "Has the lease agreement for the new warehouse been finalized?",
+      "choices": [
+        { "label": "A", "text": "Not yet. We're still negotiating the monthly rent." },
+        { "label": "B", "text": "The warehouse stores about five hundred pallets." },
+        { "label": "C", "text": "I finalized my travel plans." }
+      ],
+      "answer": "A",
+      "explanation": "「新倉庫のリース契約は確定した？」に対し、まだ交渉中と答えるAが正解。Bは倉庫の容量、Cはfinalizeの別の文脈で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_087",
+      "audioFile": null,
+      "transcript": "Why don't we try the new Italian restaurant for the team lunch?",
+      "choices": [
+        { "label": "A", "text": "I heard their pasta is excellent." },
+        { "label": "B", "text": "I tried on the new uniform." },
+        { "label": "C", "text": "The team has nine members." }
+      ],
+      "answer": "A",
+      "explanation": "「チームランチに新しいイタリアンレストランを試さない？」という提案に対し、好意的に反応するAが正解。Bはtriedの別の意味、Cはチーム人数で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_088",
+      "audioFile": null,
+      "transcript": "Could you tell me how to access the employee portal?",
+      "choices": [
+        { "label": "A", "text": "Sure. Go to the company website and click 'Staff Login.'" },
+        { "label": "B", "text": "The portal is near the loading dock." },
+        { "label": "C", "text": "About two hundred employees use it." }
+      ],
+      "answer": "A",
+      "explanation": "「社員ポータルへのアクセス方法を教えて」に対し、手順を説明するAが正解。Bはportalの別の意味（入口）に引っかけた誤答。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_089",
+      "audioFile": null,
+      "transcript": "The projector in the main conference room needs to be replaced, doesn't it?",
+      "choices": [
+        { "label": "A", "text": "Yes, I've already requested a new one from procurement." },
+        { "label": "B", "text": "The conference was very successful." },
+        { "label": "C", "text": "I'll project the slides on the wall." }
+      ],
+      "answer": "A",
+      "explanation": "付加疑問文「メイン会議室のプロジェクターは交換が必要だよね？」に対し、もう調達に依頼済みと答えるAが正解。Cはprojectの動詞用法で的外れ。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_090",
+      "audioFile": null,
+      "transcript": "We still haven't received the vendor's invoice, have we?",
+      "choices": [
+        { "label": "A", "text": "No, I'll follow up with them this afternoon." },
+        { "label": "B", "text": "The vendor sells medical equipment." },
+        { "label": "C", "text": "I received a nice gift for my birthday." }
+      ],
+      "answer": "A",
+      "explanation": "付加疑問文「業者の請求書はまだ届いていないよね？」に対し、午後にフォローアップすると答えるAが正解。Bは業者の業種、Cはreceivedの別の文脈で不適切。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp2_091",
+      "audioFile": null,
+      "transcript": "Where is the closest ATM?",
+      "choices": [
+        { "label": "A", "text": "There's one in the lobby of this building." },
+        { "label": "B", "text": "I need to withdraw some cash." },
+        { "label": "C", "text": "The ATM is out of service." }
+      ],
+      "answer": "A",
+      "explanation": "「一番近いATMはどこ？」に対し、場所を答えているAが正解。Bは自分の用事、Cは使えないという情報で質問に対する直接的な回答ではない。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_092",
+      "audioFile": null,
+      "transcript": "When will the construction on the highway be finished?",
+      "choices": [
+        { "label": "A", "text": "They expect it to be done by mid-June." },
+        { "label": "B", "text": "The highway leads to the airport." },
+        { "label": "C", "text": "I constructed a model airplane." }
+      ],
+      "answer": "A",
+      "explanation": "「高速道路の工事はいつ終わる？」に対し、完了予定時期を答えるAが正解。Bは行き先、Cはconstructの別の意味で不適切。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_093",
+      "audioFile": null,
+      "transcript": "Who approved the budget increase for the marketing department?",
+      "choices": [
+        { "label": "A", "text": "The CFO signed off on it last week." },
+        { "label": "B", "text": "The marketing team has fifteen members." },
+        { "label": "C", "text": "The budget was increased by ten percent." }
+      ],
+      "answer": "A",
+      "explanation": "「誰が予算増額を承認した？」に対し、人物を答えているAが正解。Bはチーム人数、Cは増加率で的外れ。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_094",
+      "audioFile": null,
+      "transcript": "Can I borrow your stapler for a moment?",
+      "choices": [
+        { "label": "A", "text": "Go ahead. It's on the right side of my desk." },
+        { "label": "B", "text": "I stapled the documents together." },
+        { "label": "C", "text": "I borrowed a book from the library." }
+      ],
+      "answer": "A",
+      "explanation": "「ホチキスを借りていい？」に対し、場所を教えて承諾するAが正解。Bは過去の行動、Cはborrowの別の文脈で不適切。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_095",
+      "audioFile": null,
+      "transcript": "How much does it cost to rent the event space?",
+      "choices": [
+        { "label": "A", "text": "Five hundred dollars per hour." },
+        { "label": "B", "text": "The event starts at seven." },
+        { "label": "C", "text": "It's a very spacious room." }
+      ],
+      "answer": "A",
+      "explanation": "「イベント会場のレンタル料はいくら？」に対し、具体的な料金を答えるAが正解。Bは開始時間、Cは広さの説明で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_096",
+      "audioFile": null,
+      "transcript": "The client meeting was moved to the afternoon, wasn't it?",
+      "choices": [
+        { "label": "A", "text": "Yes, the client had a conflict this morning." },
+        { "label": "B", "text": "We met the client at a restaurant." },
+        { "label": "C", "text": "The afternoon weather is expected to be sunny." }
+      ],
+      "answer": "A",
+      "explanation": "付加疑問文「クライアントとの会議は午後に変更されたよね？」に対し、理由を添えて確認するAが正解。Bは過去の会合、Cは天気で的外れ。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_097",
+      "audioFile": null,
+      "transcript": "Should I print the handouts in color or black and white?",
+      "choices": [
+        { "label": "A", "text": "Color would be better since there are charts and graphs." },
+        { "label": "B", "text": "I handed out the flyers yesterday." },
+        { "label": "C", "text": "The printer is on the second floor." }
+      ],
+      "answer": "A",
+      "explanation": "「配布資料はカラーで印刷すべき？」に対し、理由を添えてカラーを選ぶAが正解。Bはhand outの別の時制、Cはプリンターの場所で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_098",
+      "audioFile": null,
+      "transcript": "I wonder if there's a dress code for the awards ceremony.",
+      "choices": [
+        { "label": "A", "text": "The invitation says business formal." },
+        { "label": "B", "text": "She wore a beautiful dress." },
+        { "label": "C", "text": "The ceremony lasts about two hours." }
+      ],
+      "answer": "A",
+      "explanation": "「授賞式にドレスコードはあるかな」に対し、具体的な服装基準を答えるAが正解。Bはdressの名詞用法、Cは式典の長さで的外れ。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_099",
+      "audioFile": null,
+      "transcript": "Didn't we agree to reduce the number of monthly reports?",
+      "choices": [
+        { "label": "A", "text": "Yes, but the department heads want to keep the current schedule." },
+        { "label": "B", "text": "The number of employees has grown." },
+        { "label": "C", "text": "I reported the issue to management." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文「月次レポートの数を減らすことに合意したよね？」に対し、状況の変化を説明するAが正解。Bは社員数、Cはreportの動詞用法で不適切。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp2_100",
+      "audioFile": null,
+      "transcript": "Ms. Taylor suggested we expand into the European market.",
+      "choices": [
+        { "label": "A", "text": "That could be a great opportunity, but we'd need local partners." },
+        { "label": "B", "text": "The supermarket is down the street." },
+        { "label": "C", "text": "She suggested Italian food for lunch." }
+      ],
+      "answer": "A",
+      "explanation": "「テイラーさんがヨーロッパ市場への進出を提案した」に対し、検討しつつ条件を述べるAが正解。Bはmarketの別の意味、Cは別の提案で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_101",
+      "audioFile": null,
+      "transcript": "How would you rate the new employee onboarding process?",
+      "choices": [
+        { "label": "A", "text": "I think it could use more hands-on training." },
+        { "label": "B", "text": "The interest rate went down." },
+        { "label": "C", "text": "We onboarded three new employees." }
+      ],
+      "answer": "A",
+      "explanation": "「新人研修プロセスをどう評価する？」に対し、改善点を含めた評価を述べるAが正解。Bはrateの別の意味（金利）に引っかけた誤答。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_102",
+      "audioFile": null,
+      "transcript": "Have the samples been sent to the quality control lab?",
+      "choices": [
+        { "label": "A", "text": "Yes, they were shipped out this morning." },
+        { "label": "B", "text": "The lab is on the ground floor." },
+        { "label": "C", "text": "We sampled the new menu items." }
+      ],
+      "answer": "A",
+      "explanation": "「サンプルは品質管理ラボに送られた？」に対し、今朝発送済みと答えるAが正解。Bはラボの場所、Cはsampleの動詞用法で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_103",
+      "audioFile": null,
+      "transcript": "Why are so many people lined up outside the auditorium?",
+      "choices": [
+        { "label": "A", "text": "There's a free concert by a famous pianist today." },
+        { "label": "B", "text": "The line is about fifty meters long." },
+        { "label": "C", "text": "I lined up the chairs in the room." }
+      ],
+      "answer": "A",
+      "explanation": "「なぜ講堂の外に多くの人が並んでいる？」に対し、理由を説明するAが正解。Bは列の長さ、Cはline upの別の意味で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_104",
+      "audioFile": null,
+      "transcript": "Would you mind closing the window? It's getting cold in here.",
+      "choices": [
+        { "label": "A", "text": "Not at all. I'll close it right away." },
+        { "label": "B", "text": "The window faces the parking lot." },
+        { "label": "C", "text": "It was cold yesterday too." }
+      ],
+      "answer": "A",
+      "explanation": "「窓を閉めてもらえますか？」という丁寧な依頼に対し、快諾するAが正解。Bは窓の位置、Cは昨日の天気で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_105",
+      "audioFile": null,
+      "transcript": "The annual company retreat is in November this year, isn't it?",
+      "choices": [
+        { "label": "A", "text": "Actually, it's been pushed to early December." },
+        { "label": "B", "text": "The retreat center is in the mountains." },
+        { "label": "C", "text": "I retreated from the negotiation." }
+      ],
+      "answer": "A",
+      "explanation": "付加疑問文「社員旅行は今年11月だよね？」に対し、12月に変更されたと訂正するAが正解。Bは場所、Cはretreatの動詞用法で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_106",
+      "audioFile": null,
+      "transcript": "I forgot my ID badge at home today.",
+      "choices": [
+        { "label": "A", "text": "You can get a temporary one at the front desk." },
+        { "label": "B", "text": "Your home is quite far from the office." },
+        { "label": "C", "text": "I forgot her name." }
+      ],
+      "answer": "A",
+      "explanation": "「今日IDバッジを家に忘れた」に対し、解決策を提案するAが正解。Bは自宅の距離、Cはforgotの別の文脈で不適切。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_107",
+      "audioFile": null,
+      "transcript": "Haven't the performance reviews been completed for this quarter?",
+      "choices": [
+        { "label": "A", "text": "Most of them are done. Just a few departments are behind." },
+        { "label": "B", "text": "The performance at the theater was excellent." },
+        { "label": "C", "text": "I reviewed the documents carefully." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文「今四半期の人事評価は完了してない？」に対し、ほぼ完了だが一部遅れていると状況を説明するAが正解。Bはperformanceの別の意味（公演）。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp2_108",
+      "audioFile": null,
+      "transcript": "What kind of food does the new restaurant downstairs serve?",
+      "choices": [
+        { "label": "A", "text": "Mostly Thai and Vietnamese dishes." },
+        { "label": "B", "text": "It opened last Monday." },
+        { "label": "C", "text": "The service was very quick." }
+      ],
+      "answer": "A",
+      "explanation": "「下のレストランは何料理？」に対し、料理の種類を答えるAが正解。Bは開店日、Cはサービスの速さで的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_109",
+      "audioFile": null,
+      "transcript": "Shouldn't the emergency exit signs be more visible?",
+      "choices": [
+        { "label": "A", "text": "I agree. Let's replace them with brighter LED signs." },
+        { "label": "B", "text": "The exit is at the end of the hallway." },
+        { "label": "C", "text": "I signed the contract this morning." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文「非常口の表示をもっと見やすくすべきでは？」に対し、同意して改善策を提案するAが正解。Bは出口の場所、Cはsignの別の意味で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_110",
+      "audioFile": null,
+      "transcript": "Ms. Johnson is retiring at the end of the month, right?",
+      "choices": [
+        { "label": "A", "text": "Yes, we're organizing a farewell party for her." },
+        { "label": "B", "text": "She retired to the conference room." },
+        { "label": "C", "text": "The end-of-month report is due Friday." }
+      ],
+      "answer": "A",
+      "explanation": "「ジョンソンさんは今月末に退職するよね？」に対し、確認して送別会の予定を伝えるAが正解。Bはretireの別の意味（退室）に引っかけた誤答。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_111",
+      "audioFile": null,
+      "transcript": "How do I submit a request for remote work?",
+      "choices": [
+        { "label": "A", "text": "Fill out the form on the HR portal and get your manager's approval." },
+        { "label": "B", "text": "I work remotely every Friday." },
+        { "label": "C", "text": "The remote control is on the table." }
+      ],
+      "answer": "A",
+      "explanation": "「リモートワークの申請はどうすればいい？」に対し、手順を教えるAが正解。Bは自分の勤務形態、Cはremoteの別の意味で不適切。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_112",
+      "audioFile": null,
+      "transcript": "The seminar registration has reached capacity already.",
+      "choices": [
+        { "label": "A", "text": "Can we add a second session to accommodate more people?" },
+        { "label": "B", "text": "I registered for the marathon." },
+        { "label": "C", "text": "The seminar is about leadership skills." }
+      ],
+      "answer": "A",
+      "explanation": "「セミナーの登録が定員に達した」という報告に対し、追加セッションを提案するAが正解。Bはregisterの別の文脈、Cはテーマで的外れ。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_113",
+      "audioFile": null,
+      "transcript": "Whose turn is it to present at tomorrow's team meeting?",
+      "choices": [
+        { "label": "A", "text": "I believe it's David's turn this week." },
+        { "label": "B", "text": "Turn left at the next intersection." },
+        { "label": "C", "text": "The presentation lasted an hour." }
+      ],
+      "answer": "A",
+      "explanation": "「明日の会議で発表するのは誰の番？」に対し、人物名を答えるAが正解。Bはturnの別の意味、Cは発表時間で不適切。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_114",
+      "audioFile": null,
+      "transcript": "Wouldn't it be more cost-effective to outsource the data entry?",
+      "choices": [
+        { "label": "A", "text": "Possibly, but we'd need to ensure data security." },
+        { "label": "B", "text": "Please enter your password." },
+        { "label": "C", "text": "The data shows a positive trend." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文「データ入力を外注した方がコスパいいのでは？」に対し、条件付きで検討するAが正解。Bはenterの別の意味、Cはデータの内容で的外れ。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp2_115",
+      "audioFile": null,
+      "transcript": "Do you know when the office renovation will start?",
+      "choices": [
+        { "label": "A", "text": "It's set to begin right after the holiday weekend." },
+        { "label": "B", "text": "The renovated office looks great." },
+        { "label": "C", "text": "I know where the office is." }
+      ],
+      "answer": "A",
+      "explanation": "「オフィスの改装はいつ始まる？」に対し、開始時期を答えるAが正解。Bは改装後の感想、Cは場所で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_116",
+      "audioFile": null,
+      "transcript": "I can't believe how quickly the internship program filled up.",
+      "choices": [
+        { "label": "A", "text": "We should consider expanding it next year." },
+        { "label": "B", "text": "The program runs for three months." },
+        { "label": "C", "text": "I filled up the gas tank." }
+      ],
+      "answer": "A",
+      "explanation": "「インターンシップがこんなに早く埋まるなんて」という驚きに対し、来年の拡大を提案するAが正解。Bは期間、Cはfill upの別の意味で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_117",
+      "audioFile": null,
+      "transcript": "Has the warranty on the office printer expired?",
+      "choices": [
+        { "label": "A", "text": "Let me check. I think we still have a few months left." },
+        { "label": "B", "text": "The printer uses color ink cartridges." },
+        { "label": "C", "text": "My passport expired last January." }
+      ],
+      "answer": "A",
+      "explanation": "「オフィスのプリンターの保証は切れた？」に対し、確認して残り期間があると思うと答えるAが正解。Bはインク情報、Cはexpireの別の文脈で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_118",
+      "audioFile": null,
+      "transcript": "Why did the power go out in the west wing?",
+      "choices": [
+        { "label": "A", "text": "A circuit breaker tripped during the thunderstorm." },
+        { "label": "B", "text": "The west wing has six offices." },
+        { "label": "C", "text": "I went out for a walk." }
+      ],
+      "answer": "A",
+      "explanation": "「なぜ西棟が停電した？」に対し、原因を説明するAが正解。Bはオフィス数、Cはgo outの別の意味で的外れ。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_119",
+      "audioFile": null,
+      "transcript": "The guest speaker just cancelled for tonight's event.",
+      "choices": [
+        { "label": "A", "text": "Do we have anyone who could fill in on short notice?" },
+        { "label": "B", "text": "The event was well attended." },
+        { "label": "C", "text": "I cancelled my gym membership." }
+      ],
+      "answer": "A",
+      "explanation": "「今夜のイベントのゲストスピーカーがキャンセルした」という緊急報告に対し、代替案を提案するAが正解。Bは過去のイベント、Cは別のキャンセルで不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_120",
+      "audioFile": null,
+      "transcript": "Isn't the new branch supposed to open by the end of this quarter?",
+      "choices": [
+        { "label": "A", "text": "It's been delayed because of permit issues." },
+        { "label": "B", "text": "The branch has twenty employees." },
+        { "label": "C", "text": "I opened a new bank account." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文「新支店は今四半期末までに開業するはずでは？」に対し、許認可の問題で遅れていると説明するAが正解。Bは従業員数、Cはopenの別の文脈で不適切。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp2_121",
+      "audioFile": null,
+      "transcript": "Where can I pick up my visitor badge?",
+      "choices": [
+        { "label": "A", "text": "At the security desk in the main lobby." },
+        { "label": "B", "text": "I picked up some groceries on the way home." },
+        { "label": "C", "text": "The visitor stayed for two hours." }
+      ],
+      "answer": "A",
+      "explanation": "「来客用バッジはどこで受け取れる？」に対し、場所を答えるAが正解。Bはpick upの別の意味、Cは滞在時間で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_122",
+      "audioFile": null,
+      "transcript": "How long has Mr. Kim been working in the sales department?",
+      "choices": [
+        { "label": "A", "text": "He joined the team about three years ago." },
+        { "label": "B", "text": "The sales figures were impressive." },
+        { "label": "C", "text": "He works from nine to five." }
+      ],
+      "answer": "A",
+      "explanation": "「キムさんは営業部にどれくらいいる？」に対し、在籍期間を答えるAが正解。Bは売上、Cは勤務時間で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_123",
+      "audioFile": null,
+      "transcript": "What is the check-in time at the hotel?",
+      "choices": [
+        { "label": "A", "text": "Anytime after three in the afternoon." },
+        { "label": "B", "text": "I checked in with the receptionist." },
+        { "label": "C", "text": "The hotel has a hundred and fifty rooms." }
+      ],
+      "answer": "A",
+      "explanation": "「ホテルのチェックイン時間は？」に対し、具体的な時間を答えるAが正解。Bはcheck inの別の文脈、Cは部屋数で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_124",
+      "audioFile": null,
+      "transcript": "Isn't the new employee orientation scheduled for Monday?",
+      "choices": [
+        { "label": "A", "text": "It was rescheduled to Wednesday due to a holiday." },
+        { "label": "B", "text": "We hired two new employees." },
+        { "label": "C", "text": "I oriented myself to the new office layout." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文「新入社員研修は月曜の予定では？」に対し、祝日のため水曜に変更されたと答えるAが正解。Bは採用人数、Cはorientの別の用法で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_125",
+      "audioFile": null,
+      "transcript": "Could you recommend a good restaurant near the convention center?",
+      "choices": [
+        { "label": "A", "text": "There's a great seafood place about a block away." },
+        { "label": "B", "text": "I recommend backing up your files regularly." },
+        { "label": "C", "text": "The convention starts at nine." }
+      ],
+      "answer": "A",
+      "explanation": "「コンベンションセンター近くのいいレストランを教えて」に対し、具体的な店を紹介するAが正解。Bはrecommendの別の文脈、Cは開始時間で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_126",
+      "audioFile": null,
+      "transcript": "Why is the meeting room always booked when I need it?",
+      "choices": [
+        { "label": "A", "text": "You should try reserving it earlier in the week." },
+        { "label": "B", "text": "I booked a flight to Seoul." },
+        { "label": "C", "text": "The meeting room seats twelve." }
+      ],
+      "answer": "A",
+      "explanation": "「なぜいつも必要な時に会議室が予約済みなの？」に対し、早めの予約を提案するAが正解。Bはbookの別の文脈、Cは収容人数で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_127",
+      "audioFile": null,
+      "transcript": "The client wants to schedule a follow-up call for next week.",
+      "choices": [
+        { "label": "A", "text": "Tuesday or Thursday works best for me." },
+        { "label": "B", "text": "I called the client yesterday." },
+        { "label": "C", "text": "We should follow the safety procedures." }
+      ],
+      "answer": "A",
+      "explanation": "「クライアントが来週フォローアップの電話を入れたいそうだ」に対し、都合のいい日を提案するAが正解。Bは過去の通話、Cはfollowの別の意味で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_128",
+      "audioFile": null,
+      "transcript": "Have you signed up for the company marathon team?",
+      "choices": [
+        { "label": "A", "text": "Not yet, but I'm considering it." },
+        { "label": "B", "text": "The marathon is forty-two kilometers." },
+        { "label": "C", "text": "I signed the document this morning." }
+      ],
+      "answer": "A",
+      "explanation": "「会社のマラソンチームに登録した？」に対し、検討中と答えるAが正解。Bはマラソンの距離、Cはsignの別の文脈で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_129",
+      "audioFile": null,
+      "transcript": "The tenant in suite two-oh-five has been complaining about the noise.",
+      "choices": [
+        { "label": "A", "text": "I'll look into soundproofing options for that floor." },
+        { "label": "B", "text": "Suite two-oh-five is on the second floor." },
+        { "label": "C", "text": "The sweet dessert was my favorite." }
+      ],
+      "answer": "A",
+      "explanation": "「205号室のテナントが騒音に苦情を言っている」に対し、防音対策を検討すると答えるAが正解。Bは場所の情報、Cはsuiteの同音異義語（sweet）に引っかけた誤答。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp2_130",
+      "audioFile": null,
+      "transcript": "When is the deadline for submitting the grant application?",
+      "choices": [
+        { "label": "A", "text": "It's due by the end of next month." },
+        { "label": "B", "text": "The grant covers research expenses." },
+        { "label": "C", "text": "I take everything for granted." }
+      ],
+      "answer": "A",
+      "explanation": "「助成金申請の締め切りはいつ？」に対し、期限を答えるAが正解。Bは助成金の用途、Cはgrantの別の意味（当然のこと）で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_131",
+      "audioFile": null,
+      "transcript": "The board of directors has approved the merger.",
+      "choices": [
+        { "label": "A", "text": "That's great news. When will it be publicly announced?" },
+        { "label": "B", "text": "The board game was fun." },
+        { "label": "C", "text": "I merged the two spreadsheets." }
+      ],
+      "answer": "A",
+      "explanation": "「取締役会が合併を承認した」という報告に対し、公表時期を尋ねるAが正解。Bはboardの別の意味（ボードゲーム）、Cはmergeの別の文脈で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_132",
+      "audioFile": null,
+      "transcript": "Would you prefer to receive the report by email or as a printed copy?",
+      "choices": [
+        { "label": "A", "text": "Email is fine. I'm trying to reduce paper usage." },
+        { "label": "B", "text": "The report has twenty pages." },
+        { "label": "C", "text": "I printed the photos from the event." }
+      ],
+      "answer": "A",
+      "explanation": "「報告書はメールか印刷か？」という選択疑問に対し、理由を添えてメールを選ぶAが正解。Bはページ数、Cはprintの別の文脈で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_133",
+      "audioFile": null,
+      "transcript": "Shouldn't we update the employee handbook to reflect the new policies?",
+      "choices": [
+        { "label": "A", "text": "Absolutely. I'll coordinate with HR to draft the revisions." },
+        { "label": "B", "text": "The handbook is on the shelf." },
+        { "label": "C", "text": "The new policy takes effect in April." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文「新方針を反映するように社員ハンドブックを更新すべきでは？」に対し、同意してHRと連携すると答えるAが正解。Bは場所、Cは施行時期で的外れ。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp2_134",
+      "audioFile": null,
+      "transcript": "What floor is the human resources department on?",
+      "choices": [
+        { "label": "A", "text": "It's on the seventh floor, next to the legal department." },
+        { "label": "B", "text": "They manage employee benefits." },
+        { "label": "C", "text": "The floor was recently polished." }
+      ],
+      "answer": "A",
+      "explanation": "「人事部は何階？」に対し、階と隣接部署を答えるAが正解。Bは業務内容、Cはfloorの別の意味（床）で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_135",
+      "audioFile": null,
+      "transcript": "Don't we need to get the director's approval before starting the project?",
+      "choices": [
+        { "label": "A", "text": "Yes, I'll schedule a meeting with her this afternoon." },
+        { "label": "B", "text": "The director has been with the company for ten years." },
+        { "label": "C", "text": "The project started last month." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文「プロジェクト開始前に部長の承認が必要では？」に対し、今日の午後に面談を設定すると答えるAが正解。Bは勤続年数、Cは先月の話で的外れ。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_136",
+      "audioFile": null,
+      "transcript": "How did the job interview with the candidate from Seoul go?",
+      "choices": [
+        { "label": "A", "text": "Very well. She has impressive experience in data analytics." },
+        { "label": "B", "text": "Seoul is the capital of South Korea." },
+        { "label": "C", "text": "The interview lasted about forty-five minutes." }
+      ],
+      "answer": "A",
+      "explanation": "「ソウルからの候補者との面接はどうだった？」に対し、評価を述べるAが正解。Bは地理情報、Cは時間で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_137",
+      "audioFile": null,
+      "transcript": "The photocopier is running low on toner again.",
+      "choices": [
+        { "label": "A", "text": "I'll order a replacement cartridge from the supply catalog." },
+        { "label": "B", "text": "The tone of his voice was serious." },
+        { "label": "C", "text": "I made a hundred copies." }
+      ],
+      "answer": "A",
+      "explanation": "「コピー機のトナーがまた少なくなっている」に対し、交換カートリッジを注文すると対応するAが正解。Bはtoneの別の意味に引っかけた誤答。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_138",
+      "audioFile": null,
+      "transcript": "Has the safety inspection report been filed with the city?",
+      "choices": [
+        { "label": "A", "text": "Yes, the compliance team submitted it last Tuesday." },
+        { "label": "B", "text": "The file is in the cabinet." },
+        { "label": "C", "text": "The city has over a million residents." }
+      ],
+      "answer": "A",
+      "explanation": "「安全検査報告書は市に提出された？」に対し、先週火曜に提出済みと答えるAが正解。Bはfileの別の意味（ファイル）、Cは市の人口で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_139",
+      "audioFile": null,
+      "transcript": "Who's going to lead the presentation to the investors?",
+      "choices": [
+        { "label": "A", "text": "The CEO herself will be presenting." },
+        { "label": "B", "text": "The presentation slides are ready." },
+        { "label": "C", "text": "We have twelve investors." }
+      ],
+      "answer": "A",
+      "explanation": "「投資家向けプレゼンは誰がリードする？」に対し、CEO自らが行うと答えるAが正解。Bはスライドの状態、Cは投資家の数で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_140",
+      "audioFile": null,
+      "transcript": "The temperature in the server room seems unusually high.",
+      "choices": [
+        { "label": "A", "text": "We should check if the cooling system is functioning properly." },
+        { "label": "B", "text": "The server stores all company data." },
+        { "label": "C", "text": "Today's temperature is thirty degrees." }
+      ],
+      "answer": "A",
+      "explanation": "「サーバールームの温度が異常に高い」に対し、冷却システムの確認を提案するAが正解。Bはサーバーの機能、Cは外気温で的外れ。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_141",
+      "audioFile": null,
+      "transcript": "Wasn't the product recall supposed to be handled by the quality team?",
+      "choices": [
+        { "label": "A", "text": "It was, but they've asked the operations team to assist." },
+        { "label": "B", "text": "The product sells very well in Asia." },
+        { "label": "C", "text": "I can recall the details of the meeting." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文「製品リコールは品質チームの担当だったよね？」に対し、運営チームにも協力を求めたと説明するAが正解。Cはrecallの別の意味（思い出す）に引っかけた誤答。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp2_142",
+      "audioFile": null,
+      "transcript": "Do you think we have enough parking spaces for the event?",
+      "choices": [
+        { "label": "A", "text": "We might need to arrange overflow parking at the nearby lot." },
+        { "label": "B", "text": "The event is this Saturday." },
+        { "label": "C", "text": "I spaced the items evenly on the shelf." }
+      ],
+      "answer": "A",
+      "explanation": "「イベント用の駐車スペースは十分ある？」に対し、近くの駐車場も手配する必要があるかもと答えるAが正解。Bは日程、Cはspaceの動詞用法で不適切。",
+      "difficulty": 2
+    },
+    {
+      "id": "lp2_143",
+      "audioFile": null,
+      "transcript": "How should I address the envelope for the formal invitation?",
+      "choices": [
+        { "label": "A", "text": "Use the recipient's full title and company name." },
+        { "label": "B", "text": "The address is one hundred Main Street." },
+        { "label": "C", "text": "She addressed the audience confidently." }
+      ],
+      "answer": "A",
+      "explanation": "「正式な招待状の封筒にどう宛名を書く？」に対し、書き方を教えるAが正解。Bはaddressの名詞用法（住所）、Cはaddressの別の動詞用法で的外れ。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp2_144",
+      "audioFile": null,
+      "transcript": "I noticed the vending machine in the break room is empty.",
+      "choices": [
+        { "label": "A", "text": "I'll contact the vendor to have it restocked." },
+        { "label": "B", "text": "The break room also has a microwave." },
+        { "label": "C", "text": "I took a break at three o'clock." }
+      ],
+      "answer": "A",
+      "explanation": "「休憩室の自動販売機が空だ」に対し、補充の手配をすると答えるAが正解。Bは休憩室の設備、Cはbreakの別の意味で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_145",
+      "audioFile": null,
+      "transcript": "Haven't the results of the customer satisfaction survey been released?",
+      "choices": [
+        { "label": "A", "text": "They're expected to be published early next week." },
+        { "label": "B", "text": "We surveyed about five hundred customers." },
+        { "label": "C", "text": "The customer service team is very responsive." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文「顧客満足度調査の結果はまだ公表されてない？」に対し、来週初めに公表予定と答えるAが正解。Bは調査対象数、Cはカスタマーサービスの評価で的外れ。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp2_146",
+      "audioFile": null,
+      "transcript": "Where would you like me to set up the projector for the presentation?",
+      "choices": [
+        { "label": "A", "text": "At the front of the room, near the whiteboard." },
+        { "label": "B", "text": "The presentation is about our quarterly results." },
+        { "label": "C", "text": "I set up my alarm for six o'clock." }
+      ],
+      "answer": "A",
+      "explanation": "「プレゼン用のプロジェクターをどこに設置する？」に対し、場所を指定するAが正解。Bはプレゼンの内容、Cはset upの別の文脈で不適切。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_147",
+      "audioFile": null,
+      "transcript": "The deadline for the research proposal has been moved up by two weeks.",
+      "choices": [
+        { "label": "A", "text": "That's tight. We'll need to prioritize the literature review." },
+        { "label": "B", "text": "I moved to a new apartment last month." },
+        { "label": "C", "text": "The research covers three main topics." }
+      ],
+      "answer": "A",
+      "explanation": "「研究提案の締め切りが2週間前倒しになった」に対し、対応策を示すAが正解。Bはmoveの別の意味、Cはテーマで的外れ。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp2_148",
+      "audioFile": null,
+      "transcript": "Is the conference call with the London office at nine or ten?",
+      "choices": [
+        { "label": "A", "text": "It's at ten, because of the time difference." },
+        { "label": "B", "text": "The London office has about thirty employees." },
+        { "label": "C", "text": "I called them last Tuesday." }
+      ],
+      "answer": "A",
+      "explanation": "「ロンドンとの電話会議は9時か10時か？」に対し、時差を考慮して10時と答えるAが正解。Bは従業員数、Cは先週の電話で的外れ。",
+      "difficulty": 1
+    },
+    {
+      "id": "lp2_149",
+      "audioFile": null,
+      "transcript": "Don't you think we should invest in better cybersecurity measures?",
+      "choices": [
+        { "label": "A", "text": "Definitely. The recent data breach at our competitor was a wake-up call." },
+        { "label": "B", "text": "I invested in some stocks last year." },
+        { "label": "C", "text": "Cybersecurity is a growing field." }
+      ],
+      "answer": "A",
+      "explanation": "否定疑問文「もっと良いサイバーセキュリティ対策に投資すべきでは？」に対し、競合のデータ侵害を引き合いに強く同意するAが正解。Bはinvestの別の文脈、Cは一般論で不適切。",
+      "difficulty": 3
+    },
+    {
+      "id": "lp2_150",
+      "audioFile": null,
+      "transcript": "The annual charity gala is going to be held at the Grand Hotel this year.",
+      "choices": [
+        { "label": "A", "text": "That's a beautiful venue. Will there be a silent auction again?" },
+        { "label": "B", "text": "The Grand Hotel has three hundred rooms." },
+        { "label": "C", "text": "I held the door open for her." }
+      ],
+      "answer": "A",
+      "explanation": "「今年のチャリティーガラはグランドホテルで開催される」に対し、会場を称えつつ詳細を尋ねるAが正解。Bはホテルの部屋数、Cはheldの別の意味で不適切。",
+      "difficulty": 2
+    }
+  ]
+}
