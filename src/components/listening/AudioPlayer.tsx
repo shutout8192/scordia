@@ -172,7 +172,9 @@ export default function AudioPlayer({ text, mode = "single", choices }: Props) {
   }, [text, rate, mode, choices, speakSegments]);
 
   const stop = useCallback(() => {
-    window.speechSynthesis.cancel();
+    if (typeof window !== "undefined" && window.speechSynthesis) {
+      window.speechSynthesis.cancel();
+    }
     setPlaying(false);
   }, []);
 
