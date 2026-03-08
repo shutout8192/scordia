@@ -127,7 +127,7 @@ export default function HomePage() {
       {/* Features */}
       <section className="max-w-3xl mx-auto px-5 pt-14 pb-16">
         <h2 className="text-lg font-bold mb-6 text-center">学習コンテンツ</h2>
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {features.map((f) => (
             <Link
               key={f.href}
