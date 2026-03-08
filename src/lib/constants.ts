@@ -1,6 +1,6 @@
-export const SITE_NAME = "TOEIC Master";
+export const SITE_NAME = "Scordia";
 export const SITE_DESCRIPTION = "無料でTOEIC対策！文法・語彙・リスニングの練習問題で目標スコアを達成しよう。";
-export const SITE_URL = "https://toeic-master-black-nine.vercel.app";
+export const SITE_URL = "https://scordia.net";
 
 export const STORAGE_KEYS = {
   PROGRESS: "toeic_progress",

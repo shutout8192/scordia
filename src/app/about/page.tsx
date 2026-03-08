@@ -5,7 +5,7 @@ import { SITE_NAME } from "@/lib/constants";
 
 export const metadata: Metadata = {
   title: "このサイトについて",
-  description: "TOEIC Masterは無料でTOEIC対策ができる学習サイトです。文法・語彙・リスニングの練習問題を提供しています。",
+  description: "Scordiaは無料でTOEIC対策ができる学習サイトです。文法・語彙・リスニングの練習問題を提供しています。",
 };
 
 export default function AboutPage() {

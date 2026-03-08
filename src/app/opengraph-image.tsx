@@ -1,7 +1,7 @@
 import { ImageResponse } from "next/og";
 
 export const runtime = "edge";
-export const alt = "TOEIC Master | 無料TOEIC対策サイト";
+export const alt = "Scordia | 無料TOEIC対策サイト";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -36,7 +36,7 @@ export default async function Image() {
               letterSpacing: "-2px",
             }}
           >
-            TOEIC Master
+            Scordia
           </div>
           <div
             style={{
@@ -79,7 +79,7 @@ export default async function Image() {
             color: "rgba(255,255,255,0.5)",
           }}
         >
-          toeic-master.vercel.app
+          scordia.net
         </div>
       </div>
     ),
