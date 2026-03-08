@@ -40,6 +40,15 @@ const features = [
     statIcon: "🔊",
   },
   {
+    href: "/diagnosis",
+    icon: "🎯",
+    title: "スコア診断",
+    description: "15問で予想TOEICスコアを診断",
+    stat: "5分",
+    statIcon: "⏱️",
+    badge: "NEW",
+  },
+  {
     href: "/progress",
     icon: "📊",
     title: "学習記録",
@@ -71,8 +80,14 @@ export default function HomePage() {
           </p>
           <div className="flex justify-center gap-3 flex-wrap">
             <Link
-              href="/quiz"
+              href="/diagnosis"
               className="inline-flex items-center gap-2 bg-primary text-white text-sm font-semibold px-5 py-2.5 rounded-lg hover:bg-primary-dark transition-colors shadow-sm"
+            >
+              🎯 スコア診断
+            </Link>
+            <Link
+              href="/quiz"
+              className="inline-flex items-center gap-2 bg-surface text-foreground text-sm font-semibold px-5 py-2.5 rounded-lg border border-border/60 hover:border-primary/40 hover:text-primary transition-colors"
             >
               📝 模擬問題
             </Link>
@@ -97,7 +112,7 @@ export default function HomePage() {
         <div className="bg-surface rounded-2xl border border-border/60 shadow-sm grid grid-cols-2 sm:grid-cols-4 divide-x divide-border/40 py-5">
           {[
             { value: "460+", label: "コンテンツ" },
-            { value: "4種", label: "学習モード" },
+            { value: "5種", label: "学習モード" },
             { value: "¥0", label: "利用料金" },
             { value: "3段階", label: "難易度" },
           ].map((s) => (

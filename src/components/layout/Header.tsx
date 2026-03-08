@@ -8,6 +8,7 @@ const navLinks = [
   { href: "/quiz", label: "模擬問題" },
   { href: "/vocabulary", label: "単語帳" },
   { href: "/listening", label: "リスニング" },
+  { href: "/diagnosis", label: "診断" },
   { href: "/progress", label: "学習記録" },
 ];
 
