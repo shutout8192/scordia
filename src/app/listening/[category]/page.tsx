@@ -4,7 +4,7 @@ import { useParams } from "next/navigation";
 import Link from "next/link";
 import AudioPlayer from "@/components/listening/AudioPlayer";
 import { ListeningCategory, ListeningQuestion } from "@/types/listening";
-import { saveSession } from "@/lib/storage";
+import { saveSession, addWrongAnswers, WrongAnswer } from "@/lib/storage";
 import { shuffle } from "@/lib/shuffle";
 
 import part1Data from "@/data/listening/part1.json";
@@ -67,6 +67,16 @@ export default function ListeningSessionPage() {
         scorePercent: Math.round((correctCount / questions.length) * 100),
         timeSpentSeconds: elapsed,
       });
+      // Save wrong answers for review tracking
+      const wrong: WrongAnswer[] = questions
+        .filter((_, i) => i < results.length && !results[i].correct)
+        .map((q) => ({
+          questionId: q.id,
+          category,
+          selected: "",
+          date: new Date().toISOString(),
+        }));
+      if (wrong.length > 0) addWrongAnswers(wrong);
       setFinished(true);
     } else {
       setCurrentIndex((i) => i + 1);
