@@ -1,5 +1,7 @@
+'use client';
+
 import { DarkModeToggle } from '@/components/DarkModeToggle';
-import Link from 'next/link';
+import { signIn } from 'next-auth/react';
 
 export default function Home() {
   return (
@@ -14,12 +16,12 @@ export default function Home() {
         <p className="text-xl text-gray-600 dark:text-gray-400">
           画像を見て英語のリスニング問題に挑戦しよう
         </p>
-        <Link
-          href="/api/auth/signin"
+        <button
+          onClick={() => signIn('google', { callbackUrl: '/' })}
           className="px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-semibold transition-colors"
         >
           Googleでログイン
-        </Link>
+        </button>
       </div>
     </main>
   );
