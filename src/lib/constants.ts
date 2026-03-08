@@ -39,7 +39,7 @@ export const VOCAB_CATEGORIES = [
 ] as const;
 
 export const LISTENING_CATEGORIES = [
-  { slug: "part1", label: "Part 1: 写真描写", description: "写真を見て正しい描写を選ぶ", icon: "🖼️", questionCount: 25 },
+  { slug: "part1", label: "Part 1: 写真描写", description: "写真を見て正しい描写を選ぶ", icon: "🖼️", questionCount: 30 },
   { slug: "part2", label: "Part 2: 応答問題", description: "質問に対する適切な応答を選ぶ", icon: "💬", questionCount: 150 },
   { slug: "part3", label: "Part 3: 会話問題", description: "会話を聞いて質問に答える", icon: "🗣️", questionCount: 75 },
 ] as const;

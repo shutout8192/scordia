@@ -36,7 +36,7 @@ const features = [
     icon: "🎧",
     title: "リスニング",
     description: "Part 1〜3形式の音声付き問題",
-    stat: "250問",
+    stat: "255問",
     statIcon: "🔊",
   },
   {

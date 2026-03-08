@@ -426,6 +426,91 @@
       "explanation": "ヘッドセットをつけた女性が電話で顧客と話している場面です。",
       "difficulty": 2,
       "sceneJa": "コールセンター"
+    },
+    {
+      "id": "lp1_026",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/3184325/pexels-photo-3184325.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:3184325",
+      "transcript": "A group of coworkers is looking at a tablet together.",
+      "choices": [
+        { "label": "A", "text": "A group of coworkers is looking at a tablet together." },
+        { "label": "B", "text": "A man is reading a newspaper by himself." },
+        { "label": "C", "text": "The screen has been turned off." },
+        { "label": "D", "text": "A woman is walking toward the elevator." }
+      ],
+      "answer": "A",
+      "explanation": "同僚たちが一緒にタブレットを見ている場面です。",
+      "difficulty": 1,
+      "sceneJa": "オフィス"
+    },
+    {
+      "id": "lp1_027",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/3184431/pexels-photo-3184431.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:3184431",
+      "transcript": "Employees are walking through a bright, modern office hallway.",
+      "choices": [
+        { "label": "A", "text": "The hallway is blocked by furniture." },
+        { "label": "B", "text": "Employees are walking through a bright, modern office hallway." },
+        { "label": "C", "text": "A security guard is checking identification." },
+        { "label": "D", "text": "The lights in the building have been turned off." }
+      ],
+      "answer": "B",
+      "explanation": "明るいモダンなオフィスの廊下を社員が歩いている場面です。",
+      "difficulty": 2,
+      "sceneJa": "オフィス廊下"
+    },
+    {
+      "id": "lp1_028",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/4348401/pexels-photo-4348401.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:4348401",
+      "transcript": "A pharmacist is handing medication to a customer over the counter.",
+      "choices": [
+        { "label": "A", "text": "A doctor is examining a patient." },
+        { "label": "B", "text": "A pharmacist is handing medication to a customer over the counter." },
+        { "label": "C", "text": "The store shelves are being restocked." },
+        { "label": "D", "text": "A nurse is taking notes on a clipboard." }
+      ],
+      "answer": "B",
+      "explanation": "薬剤師がカウンター越しにお客さんに薬を渡している場面です。",
+      "difficulty": 3,
+      "sceneJa": "薬局"
+    },
+    {
+      "id": "lp1_029",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/1181354/pexels-photo-1181354.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:1181354",
+      "transcript": "A woman is typing on her laptop at a café while holding a coffee cup.",
+      "choices": [
+        { "label": "A", "text": "A woman is typing on her laptop at a café while holding a coffee cup." },
+        { "label": "B", "text": "The café is completely empty." },
+        { "label": "C", "text": "A waiter is cleaning the tables." },
+        { "label": "D", "text": "Two friends are playing a board game." }
+      ],
+      "answer": "A",
+      "explanation": "カフェでコーヒーカップを持ちながらノートパソコンで作業している女性の場面です。",
+      "difficulty": 2,
+      "sceneJa": "カフェ"
+    },
+    {
+      "id": "lp1_030",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/8867434/pexels-photo-8867434.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:8867434",
+      "transcript": "A man in a suit is checking his watch while waiting at a train platform.",
+      "choices": [
+        { "label": "A", "text": "A man is buying a ticket at the counter." },
+        { "label": "B", "text": "The train has already departed." },
+        { "label": "C", "text": "A man in a suit is checking his watch while waiting at a train platform." },
+        { "label": "D", "text": "Passengers are getting off the bus." }
+      ],
+      "answer": "C",
+      "explanation": "スーツを着た男性が駅のホームで時計を確認しながら待っている場面です。",
+      "difficulty": 3,
+      "sceneJa": "駅"
     }
   ]
 }
