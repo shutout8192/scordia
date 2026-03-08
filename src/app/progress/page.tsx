@@ -38,7 +38,7 @@ export default function ProgressPage() {
   });
 
   const categoryLabelMap: Record<string, string> = {
-    grammar: "文法", vocabulary: "語彙", review: "復習",
+    grammar: "文法", vocabulary: "語彙", review: "復習", diagnosis: "診断",
     part1: "リスニングPart1", part2: "リスニングPart2", part3: "リスニングPart3",
   };
 
@@ -115,6 +115,35 @@ export default function ProgressPage() {
                 <p className="text-[11px] text-muted">最長記録</p>
               </div>
             </div>
+          </div>
+
+          {/* Recent sessions */}
+          <div className="bg-surface rounded-xl border border-border/60 p-5 mb-4 shadow-sm">
+            <h2 className="text-sm font-bold mb-3">最近の学習</h2>
+            {sessions.length > 0 ? (
+              <div className="space-y-2">
+                {sessions.slice(-5).reverse().map((s) => {
+                  const d = new Date(s.date);
+                  const dateStr = `${d.getMonth() + 1}/${d.getDate()} ${d.getHours().toString().padStart(2, "0")}:${d.getMinutes().toString().padStart(2, "0")}`;
+                  return (
+                    <div key={s.id} className="flex items-center justify-between text-xs py-1.5 border-b border-border/30 last:border-0">
+                      <div className="flex items-center gap-2">
+                        <span className="text-muted">{dateStr}</span>
+                        <span className="font-medium">{categoryLabelMap[s.category] || s.category}</span>
+                      </div>
+                      <div className="flex items-center gap-2">
+                        <span className={`font-bold ${s.scorePercent >= 70 ? "text-success" : s.scorePercent >= 50 ? "text-accent" : "text-error"}`}>
+                          {s.scorePercent}%
+                        </span>
+                        <span className="text-muted">{s.correctAnswers}/{s.totalQuestions}</span>
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+            ) : (
+              <p className="text-xs text-muted text-center py-2">まだ記録がありません</p>
+            )}
           </div>
 
           {/* Wrong answers / Review */}

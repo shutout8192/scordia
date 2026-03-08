@@ -4,6 +4,8 @@ import Link from "next/link";
 import QuizCard from "@/components/quiz/QuizCard";
 import { QuizQuestion, QuizSessionResult } from "@/types/quiz";
 import { saveSession } from "@/lib/storage";
+import ShareButtons from "@/components/share/ShareButtons";
+import { SITE_NAME } from "@/lib/constants";
 import { shuffle } from "@/lib/shuffle";
 
 import grammarData from "@/data/quiz/grammar.json";
@@ -195,6 +197,10 @@ export default function DiagnosisPage() {
           </div>
         </div>
 
+        <div className="flex justify-center mb-5">
+          <ShareButtons text={`${SITE_NAME}のスコア診断で予想スコア${estimatedScore}点でした！`} compact />
+        </div>
+
         <div className="flex justify-center gap-3">
           <Link href="/diagnosis" className="text-xs font-semibold text-primary hover:underline" onClick={() => {
             setStarted(false);
@@ -239,6 +245,7 @@ export default function DiagnosisPage() {
         selected={selected}
         answered={answered}
         onSelect={handleSelect}
+        onNext={handleNext}
       />
       {answered && (
         <div className="max-w-2xl mx-auto mt-5 text-center">

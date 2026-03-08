@@ -127,6 +127,7 @@ export default function ReviewQuizPage() {
         selected={selected}
         answered={answered}
         onSelect={handleSelect}
+        onNext={handleNext}
       />
       {answered && (
         <div className="max-w-2xl mx-auto mt-5 text-center">

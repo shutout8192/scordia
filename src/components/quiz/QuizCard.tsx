@@ -1,4 +1,5 @@
 "use client";
+import { useEffect } from "react";
 import { QuizQuestion } from "@/types/quiz";
 
 interface Props {
@@ -8,9 +9,27 @@ interface Props {
   selected: string | null;
   answered: boolean;
   onSelect: (label: string) => void;
+  onNext?: () => void;
 }
 
-export default function QuizCard({ question, current, total, selected, answered, onSelect }: Props) {
+export default function QuizCard({ question, current, total, selected, answered, onSelect, onNext }: Props) {
+  // Keyboard shortcuts: 1-4 for A-D, Enter for next
+  useEffect(() => {
+    const handler = (e: KeyboardEvent) => {
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
+      if (!answered) {
+        const keyMap: Record<string, string> = { "1": "A", "2": "B", "3": "C", "4": "D", a: "A", b: "B", c: "C", d: "D" };
+        const label = keyMap[e.key.toLowerCase()];
+        if (label && question.choices.some((c) => c.label === label)) {
+          onSelect(label);
+        }
+      } else if (e.key === "Enter" && onNext) {
+        onNext();
+      }
+    };
+    window.addEventListener("keydown", handler);
+    return () => window.removeEventListener("keydown", handler);
+  }, [answered, question.choices, onSelect, onNext]);
   const getOptionStyle = (label: string) => {
     const base = "quiz-option w-full text-left px-4 py-3 rounded-xl border text-sm";
     if (!answered) {
@@ -74,6 +93,11 @@ export default function QuizCard({ question, current, total, selected, answered,
           <p className="text-muted leading-relaxed">{question.explanation}</p>
         </div>
       )}
+
+      {/* Keyboard shortcut hint */}
+      <p className="hidden md:block text-center text-[10px] text-muted/50 mt-6">
+        キーボード: 1〜4で選択 / Enterで次へ
+      </p>
     </div>
   );
 }

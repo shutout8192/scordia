@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef, useCallback } from "react";
 import { useParams } from "next/navigation";
 import Link from "next/link";
 import AudioPlayer from "@/components/listening/AudioPlayer";
@@ -46,14 +46,14 @@ export default function ListeningSessionPage() {
 
   const question = questions[currentIndex];
 
-  const handleSelect = (label: string) => {
+  const handleSelect = useCallback((label: string) => {
     if (answered) return;
     setSelected(label);
     setAnswered(true);
-    setResults((prev) => [...prev, { correct: label === question.answer }]);
-  };
+    setResults((prev) => [...prev, { correct: label === question?.answer }]);
+  }, [answered, question]);
 
-  const handleNext = () => {
+  const handleNext = useCallback(() => {
     if (currentIndex + 1 >= questions.length) {
       const elapsed = Math.round((Date.now() - startTime.current) / 1000);
       const correctCount = results.filter((r) => r.correct).length;
@@ -84,7 +84,27 @@ export default function ListeningSessionPage() {
       setAnswered(false);
       setShowTranscript(false);
     }
-  };
+  }, [currentIndex, questions, results, category]);
+
+  // Keyboard shortcuts: 1-4 or a-d for choices, Enter for next
+  const handleKeyDown = useCallback((e: KeyboardEvent) => {
+    if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
+    if (finished) return;
+    if (!answered) {
+      const keyMap: Record<string, string> = { "1": "A", "2": "B", "3": "C", "4": "D", a: "A", b: "B", c: "C", d: "D" };
+      const label = keyMap[e.key.toLowerCase()];
+      if (label && question?.choices.some((c) => c.label === label)) {
+        handleSelect(label);
+      }
+    } else if (e.key === "Enter") {
+      handleNext();
+    }
+  }, [answered, finished, question, handleSelect, handleNext]);
+
+  useEffect(() => {
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, [handleKeyDown]);
 
   if (finished) {
     const correctCount = results.filter((r) => r.correct).length;

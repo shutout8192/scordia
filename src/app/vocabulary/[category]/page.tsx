@@ -69,7 +69,13 @@ export default function VocabSessionPage() {
         <div className="bg-primary h-1 rounded-full progress-bar" style={{ width: `${((currentIndex + 1) / data.words.length) * 100}%` }} />
       </div>
 
-      <FlashCard word={word} status={wordStatus} onMark={handleMark} />
+      <FlashCard
+        word={word}
+        status={wordStatus}
+        onMark={handleMark}
+        onPrev={currentIndex > 0 ? () => setCurrentIndex((i) => i - 1) : undefined}
+        onNext={currentIndex < data.words.length - 1 ? () => setCurrentIndex((i) => i + 1) : undefined}
+      />
 
       <div className="flex justify-between mt-8 text-xs font-semibold">
         <button

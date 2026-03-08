@@ -26,9 +26,10 @@ export default function ListeningPage() {
             <h2 className="text-base font-bold text-foreground mb-1 group-hover:text-primary transition-colors">
               {cat.label}
             </h2>
-            <p className="text-sm text-muted leading-relaxed">
+            <p className="text-sm text-muted leading-relaxed mb-2">
               {cat.description}
             </p>
+            <p className="text-xs font-semibold text-primary">{cat.questionCount}問</p>
           </Link>
         ))}
       </div>

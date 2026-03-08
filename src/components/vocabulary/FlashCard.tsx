@@ -1,15 +1,39 @@
 "use client";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { VocabWord } from "@/types/vocabulary";
 
 interface Props {
   word: VocabWord;
   status: "known" | "review" | "unseen";
   onMark: (status: "known" | "review") => void;
+  onPrev?: () => void;
+  onNext?: () => void;
 }
 
-export default function FlashCard({ word, status, onMark }: Props) {
+export default function FlashCard({ word, status, onMark, onPrev, onNext }: Props) {
   const [flipped, setFlipped] = useState(false);
+
+  // Reset flip when word changes
+  useEffect(() => {
+    setFlipped(false);
+  }, [word.id]);
+
+  // Keyboard shortcuts: Space to flip, ←/→ for prev/next
+  useEffect(() => {
+    const handler = (e: KeyboardEvent) => {
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
+      if (e.key === " " || e.key === "Spacebar") {
+        e.preventDefault();
+        setFlipped((f) => !f);
+      } else if (e.key === "ArrowLeft" && onPrev) {
+        onPrev();
+      } else if (e.key === "ArrowRight" && onNext) {
+        onNext();
+      }
+    };
+    window.addEventListener("keydown", handler);
+    return () => window.removeEventListener("keydown", handler);
+  }, [onPrev, onNext]);
 
   return (
     <div className="max-w-sm mx-auto">
@@ -54,6 +78,10 @@ export default function FlashCard({ word, status, onMark }: Props) {
           ↻ 復習する
         </button>
       </div>
+
+      <p className="hidden md:block text-center text-[10px] text-muted/50 mt-6">
+        キーボード: スペースで裏返す / ←→で移動
+      </p>
     </div>
   );
 }
