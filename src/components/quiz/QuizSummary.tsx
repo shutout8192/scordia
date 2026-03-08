@@ -60,6 +60,9 @@ export default function QuizSummary({ results, category, categoryLabel, timeSpen
 
       <div className="flex justify-center gap-4 text-[11px] font-semibold">
         <Link href={`/quiz/${category}`} className="text-primary hover:underline">もう一度挑戦</Link>
+        {percent < 100 && (
+          <Link href="/quiz/review" className="text-accent hover:underline">間違えた問題を復習</Link>
+        )}
         <Link href="/quiz" className="text-muted hover:text-primary">カテゴリ一覧</Link>
       </div>
       <Link href="/progress" className="inline-block mt-3 text-[11px] text-muted hover:text-primary">
