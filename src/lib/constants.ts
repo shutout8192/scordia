@@ -3,11 +3,28 @@ export const SITE_DESCRIPTION = "無料でTOEIC対策！文法・語彙・リス
 export const SITE_URL = "https://scordia.net";
 
 export const STORAGE_KEYS = {
-  PROGRESS: "toeic_progress",
-  VOCAB_STATUS: "toeic_vocab_status",
-  QUIZ_DRAFT: "toeic_quiz_draft",
-  WRONG_ANSWERS: "toeic_wrong_answers",
+  PROGRESS: "scordia_progress",
+  VOCAB_STATUS: "scordia_vocab_status",
+  QUIZ_DRAFT: "scordia_quiz_draft",
+  WRONG_ANSWERS: "scordia_wrong_answers",
 } as const;
+
+// Migrate old storage keys (toeic_ → scordia_)
+const OLD_KEYS: Record<string, string> = {
+  toeic_progress: STORAGE_KEYS.PROGRESS,
+  toeic_vocab_status: STORAGE_KEYS.VOCAB_STATUS,
+  toeic_quiz_draft: STORAGE_KEYS.QUIZ_DRAFT,
+  toeic_wrong_answers: STORAGE_KEYS.WRONG_ANSWERS,
+};
+if (typeof window !== "undefined") {
+  Object.entries(OLD_KEYS).forEach(([oldKey, newKey]) => {
+    const val = localStorage.getItem(oldKey);
+    if (val && !localStorage.getItem(newKey)) {
+      localStorage.setItem(newKey, val);
+      localStorage.removeItem(oldKey);
+    }
+  });
+}
 
 export const QUIZ_CATEGORIES = [
   { slug: "grammar", label: "文法問題", description: "Part 5形式の文法・語法問題", icon: "📝", questionCount: 120 },
