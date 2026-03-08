@@ -19,7 +19,7 @@ const features = [
     icon: "📝",
     title: "模擬問題",
     description: "Part 5/6形式の文法・語彙問題",
-    stat: "240問",
+    stat: "1020問",
     statIcon: "📄",
     badge: "人気",
   },
@@ -28,7 +28,7 @@ const features = [
     icon: "📚",
     title: "単語帳",
     description: "頻出単語をフラッシュカードで暗記",
-    stat: "150語",
+    stat: "750語",
     statIcon: "🔤",
   },
   {
@@ -36,7 +36,7 @@ const features = [
     icon: "🎧",
     title: "リスニング",
     description: "Part 1〜3形式の音声付き問題",
-    stat: "70問",
+    stat: "230問",
     statIcon: "🔊",
   },
   {
@@ -111,7 +111,7 @@ export default function HomePage() {
       <section className="max-w-3xl mx-auto px-5 -mt-6">
         <div className="bg-surface rounded-2xl border border-border/60 shadow-sm grid grid-cols-2 sm:grid-cols-4 divide-x divide-border/40 py-5">
           {[
-            { value: "460+", label: "コンテンツ" },
+            { value: "2000+", label: "コンテンツ" },
             { value: "5種", label: "学習モード" },
             { value: "¥0", label: "利用料金" },
             { value: "3段階", label: "難易度" },

@@ -180,7 +180,7 @@ export default function ListeningSessionPage() {
         {question.choices.map((c) => (
           <button key={c.label} onClick={() => handleSelect(c.label)} disabled={answered} className={getOptionStyle(c.label)}>
             <span className="inline-flex items-center justify-center w-5 h-5 rounded text-[11px] font-bold bg-surface-dim mr-2">{c.label}</span>
-            {category === "part1" && !answered ? "" : c.text}
+            {c.text}
           </button>
         ))}
       </div>

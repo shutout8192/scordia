@@ -27,8 +27,8 @@ if (typeof window !== "undefined") {
 }
 
 export const QUIZ_CATEGORIES = [
-  { slug: "grammar", label: "文法問題", description: "Part 5形式の文法・語法問題", icon: "📝", questionCount: 120 },
-  { slug: "vocabulary", label: "語彙問題", description: "Part 5形式の語彙・語法問題", icon: "📚", questionCount: 120 },
+  { slug: "grammar", label: "文法問題", description: "Part 5形式の文法・語法問題", icon: "📝", questionCount: 480 },
+  { slug: "vocabulary", label: "語彙問題", description: "Part 5形式の語彙・語法問題", icon: "📚", questionCount: 540 },
 ] as const;
 
 export const VOCAB_CATEGORIES = [
