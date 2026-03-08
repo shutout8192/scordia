@@ -1,10 +1,11 @@
 "use client";
-import { useState, useEffect, useMemo } from "react";
+import { useState, useEffect, useMemo, useCallback } from "react";
 import { useParams } from "next/navigation";
 import Link from "next/link";
 import FlashCard from "@/components/vocabulary/FlashCard";
-import { VocabCategory } from "@/types/vocabulary";
+import { VocabCategory, VocabWord } from "@/types/vocabulary";
 import { getProgress, toggleVocabStatus } from "@/lib/storage";
+import { shuffle } from "@/lib/shuffle";
 
 import beginnerData from "@/data/vocabulary/beginner.json";
 import intermediateData from "@/data/vocabulary/intermediate.json";
@@ -26,6 +27,8 @@ export default function VocabSessionPage() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [vocabStatus, setVocabStatus] = useState<Record<string, "known" | "review">>({});
   const [filter, setFilter] = useState<Filter>("all");
+  const [shuffled, setShuffled] = useState(false);
+  const [shuffledOrder, setShuffledOrder] = useState<VocabWord[]>([]);
 
   useEffect(() => {
     const progress = getProgress();
@@ -35,12 +38,23 @@ export default function VocabSessionPage() {
     setVocabStatus(statusMap);
   }, []);
 
-  const filteredWords = useMemo(() => {
+  const baseWords = useMemo(() => {
     if (!data) return [];
-    if (filter === "all") return data.words;
-    if (filter === "unseen") return data.words.filter((w) => !vocabStatus[w.id]);
-    return data.words.filter((w) => vocabStatus[w.id] === "review");
-  }, [data, filter, vocabStatus]);
+    return shuffled ? shuffledOrder : data.words;
+  }, [data, shuffled, shuffledOrder]);
+
+  const filteredWords = useMemo(() => {
+    if (filter === "all") return baseWords;
+    if (filter === "unseen") return baseWords.filter((w) => !vocabStatus[w.id]);
+    return baseWords.filter((w) => vocabStatus[w.id] === "review");
+  }, [baseWords, filter, vocabStatus]);
+
+  const handleShuffle = useCallback(() => {
+    if (!data) return;
+    setShuffledOrder(shuffle(data.words));
+    setShuffled(true);
+    setCurrentIndex(0);
+  }, [data]);
 
   if (!data) {
     return (
@@ -106,8 +120,8 @@ export default function VocabSessionPage() {
         </div>
       </div>
 
-      {/* Filter tabs */}
-      <div className="flex gap-1 mb-4">
+      {/* Filter tabs + shuffle */}
+      <div className="flex items-center gap-1 mb-4">
         {filters.map((f) => (
           <button
             key={f.key}
@@ -121,6 +135,13 @@ export default function VocabSessionPage() {
             {f.label}
           </button>
         ))}
+        <button
+          onClick={handleShuffle}
+          className="ml-auto text-[10px] font-semibold px-3 py-1 rounded-full bg-surface-dim text-muted hover:text-foreground transition-colors"
+          title="シャッフル"
+        >
+          🔀 シャッフル
+        </button>
       </div>
 
       <div className="w-full bg-surface-dim rounded-full h-1 mb-8">

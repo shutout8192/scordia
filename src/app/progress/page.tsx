@@ -38,7 +38,7 @@ export default function ProgressPage() {
   });
 
   const categoryLabelMap: Record<string, string> = {
-    grammar: "文法", vocabulary: "語彙", review: "復習", diagnosis: "診断",
+    grammar: "文法", vocabulary: "語彙", mixed: "総合", review: "復習", diagnosis: "診断",
     part1: "リスニングPart1", part2: "リスニングPart2", part3: "リスニングPart3",
   };
 

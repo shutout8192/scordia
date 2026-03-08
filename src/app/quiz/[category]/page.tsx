@@ -17,9 +17,19 @@ import { shuffle } from "@/lib/shuffle";
 import grammarData from "@/data/quiz/grammar.json";
 import vocabularyData from "@/data/quiz/vocabulary.json";
 
+const mixedData: QuizCategory = {
+  category: "mixed",
+  categoryLabel: "総合問題",
+  questions: [
+    ...(grammarData.questions as QuizCategory["questions"]),
+    ...(vocabularyData.questions as QuizCategory["questions"]),
+  ],
+};
+
 const dataMap: Record<string, QuizCategory> = {
   grammar: grammarData as QuizCategory,
   vocabulary: vocabularyData as QuizCategory,
+  mixed: mixedData,
 };
 
 export default function QuizSessionPage() {
