@@ -29,9 +29,14 @@ export default function VocabularyPage() {
             <p className="text-sm text-muted leading-relaxed mb-3">
               {cat.description}
             </p>
-            <span className="inline-block text-xs font-semibold text-primary bg-primary/10 px-3 py-1 rounded-full">
-              目標 {cat.targetScore}点
-            </span>
+            <div className="flex items-center justify-center gap-2">
+              <span className="text-xs font-semibold text-primary bg-primary/10 px-3 py-1 rounded-full">
+                目標 {cat.targetScore}点
+              </span>
+              <span className="text-xs font-semibold text-muted bg-surface-dim px-3 py-1 rounded-full">
+                {cat.wordCount}語
+              </span>
+            </div>
           </Link>
         ))}
       </div>

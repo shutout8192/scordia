@@ -33,9 +33,9 @@ export const QUIZ_CATEGORIES = [
 ] as const;
 
 export const VOCAB_CATEGORIES = [
-  { slug: "beginner", label: "初級（600点レベル）", description: "TOEIC600点を目指す基本単語", icon: "🌱", targetScore: 600 },
-  { slug: "intermediate", label: "中級（730点レベル）", description: "TOEIC730点を目指す重要単語", icon: "🌿", targetScore: 730 },
-  { slug: "advanced", label: "上級（860点レベル）", description: "TOEIC860点を目指す上級単語", icon: "🌳", targetScore: 860 },
+  { slug: "beginner", label: "初級（600点レベル）", description: "TOEIC600点を目指す基本単語", icon: "🌱", targetScore: 600, wordCount: 250 },
+  { slug: "intermediate", label: "中級（730点レベル）", description: "TOEIC730点を目指す重要単語", icon: "🌿", targetScore: 730, wordCount: 250 },
+  { slug: "advanced", label: "上級（860点レベル）", description: "TOEIC860点を目指す上級単語", icon: "🌳", targetScore: 860, wordCount: 250 },
 ] as const;
 
 export const LISTENING_CATEGORIES = [
