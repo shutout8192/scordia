@@ -5,6 +5,8 @@ import Link from "next/link";
 import AudioPlayer from "@/components/listening/AudioPlayer";
 import { ListeningCategory, ListeningQuestion } from "@/types/listening";
 import { saveSession, addWrongAnswers, WrongAnswer } from "@/lib/storage";
+import ShareButtons from "@/components/share/ShareButtons";
+import { SITE_NAME } from "@/lib/constants";
 import { shuffle } from "@/lib/shuffle";
 
 import part1Data from "@/data/listening/part1.json";
@@ -111,6 +113,16 @@ export default function ListeningSessionPage() {
     const percent = Math.round((correctCount / questions.length) * 100);
     const circumference = 2 * Math.PI * 32;
     const strokeDashoffset = circumference - (percent / 100) * circumference;
+    const elapsed = Math.round((Date.now() - startTime.current) / 1000);
+    const minutes = Math.floor(elapsed / 60);
+    const secs = elapsed % 60;
+    const getMessage = () => {
+      if (percent >= 90) return "素晴らしい！完璧に近い成績です！";
+      if (percent >= 70) return "よくできました！この調子で！";
+      if (percent >= 50) return "まずまず。復習でスコアアップを！";
+      return "復習して再挑戦しましょう。";
+    };
+    const shareText = `${SITE_NAME}の${data.categoryLabel}で${correctCount}/${questions.length}問正解（${percent}%）でした！`;
     return (
       <div className="max-w-sm mx-auto px-4 py-16 text-center">
         <p className="text-xs text-muted mb-1">{data.categoryLabel}</p>
@@ -125,9 +137,17 @@ export default function ListeningSessionPage() {
             <div className="text-[10px] text-muted">{correctCount}/{questions.length}</div>
           </div>
         </div>
-        <div className="flex justify-center gap-2.5">
+        <p className="text-xs font-medium mb-1">{getMessage()}</p>
+        <p className="text-[10px] text-muted mb-4">
+          所要時間: {minutes}分{secs.toString().padStart(2, "0")}秒
+        </p>
+        <div className="flex justify-center mb-5">
+          <ShareButtons text={shareText} compact />
+        </div>
+        <div className="flex justify-center gap-3">
           <Link href={`/listening/${category}`} className="text-xs font-semibold text-primary hover:underline">もう一度挑戦</Link>
           <Link href="/listening" className="text-xs font-semibold text-muted hover:text-primary hover:underline">カテゴリ一覧</Link>
+          <Link href="/progress" className="text-xs font-semibold text-muted hover:text-primary hover:underline">学習記録</Link>
         </div>
       </div>
     );
