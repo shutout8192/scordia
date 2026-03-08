@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { SITE_NAME, SITE_URL, SITE_DESCRIPTION } from "@/lib/constants";
+import StreakBanner from "@/components/progress/StreakBanner";
 
 const jsonLd = {
   "@context": "https://schema.org",
@@ -106,6 +107,9 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* Streak banner */}
+      <StreakBanner />
 
       {/* Stats bar */}
       <section className="max-w-3xl mx-auto px-5 -mt-6">
