@@ -6,6 +6,8 @@ export interface ListeningQuestion {
   answer: string;
   explanation: string;
   difficulty: number;
+  imageUrl?: string;
+  imageSource?: string;
   sceneEmoji?: string;
   sceneJa?: string;
   sceneBg?: string;

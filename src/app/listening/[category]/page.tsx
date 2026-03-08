@@ -133,14 +133,18 @@ export default function ListeningSessionPage() {
         {category === "part1" ? (
           <>
             <p className="text-xs text-muted mb-3">写真を見て音声を聞き、正しい描写を選んでください。</p>
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
-              src={`/images/listening/${question.id}.png`}
-              alt={question.sceneJa || "場面写真"}
-              width={600}
-              height={400}
-              className="w-full rounded-lg border border-border/40 mb-3"
-            />
+            {question.imageUrl ? (
+              /* eslint-disable-next-line @next/next/no-img-element */
+              <img
+                src={question.imageUrl}
+                alt={question.sceneJa || "場面写真"}
+                className="w-full rounded-lg border border-border/40 mb-3 aspect-[3/2] object-cover"
+              />
+            ) : (
+              <div className="w-full rounded-lg border border-border/40 mb-3 aspect-[3/2] bg-surface-dim flex items-center justify-center text-4xl">
+                {question.sceneEmoji || "🖼️"}
+              </div>
+            )}
             <AudioPlayer text={question.transcript} mode="choices" choices={question.choices} />
           </>
         ) : category === "part3" ? (
