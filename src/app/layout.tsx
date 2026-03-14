@@ -20,7 +20,11 @@ export const metadata: Metadata = {
     template: `%s | ${SITE_NAME}`,
   },
   description: SITE_DESCRIPTION,
+  keywords: ["TOEIC", "TOEIC対策", "TOEIC問題", "TOEIC模擬試験", "TOEIC文法", "TOEIC語彙", "TOEICリスニング", "TOEIC単語", "英語学習", "無料", "スコア診断"],
   metadataBase: new URL(SITE_URL),
+  alternates: {
+    canonical: SITE_URL,
+  },
   openGraph: {
     type: "website",
     locale: "ja_JP",

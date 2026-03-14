@@ -443,6 +443,414 @@
       "explanation": "ヘッドセットをつけた女性がデスクでコンピュータに向かって作業しています。後ろにも同じくヘッドセットをつけた同僚が見えます。コールセンターの場面です。",
       "difficulty": 2,
       "sceneJa": "コールセンター"
+    },
+    {
+      "id": "lp1_027",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/1586996/pexels-photo-1586996.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:1586996",
+      "transcript": "(A) A man in a suit is sitting at a desk with a laptop. (B) The desk has been cleared completely. (C) A woman is watering a large plant. (D) Two people are moving a desk.",
+      "choices": [
+        { "label": "A", "text": "A man in a suit is sitting at a desk with a laptop." },
+        { "label": "B", "text": "The desk has been cleared completely." },
+        { "label": "C", "text": "A woman is watering a large plant." },
+        { "label": "D", "text": "Two people are moving a desk." }
+      ],
+      "answer": "A",
+      "explanation": "スーツを着た男性がデスクに座り、ノートパソコンの前で仕事をしています。デスクにはコーヒーカップ、ランプ、小さな植物もあります。",
+      "difficulty": 1,
+      "sceneJa": "オフィス"
+    },
+    {
+      "id": "lp1_028",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:3807517",
+      "transcript": "(A) A mechanic is working on a car engine. (B) A man is washing a car at a car wash. (C) The garage is empty. (D) A woman is pumping gas at a gas station.",
+      "choices": [
+        { "label": "A", "text": "A mechanic is working on a car engine." },
+        { "label": "B", "text": "A man is washing a car at a car wash." },
+        { "label": "C", "text": "The garage is empty." },
+        { "label": "D", "text": "A woman is pumping gas at a gas station." }
+      ],
+      "answer": "A",
+      "explanation": "自動車整備工場で、帽子をかぶった男性がボンネットを開けた車のエンジンを修理している場面です。",
+      "difficulty": 2,
+      "sceneJa": "自動車整備工場"
+    },
+    {
+      "id": "lp1_029",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/260689/pexels-photo-260689.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:260689",
+      "transcript": "(A) People are seated around the table. (B) The conference room is empty with chairs arranged around a table. (C) A presenter is pointing at the screen. (D) Workers are setting up equipment in the room.",
+      "choices": [
+        { "label": "A", "text": "People are seated around the table." },
+        { "label": "B", "text": "The conference room is empty with chairs arranged around a table." },
+        { "label": "C", "text": "A presenter is pointing at the screen." },
+        { "label": "D", "text": "Workers are setting up equipment in the room." }
+      ],
+      "answer": "B",
+      "explanation": "誰もいない近代的な会議室で、白いテーブルの周りに黒い椅子が並べられ、壁にはテレビモニターが設置されています。",
+      "difficulty": 2,
+      "sceneJa": "会議室"
+    },
+    {
+      "id": "lp1_030",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/1005638/pexels-photo-1005638.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:1005638",
+      "transcript": "(A) A cashier is scanning items at the register. (B) A shopping cart is in the aisle of a supermarket. (C) The store shelves are completely empty. (D) A worker is stacking products on the top shelf.",
+      "choices": [
+        { "label": "A", "text": "A cashier is scanning items at the register." },
+        { "label": "B", "text": "A shopping cart is in the aisle of a supermarket." },
+        { "label": "C", "text": "The store shelves are completely empty." },
+        { "label": "D", "text": "A worker is stacking products on the top shelf." }
+      ],
+      "answer": "B",
+      "explanation": "スーパーマーケットの通路で、商品が入ったショッピングカートが写っています。両側の棚には多くの商品が並んでいます。",
+      "difficulty": 1,
+      "sceneJa": "スーパーマーケット"
+    },
+    {
+      "id": "lp1_031",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/935756/pexels-photo-935756.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:935756",
+      "transcript": "(A) A woman wearing glasses is using a laptop at her desk. (B) A man is reading a book on a sofa. (C) The desk has been cleared of all items. (D) Two people are having a meeting.",
+      "choices": [
+        { "label": "A", "text": "A woman wearing glasses is using a laptop at her desk." },
+        { "label": "B", "text": "A man is reading a book on a sofa." },
+        { "label": "C", "text": "The desk has been cleared of all items." },
+        { "label": "D", "text": "Two people are having a meeting." }
+      ],
+      "answer": "A",
+      "explanation": "眼鏡をかけた女性が笑顔でデスクのノートパソコンを使っています。デスクの周りにはペンや画材が見えます。",
+      "difficulty": 1,
+      "sceneJa": "ワークスペース"
+    },
+    {
+      "id": "lp1_032",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/3184394/pexels-photo-3184394.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:3184394",
+      "transcript": "(A) A group of people is standing together for a photo. (B) Everyone is sitting at their desks. (C) A woman is giving a speech on stage. (D) The hallway is empty.",
+      "choices": [
+        { "label": "A", "text": "A group of people is standing together for a photo." },
+        { "label": "B", "text": "Everyone is sitting at their desks." },
+        { "label": "C", "text": "A woman is giving a speech on stage." },
+        { "label": "D", "text": "The hallway is empty." }
+      ],
+      "answer": "A",
+      "explanation": "7人のグループが横一列に並び、笑顔で一緒にポーズをとっている場面です。背景に黒板が見えます。",
+      "difficulty": 1,
+      "sceneJa": "オフィス"
+    },
+    {
+      "id": "lp1_033",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/2422280/pexels-photo-2422280.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:2422280",
+      "transcript": "(A) A man and a woman are sitting in armchairs having a conversation. (B) Two people are standing by the elevator. (C) A receptionist is greeting visitors. (D) The waiting room is empty.",
+      "choices": [
+        { "label": "A", "text": "A man and a woman are sitting in armchairs having a conversation." },
+        { "label": "B", "text": "Two people are standing by the elevator." },
+        { "label": "C", "text": "A receptionist is greeting visitors." },
+        { "label": "D", "text": "The waiting room is empty." }
+      ],
+      "answer": "A",
+      "explanation": "男性と女性が向かい合ってアームチェアに座り、間に小さなテーブルを挟んで会話をしている場面です。",
+      "difficulty": 2,
+      "sceneJa": "ラウンジ"
+    },
+    {
+      "id": "lp1_034",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/3184416/pexels-photo-3184416.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:3184416",
+      "transcript": "(A) Everyone is looking at a computer screen. (B) Four colleagues are standing, and two of them are shaking hands. (C) A man is sitting alone at a desk. (D) The office door is being locked.",
+      "choices": [
+        { "label": "A", "text": "Everyone is looking at a computer screen." },
+        { "label": "B", "text": "Four colleagues are standing, and two of them are shaking hands." },
+        { "label": "C", "text": "A man is sitting alone at a desk." },
+        { "label": "D", "text": "The office door is being locked." }
+      ],
+      "answer": "B",
+      "explanation": "4人の同僚が立っており、そのうち2人が笑顔で握手をしています。残りの2人も笑顔で見守っています。",
+      "difficulty": 2,
+      "sceneJa": "オフィス"
+    },
+    {
+      "id": "lp1_035",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/3184338/pexels-photo-3184338.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:3184338",
+      "transcript": "(A) Three people are sitting at a table looking at charts and laptops. (B) A janitor is mopping the floor. (C) The office lights have been turned off. (D) A man is hanging a picture on the wall.",
+      "choices": [
+        { "label": "A", "text": "Three people are sitting at a table looking at charts and laptops." },
+        { "label": "B", "text": "A janitor is mopping the floor." },
+        { "label": "C", "text": "The office lights have been turned off." },
+        { "label": "D", "text": "A man is hanging a picture on the wall." }
+      ],
+      "answer": "A",
+      "explanation": "3人のビジネスパーソンが会議テーブルに座り、グラフの印刷物やノートパソコンを見ながら笑顔で話し合っています。",
+      "difficulty": 1,
+      "sceneJa": "オフィス"
+    },
+    {
+      "id": "lp1_036",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/3205567/pexels-photo-3205567.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:3205567",
+      "transcript": "(A) A woman is showing a document on a clipboard to her colleagues. (B) Everyone is eating lunch together. (C) A man is unpacking boxes in a storage room. (D) The meeting has already ended.",
+      "choices": [
+        { "label": "A", "text": "A woman is showing a document on a clipboard to her colleagues." },
+        { "label": "B", "text": "Everyone is eating lunch together." },
+        { "label": "C", "text": "A man is unpacking boxes in a storage room." },
+        { "label": "D", "text": "The meeting has already ended." }
+      ],
+      "answer": "A",
+      "explanation": "会議テーブルで、赤いセーターの女性がクリップボードの書類を同僚に見せています。隣の男性が考え込んでいます。",
+      "difficulty": 2,
+      "sceneJa": "オフィス"
+    },
+    {
+      "id": "lp1_037",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:1181244",
+      "transcript": "(A) A person is working on a laptop while holding a phone at a cafe. (B) A waiter is serving coffee to customers. (C) The cafe is closed and empty. (D) A woman is reading a newspaper.",
+      "choices": [
+        { "label": "A", "text": "A person is working on a laptop while holding a phone at a cafe." },
+        { "label": "B", "text": "A waiter is serving coffee to customers." },
+        { "label": "C", "text": "The cafe is closed and empty." },
+        { "label": "D", "text": "A woman is reading a newspaper." }
+      ],
+      "answer": "A",
+      "explanation": "カフェの丸テーブルで、一人がノートパソコンを使いながらスマートフォンを手に持っています。テーブルにはコーヒーカップと眼鏡も見えます。",
+      "difficulty": 2,
+      "sceneJa": "カフェ"
+    },
+    {
+      "id": "lp1_038",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/3184406/pexels-photo-3184406.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:3184406",
+      "transcript": "(A) A woman with glasses is standing with her arms crossed while others work behind her. (B) Everyone is leaving the office. (C) A man is fixing a printer. (D) The office is completely dark.",
+      "choices": [
+        { "label": "A", "text": "A woman with glasses is standing with her arms crossed while others work behind her." },
+        { "label": "B", "text": "Everyone is leaving the office." },
+        { "label": "C", "text": "A man is fixing a printer." },
+        { "label": "D", "text": "The office is completely dark." }
+      ],
+      "answer": "A",
+      "explanation": "眼鏡をかけた女性が腕を組んでカメラに向かって立っており、背景ではチームメンバーがデスクで作業をしています。",
+      "difficulty": 2,
+      "sceneJa": "オフィス"
+    },
+    {
+      "id": "lp1_039",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:5668858",
+      "transcript": "(A) Two people are facing each other across a desk, one is writing notes. (B) A student is taking an exam alone. (C) The desk is empty and the room is dark. (D) A group is playing cards at a table.",
+      "choices": [
+        { "label": "A", "text": "Two people are facing each other across a desk, one is writing notes." },
+        { "label": "B", "text": "A student is taking an exam alone." },
+        { "label": "C", "text": "The desk is empty and the room is dark." },
+        { "label": "D", "text": "A group is playing cards at a table." }
+      ],
+      "answer": "A",
+      "explanation": "デスクを挟んで2人が向かい合っており、一方がメモを取り、もう一方はノートパソコンを前にしています。面接や相談の場面です。",
+      "difficulty": 3,
+      "sceneJa": "オフィス"
+    },
+    {
+      "id": "lp1_040",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/2977565/pexels-photo-2977565.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:2977565",
+      "transcript": "(A) A man and a woman are having a discussion at a table with a laptop. (B) Two people are standing at a reception desk. (C) The meeting room windows are closed. (D) A waiter is taking orders.",
+      "choices": [
+        { "label": "A", "text": "A man and a woman are having a discussion at a table with a laptop." },
+        { "label": "B", "text": "Two people are standing at a reception desk." },
+        { "label": "C", "text": "The meeting room windows are closed." },
+        { "label": "D", "text": "A waiter is taking orders." }
+      ],
+      "answer": "A",
+      "explanation": "大きな窓のある明るいオフィスで、男性と女性がテーブルに座り、ノートパソコンを前に笑顔で話し合っています。",
+      "difficulty": 1,
+      "sceneJa": "オフィス"
+    },
+    {
+      "id": "lp1_041",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/2199293/pexels-photo-2199293.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:2199293",
+      "transcript": "(A) Cars are parked in a parking lot. (B) Large trucks are on the highway. (C) A bicycle is leaning against a fence. (D) A train is arriving at the station.",
+      "choices": [
+        { "label": "A", "text": "Cars are parked in a parking lot." },
+        { "label": "B", "text": "Large trucks are on the highway." },
+        { "label": "C", "text": "A bicycle is leaning against a fence." },
+        { "label": "D", "text": "A train is arriving at the station." }
+      ],
+      "answer": "B",
+      "explanation": "複数の白い大型トラックが道路上に停車・走行しています。背景には木々が見えます。物流・輸送の場面です。",
+      "difficulty": 1,
+      "sceneJa": "道路"
+    },
+    {
+      "id": "lp1_042",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/3760263/pexels-photo-3760263.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:3760263",
+      "transcript": "(A) A man is talking on the phone while sitting at a desk. (B) A woman is pouring water into a glass. (C) The office is being cleaned. (D) Two people are carrying furniture.",
+      "choices": [
+        { "label": "A", "text": "A man is talking on the phone while sitting at a desk." },
+        { "label": "B", "text": "A woman is pouring water into a glass." },
+        { "label": "C", "text": "The office is being cleaned." },
+        { "label": "D", "text": "Two people are carrying furniture." }
+      ],
+      "answer": "A",
+      "explanation": "白いシャツの男性がデスクに座り、笑顔で電話をしています。目の前にはノートパソコンとコーヒーカップがあります。",
+      "difficulty": 1,
+      "sceneJa": "オフィス"
+    },
+    {
+      "id": "lp1_043",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/4481259/pexels-photo-4481259.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:4481259",
+      "transcript": "(A) Two workers are standing in a warehouse with shelves of boxes. (B) A delivery person is ringing a doorbell. (C) The warehouse has been completely emptied. (D) A truck is being unloaded at a dock.",
+      "choices": [
+        { "label": "A", "text": "Two workers are standing in a warehouse with shelves of boxes." },
+        { "label": "B", "text": "A delivery person is ringing a doorbell." },
+        { "label": "C", "text": "The warehouse has been completely emptied." },
+        { "label": "D", "text": "A truck is being unloaded at a dock." }
+      ],
+      "answer": "A",
+      "explanation": "大きな倉庫で、金属製の棚に段ボール箱が積まれている中、2人の作業員が立って作業をしている場面です。",
+      "difficulty": 2,
+      "sceneJa": "倉庫"
+    },
+    {
+      "id": "lp1_044",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/2041540/pexels-photo-2041540.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:2041540",
+      "transcript": "(A) Students are studying at tables in a classroom. (B) Books are arranged on curved shelves in a library. (C) A librarian is checking out books for a customer. (D) The bookshelves have been cleared.",
+      "choices": [
+        { "label": "A", "text": "Students are studying at tables in a classroom." },
+        { "label": "B", "text": "Books are arranged on curved shelves in a library." },
+        { "label": "C", "text": "A librarian is checking out books for a customer." },
+        { "label": "D", "text": "The bookshelves have been cleared." }
+      ],
+      "answer": "B",
+      "explanation": "カーブした本棚にたくさんの本が並んでいる図書館の内部です。アームチェアが置かれ、温かみのある照明で照らされています。",
+      "difficulty": 2,
+      "sceneJa": "図書館"
+    },
+    {
+      "id": "lp1_045",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/906494/pexels-photo-906494.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:906494",
+      "transcript": "(A) Ships are sailing across the ocean. (B) Shipping containers are stacked at a port. (C) Workers are loading cargo onto a plane. (D) A parking lot is full of cars.",
+      "choices": [
+        { "label": "A", "text": "Ships are sailing across the ocean." },
+        { "label": "B", "text": "Shipping containers are stacked at a port." },
+        { "label": "C", "text": "Workers are loading cargo onto a plane." },
+        { "label": "D", "text": "A parking lot is full of cars." }
+      ],
+      "answer": "B",
+      "explanation": "港にカラフルな輸送用コンテナが何段にも積み重ねられています。青空の下、国際物流の拠点の風景です。",
+      "difficulty": 2,
+      "sceneJa": "港"
+    },
+    {
+      "id": "lp1_046",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/1267697/pexels-photo-1267697.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:1267697",
+      "transcript": "(A) Four women are sitting together at an outdoor restaurant. (B) A chef is grilling food on a barbecue. (C) The patio furniture has been put away. (D) A man is sweeping the terrace.",
+      "choices": [
+        { "label": "A", "text": "Four women are sitting together at an outdoor restaurant." },
+        { "label": "B", "text": "A chef is grilling food on a barbecue." },
+        { "label": "C", "text": "The patio furniture has been put away." },
+        { "label": "D", "text": "A man is sweeping the terrace." }
+      ],
+      "answer": "A",
+      "explanation": "4人の女性がテラス席のテーブルを囲み、ドリンクを手に笑いながら談笑している場面です。",
+      "difficulty": 1,
+      "sceneJa": "テラス席"
+    },
+    {
+      "id": "lp1_047",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/1181605/pexels-photo-1181605.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:1181605",
+      "transcript": "(A) Two women are sitting at a table talking with notebooks open. (B) A man is writing on a whiteboard. (C) The conference room is being set up. (D) Everyone has left the building.",
+      "choices": [
+        { "label": "A", "text": "Two women are sitting at a table talking with notebooks open." },
+        { "label": "B", "text": "A man is writing on a whiteboard." },
+        { "label": "C", "text": "The conference room is being set up." },
+        { "label": "D", "text": "Everyone has left the building." }
+      ],
+      "answer": "A",
+      "explanation": "2人の女性が白いテーブルでノートを開きながら笑顔で話し合っています。窓からはビルの外観が見えます。",
+      "difficulty": 1,
+      "sceneJa": "オフィス"
+    },
+    {
+      "id": "lp1_048",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:1181263",
+      "transcript": "(A) Two women are looking at a laptop screen together. (B) A man is repairing a broken monitor. (C) Everyone is standing by the window. (D) The computers have all been turned off.",
+      "choices": [
+        { "label": "A", "text": "Two women are looking at a laptop screen together." },
+        { "label": "B", "text": "A man is repairing a broken monitor." },
+        { "label": "C", "text": "Everyone is standing by the window." },
+        { "label": "D", "text": "The computers have all been turned off." }
+      ],
+      "answer": "A",
+      "explanation": "2人の女性が一緒にノートパソコンの画面を見ています。一人が画面を指さしながら説明しているようです。",
+      "difficulty": 2,
+      "sceneJa": "オフィス"
+    },
+    {
+      "id": "lp1_049",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/1181421/pexels-photo-1181421.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:1181421",
+      "transcript": "(A) Women are having a discussion around a conference table. (B) A teacher is writing on a chalkboard. (C) Students are leaving the classroom. (D) The room is empty and dark.",
+      "choices": [
+        { "label": "A", "text": "Women are having a discussion around a conference table." },
+        { "label": "B", "text": "A teacher is writing on a chalkboard." },
+        { "label": "C", "text": "Students are leaving the classroom." },
+        { "label": "D", "text": "The room is empty and dark." }
+      ],
+      "answer": "A",
+      "explanation": "複数の女性が会議テーブルに座って真剣に話し合っています。テーブルの上にはノートパソコンや資料が見えます。",
+      "difficulty": 2,
+      "sceneJa": "会議室"
+    },
+    {
+      "id": "lp1_050",
+      "audioFile": null,
+      "imageUrl": "https://images.pexels.com/photos/1181715/pexels-photo-1181715.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageSource": "pexels:1181715",
+      "transcript": "(A) Two women are sitting at a small round table having a conversation. (B) A man is waiting alone in a lobby. (C) The chairs have been stacked against the wall. (D) A receptionist is answering the phone.",
+      "choices": [
+        { "label": "A", "text": "Two women are sitting at a small round table having a conversation." },
+        { "label": "B", "text": "A man is waiting alone in a lobby." },
+        { "label": "C", "text": "The chairs have been stacked against the wall." },
+        { "label": "D", "text": "A receptionist is answering the phone." }
+      ],
+      "answer": "A",
+      "explanation": "2人の女性が小さな丸テーブルで向かい合って座り、笑顔で会話をしています。窓の近くの明るい場所です。",
+      "difficulty": 1,
+      "sceneJa": "オフィス"
     }
   ]
 }

@@ -37,7 +37,7 @@ const features = [
     icon: "🎧",
     title: "リスニング",
     description: "Part 1〜3形式の音声付き問題",
-    stat: "251問",
+    stat: "275問",
     statIcon: "🔊",
   },
   {
@@ -109,7 +109,7 @@ export default function HomePage() {
       <StreakBanner />
 
       {/* Stats bar */}
-      <section className="max-w-3xl mx-auto px-5 -mt-6">
+      <section className="max-w-3xl mx-auto px-5 mt-6">
         <div className="bg-surface rounded-2xl border border-border/60 shadow-sm grid grid-cols-2 sm:grid-cols-4 divide-x divide-border/40 py-5">
           {[
             { value: "2000+", label: "コンテンツ" },
