@@ -70,9 +70,6 @@ export default function HomePage() {
       {/* Hero */}
       <section className="relative overflow-hidden bg-gradient-to-br from-primary/5 via-transparent to-primary-light/10">
         <div className="max-w-3xl mx-auto px-5 pt-16 pb-12 md:pt-24 md:pb-16 text-center">
-          <span className="inline-block text-xs font-semibold tracking-wider uppercase text-primary bg-primary/10 px-4 py-1.5 rounded-full mb-6">
-            完全無料
-          </span>
           <h1 className="text-3xl md:text-4xl font-bold tracking-tight leading-tight mb-4">
             TOEIC対策の<span className="gradient-text">最短ルート</span>
           </h1>
