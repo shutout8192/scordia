@@ -1,6 +1,7 @@
 "use client";
 import { useEffect } from "react";
 import { QuizQuestion } from "@/types/quiz";
+import QuestionTimer from "@/components/ui/QuestionTimer";
 
 interface Props {
   question: QuizQuestion;
@@ -60,6 +61,11 @@ export default function QuizCard({ question, current, total, selected, answered,
           className="bg-gradient-to-r from-primary to-primary-light h-1 rounded-full progress-bar"
           style={{ width: `${(current / total) * 100}%` }}
         />
+      </div>
+
+      {/* Timer — TOEIC Part5: ~30s per question */}
+      <div className="mb-4">
+        <QuestionTimer targetSeconds={30} answered={answered} resetKey={question.id} />
       </div>
 
       {/* Question */}

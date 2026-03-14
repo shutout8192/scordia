@@ -115,7 +115,7 @@ export default function AudioPlayer({ text, mode = "single", choices }: Props) {
       utterance.rate = rate;
 
       if (seg.speaker === "woman") {
-        utterance.pitch = 1.3;
+        utterance.pitch = 1.1;
         if (voices.female) utterance.voice = voices.female;
       } else if (seg.speaker === "man") {
         utterance.pitch = 0.8;

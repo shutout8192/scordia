@@ -8,6 +8,7 @@ import { saveSession, addWrongAnswers, WrongAnswer } from "@/lib/storage";
 import ShareButtons from "@/components/share/ShareButtons";
 import { SITE_NAME } from "@/lib/constants";
 import { shuffle } from "@/lib/shuffle";
+import QuestionTimer from "@/components/ui/QuestionTimer";
 
 import part1Data from "@/data/listening/part1.json";
 import part2Data from "@/data/listening/part2.json";
@@ -175,8 +176,17 @@ export default function ListeningSessionPage() {
         </span>
         <span className="text-xs text-muted">{data.categoryLabel}</span>
       </div>
-      <div className="w-full bg-surface-dim rounded-full h-1 mb-8">
+      <div className="w-full bg-surface-dim rounded-full h-1 mb-4">
         <div className="bg-primary h-1 rounded-full progress-bar" style={{ width: `${((currentIndex + 1) / questions.length) * 100}%` }} />
+      </div>
+
+      {/* Timer — Part1: 10s, Part2: 10s, Part3: 30s */}
+      <div className="mb-4">
+        <QuestionTimer
+          targetSeconds={category === "part3" ? 30 : 10}
+          answered={answered}
+          resetKey={question.id}
+        />
       </div>
 
       <div className="bg-surface rounded-xl border border-border/60 p-5 mb-5 shadow-sm">
