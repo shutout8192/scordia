@@ -24,7 +24,7 @@ export default function AboutPage() {
           {[
             { icon: "📝", title: "模擬問題", desc: "Part 5/6形式の文法・語彙問題（1020問）" },
             { icon: "📚", title: "単語帳", desc: "レベル別（600点/730点/860点）のフラッシュカード（750語）" },
-            { icon: "🎧", title: "リスニング練習", desc: "Part 1〜3形式の音声付き問題（255問）" },
+            { icon: "🎧", title: "リスニング練習", desc: "Part 1〜3形式の音声付き問題（251問）" },
             { icon: "🎯", title: "スコア診断", desc: "15問で予想TOEICスコアを診断" },
             { icon: "📊", title: "学習記録", desc: "正答率やスコア推移のグラフ表示" },
           ].map((item) => (

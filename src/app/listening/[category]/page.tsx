@@ -230,10 +230,13 @@ export default function ListeningSessionPage() {
         {question.choices.map((c) => (
           <button key={c.label} onClick={() => handleSelect(c.label)} disabled={answered} className={getOptionStyle(c.label)}>
             <span className="inline-flex items-center justify-center w-5 h-5 rounded text-[11px] font-bold bg-surface-dim mr-2">{c.label}</span>
-            {c.text}
+            {category === "part1" && !answered ? null : c.text}
           </button>
         ))}
       </div>
+      {category === "part1" && !answered && (
+        <p className="text-[10px] text-muted text-center mt-2">※ 音声を聞いてA〜Dから選んでください（本番と同じ形式）</p>
+      )}
 
       {answered && (
         <>
